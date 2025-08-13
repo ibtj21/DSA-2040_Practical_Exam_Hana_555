@@ -26,20 +26,22 @@ This repository contains the complete submission for the DSA 2040 end-semester p
 ---
 
 ## Folder Structure
-DSA_2040_Practical_Exam_Hana_555
+
+DSA_2040_Practical_Exam_Hana_555/
 │
-├─ etl_retail.py # ETL implementation for retail DW
-├─ retail_dw.db # SQLite database (fact & dimension tables)
-├─ preprocessing_iris.py # Iris preprocessing, exploration
-├─ clustering_iris.py # K-Means clustering implementation
-├─ classification_iris.py # Classification and rule mining
-├─ sql_queries.sql # OLAP and other SQL queries
-├─ images/ # Visualizations and schema diagrams
-│ ├─ schema.png
-│ ├─ sales_by_country.png
-│ ├─ pairplot_iris.png
-│ └─ clusters.png
-└─ README.md
+├─ `etl_retail.py`          - ETL implementation for retail DW  
+├─ `retail_dw.db`           - SQLite database (fact & dimension tables)  
+├─ `preprocessing_iris.py`  - Iris preprocessing, exploration  
+├─ `clustering_iris.py`     - K-Means clustering implementation  
+├─ `classification_iris.py` - Classification and rule mining  
+├─ `sql_queries.sql`        - OLAP and other SQL queries  
+├─ `images/`                - Visualizations and schema diagrams  
+│   ├─ `schema.png`  
+│   ├─ `sales_by_country.png`  
+│   ├─ `pairplot_iris.png`  
+│   └─ `clusters.png`  
+└─ `README.md`
+
 
 
 ## Overview
