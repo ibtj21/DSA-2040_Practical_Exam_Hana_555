@@ -1,1001 +1,1001 @@
 InvoiceNo,StockCode,Description,Category,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,CustomerName
-INV93810,E002,Bluetooth Headphones,Electronics,2,2024-05-19 08:54:58,23.1,CUST95,Germany,Nathaniel Ross
-INV98696,T003,RC Car,Toys,35,2023-11-09 21:29:57,42.77,CUST4,Germany,Craig Perkins
-INV38657,C001,Men's T-Shirt,Clothing,33,2025-04-19 00:57:58,56.56,CUST92,Norway,Ruben Murphy
-INV38893,H002,Wall Clock,Home Goods,38,2024-05-22 00:14:11,76.12,CUST21,Norway,Lance Harris
-INV54597,C002,Women's Jeans,Clothing,10,2024-03-19 12:15:18,11.12,CUST49,Germany,Stacie Allen
-INV57052,C003,Baseball Cap,Clothing,39,2024-05-08 01:34:55,73.24,CUST69,Germany,Victoria Franklin
-INV59615,E002,Bluetooth Headphones,Electronics,36,2024-06-07 22:53:17,62.23,CUST47,Spain,Kathryn Gomez
-INV19116,E001,Wireless Mouse,Electronics,43,2024-04-01 10:32:10,98.54,CUST30,Germany,Hannah Miller
-INV59823,C002,Women's Jeans,Clothing,30,2025-05-23 13:16:59,17.1,CUST46,Spain,Melissa Brown
-INV97841,C002,Women's Jeans,Clothing,45,2025-07-11 23:35:39,8.07,CUST82,France,Michael Payne
-INV80010,T003,RC Car,Toys,16,2024-01-26 16:49:49,38.57,CUST82,Spain,Michael Payne
-INV99733,C003,Baseball Cap,Clothing,50,2023-10-08 08:20:21,82.36,CUST41,Norway,Amanda Vega
-INV45093,E002,Bluetooth Headphones,Electronics,14,2025-03-14 11:27:25,22.05,CUST64,Norway,William Rodriguez
-INV94259,H002,Wall Clock,Home Goods,10,2024-05-09 05:05:01,25.42,CUST72,Netherlands,Amy Lowe
-INV86622,H001,Ceramic Mug,Home Goods,38,2024-09-23 13:10:47,22.71,CUST18,Portugal,Victoria Kennedy
-INV21915,E001,Wireless Mouse,Electronics,8,2024-01-15 22:50:40,16.84,CUST88,Norway,Jonathan Sullivan
-INV88172,E002,Bluetooth Headphones,Electronics,25,2024-09-05 21:41:44,99.62,CUST68,Netherlands,Brian Johnson
-INV82512,E001,Wireless Mouse,Electronics,44,2023-12-07 19:33:01,75.34,CUST99,Italy,Laura Davis
-INV24621,C002,Women's Jeans,Clothing,28,2024-01-20 16:31:10,1.32,CUST93,Netherlands,John Campos
-INV75612,E003,Smartphone Charger,Electronics,33,2023-11-28 22:45:59,30.55,CUST82,Spain,Michael Payne
-INV30032,C003,Baseball Cap,Clothing,49,2024-01-24 19:38:17,95.4,CUST68,United Kingdom,Brian Johnson
-INV88504,C003,Baseball Cap,Clothing,32,2023-08-31 04:04:22,92.98,CUST40,Spain,Adam Lewis
-INV17592,C001,Men's T-Shirt,Clothing,37,2023-10-31 03:07:06,73.46,CUST9,France,Erik Powell
-INV26828,T002,Building Blocks Set,Toys,31,2025-02-24 06:00:43,27.24,CUST78,Norway,Ricky Perry
-INV37760,H003,LED Desk Lamp,Home Goods,49,2025-07-18 07:19:25,71.58,CUST52,Italy,Ashley Davis
-INV67422,H003,LED Desk Lamp,Home Goods,29,2023-12-13 09:01:33,23.25,CUST44,United Kingdom,Mary Thompson
-INV87110,H003,LED Desk Lamp,Home Goods,15,2025-04-05 08:01:04,1.71,CUST91,United Kingdom,Michael Joseph DDS
-INV40007,E002,Bluetooth Headphones,Electronics,3,2024-07-15 02:34:47,51.9,CUST36,Portugal,Jacob Carter
-INV38080,H003,LED Desk Lamp,Home Goods,9,2025-03-18 20:58:45,47.79,CUST61,Norway,Mr. Christopher Dunlap
-INV34957,E002,Bluetooth Headphones,Electronics,7,2025-06-16 15:41:38,36.08,CUST53,Portugal,Kimberly Garza
-INV17100,T002,Building Blocks Set,Toys,42,2025-06-03 03:34:59,7.0,CUST94,Italy,Mark King
-INV24322,C001,Men's T-Shirt,Clothing,13,2024-02-22 19:31:32,45.41,CUST55,France,Walter Ashley
-INV46509,H002,Wall Clock,Home Goods,16,2023-10-28 16:08:02,80.99,CUST71,Germany,Jessica Sanchez
-INV16630,T002,Building Blocks Set,Toys,35,2023-08-27 03:23:44,92.71,CUST31,France,Margaret Evans
-INV63269,H002,Wall Clock,Home Goods,31,2024-03-17 14:36:05,90.34,CUST22,Norway,Bryan Anderson
-INV10282,H001,Ceramic Mug,Home Goods,17,2024-11-19 10:23:08,42.88,CUST94,Portugal,Mark King
-INV30289,C001,Men's T-Shirt,Clothing,19,2024-03-21 02:07:45,58.34,CUST70,United Kingdom,Darrell Salazar
-INV51104,E001,Wireless Mouse,Electronics,4,2025-04-01 17:21:33,50.78,CUST68,France,Brian Johnson
-INV17455,H003,LED Desk Lamp,Home Goods,6,2024-02-18 02:29:41,59.91,CUST87,Spain,Laura Mack
-INV62923,E002,Bluetooth Headphones,Electronics,37,2024-04-20 21:04:40,59.86,CUST80,Germany,Zachary Evans
-INV64948,T002,Building Blocks Set,Toys,38,2025-03-12 19:02:02,32.32,CUST34,Spain,Katherine Johnson
-INV97782,T003,RC Car,Toys,21,2024-04-12 09:40:14,40.18,CUST86,Netherlands,Ricky Gonzalez
-INV69929,C003,Baseball Cap,Clothing,49,2023-10-25 00:20:20,46.37,CUST73,Germany,Jill Frost
-INV19602,H003,LED Desk Lamp,Home Goods,14,2025-01-11 09:39:20,14.11,CUST45,Germany,Melissa Erickson
-INV42018,C003,Baseball Cap,Clothing,19,2024-01-20 15:57:13,83.54,CUST91,Netherlands,Michael Joseph DDS
-INV90173,T002,Building Blocks Set,Toys,34,2023-08-20 20:11:32,30.64,CUST85,Germany,John Bird
-INV27601,C002,Women's Jeans,Clothing,8,2023-11-29 20:08:32,16.39,CUST37,Spain,Cassidy Wells
-INV54942,C001,Men's T-Shirt,Clothing,44,2025-05-22 09:36:40,51.04,CUST33,United Kingdom,Bonnie Robinson
-INV22097,T002,Building Blocks Set,Toys,28,2024-05-21 01:36:18,1.35,CUST99,France,Laura Davis
-INV93507,C002,Women's Jeans,Clothing,11,2024-11-06 20:05:09,70.86,CUST72,United Kingdom,Amy Lowe
-INV24663,E002,Bluetooth Headphones,Electronics,45,2024-01-11 19:51:51,4.57,CUST48,France,Kimberly Carpenter
-INV66333,E003,Smartphone Charger,Electronics,3,2024-06-22 13:16:35,90.0,CUST6,Italy,Paul Flores
-INV37535,T002,Building Blocks Set,Toys,16,2025-06-24 03:44:33,36.01,CUST72,Norway,Amy Lowe
-INV91351,T003,RC Car,Toys,10,2024-04-10 05:54:59,97.64,CUST23,Norway,Kimberly Obrien
-INV13248,E003,Smartphone Charger,Electronics,48,2024-07-17 14:59:24,80.42,CUST95,Spain,Nathaniel Ross
-INV44970,E003,Smartphone Charger,Electronics,45,2023-11-30 13:55:40,87.34,CUST61,Spain,Mr. Christopher Dunlap
-INV36158,H002,Wall Clock,Home Goods,23,2024-06-19 08:17:11,23.07,CUST85,Spain,John Bird
-INV62227,C003,Baseball Cap,Clothing,18,2023-10-22 10:09:45,35.76,CUST66,Norway,Krista Barrett
-INV99065,H003,LED Desk Lamp,Home Goods,22,2023-09-09 04:11:58,87.83,CUST34,France,Katherine Johnson
-INV86099,C002,Women's Jeans,Clothing,3,2023-12-01 21:43:13,44.02,CUST94,Italy,Mark King
-INV67199,T001,Stuffed Bear,Toys,33,2023-12-08 14:01:28,90.05,CUST25,Netherlands,Amanda Singh
-INV15817,T003,RC Car,Toys,28,2023-08-13 18:55:46,92.63,CUST69,Spain,Victoria Franklin
-INV57739,H001,Ceramic Mug,Home Goods,5,2025-06-22 12:01:19,62.69,CUST85,Germany,John Bird
-INV49363,H003,LED Desk Lamp,Home Goods,20,2025-06-24 14:52:08,33.29,CUST90,Netherlands,Erika Oliver
-INV82667,E003,Smartphone Charger,Electronics,13,2024-10-15 13:48:15,68.05,CUST23,Netherlands,Kimberly Obrien
-INV63225,H003,LED Desk Lamp,Home Goods,1,2024-06-18 10:26:46,21.81,CUST75,Italy,Mr. Ricky Spence
-INV70946,H002,Wall Clock,Home Goods,29,2025-07-03 07:46:50,51.61,CUST95,France,Nathaniel Ross
-INV96356,E002,Bluetooth Headphones,Electronics,19,2025-01-20 23:02:40,62.31,CUST12,Spain,Devin Lee
-INV98184,C002,Women's Jeans,Clothing,15,2024-03-02 05:21:53,3.42,CUST32,Portugal,Nicholas Gonzalez
-INV90120,E002,Bluetooth Headphones,Electronics,30,2024-10-09 22:55:44,57.99,CUST92,Norway,Ruben Murphy
-INV74799,H001,Ceramic Mug,Home Goods,16,2024-01-10 23:53:10,0.0,CUST97,Germany,Meghan Hicks
-INV65724,C001,Men's T-Shirt,Clothing,12,2025-07-24 18:51:29,46.99,CUST72,Spain,Amy Lowe
-INV25906,H002,Wall Clock,Home Goods,9,2024-11-29 19:20:16,98.8,CUST77,Italy,Stacey Le
-INV68008,T001,Stuffed Bear,Toys,47,2025-01-09 15:32:13,83.23,CUST71,Portugal,Jessica Sanchez
-INV30861,T003,RC Car,Toys,31,2024-11-14 09:26:12,75.43,CUST82,Netherlands,Michael Payne
-INV78327,H002,Wall Clock,Home Goods,41,2024-04-12 09:59:52,44.55,CUST92,Netherlands,Ruben Murphy
-INV40735,C002,,Clothing,22,2024-07-04 19:39:58,8.98,CUST20,Spain,Anthony Robles
-INV60205,T003,RC Car,Toys,10,2025-08-04 07:47:23,7.36,CUST53,Italy,Kimberly Garza
-INV81121,H002,Wall Clock,Home Goods,27,2023-10-14 07:31:50,83.46,CUST50,United Kingdom,Andrew Russell
-INV85456,H001,Ceramic Mug,Home Goods,31,2023-08-18 12:48:25,30.56,CUST50,Norway,Andrew Russell
-INV80545,T003,RC Car,Toys,48,2025-02-21 21:57:49,89.88,CUST63,Spain,Debra Gray
-INV45774,H001,Ceramic Mug,Home Goods,32,2023-09-10 14:09:28,34.28,CUST87,Norway,Laura Mack
-INV31632,H002,Wall Clock,Home Goods,9,2025-05-10 19:26:48,3.67,CUST51,United Kingdom,Timothy Chandler
-INV21003,T002,Building Blocks Set,Toys,28,2023-12-28 16:48:35,18.99,CUST34,Norway,Katherine Johnson
-INV52906,C001,Men's T-Shirt,Clothing,30,2024-07-11 12:17:16,76.36,CUST49,Netherlands,Stacie Allen
-INV65255,C002,Women's Jeans,Clothing,6,2024-12-05 00:42:20,75.15,CUST7,Italy,Holly Price
-INV39389,T002,Building Blocks Set,Toys,5,2025-06-09 01:27:56,75.67,CUST32,Spain,Nicholas Gonzalez
-INV12671,T001,Stuffed Bear,Toys,10,2024-04-12 04:35:44,47.88,CUST15,Spain,David Chaney
-INV70952,T003,RC Car,Toys,17,2024-08-23 06:06:32,60.98,CUST96,Germany,Mary Fisher
-INV31465,C002,Women's Jeans,Clothing,7,2025-03-26 00:56:05,92.96,CUST74,Norway,Jessica Preston
-INV61990,T003,RC Car,Toys,13,2023-10-28 21:33:27,69.37,CUST81,Spain,George Frederick
-INV23356,T003,RC Car,Toys,50,2024-06-15 21:51:37,80.75,CUST73,United Kingdom,Jill Frost
-INV55508,H003,LED Desk Lamp,Home Goods,28,2025-06-19 13:29:31,7.83,CUST83,Italy,Jennifer Jones
-INV11658,H001,Ceramic Mug,Home Goods,32,2023-11-28 15:47:02,96.12,CUST82,,Michael Payne
-INV30052,H001,Ceramic Mug,Home Goods,12,2025-01-27 23:40:56,27.74,CUST69,Portugal,Victoria Franklin
-INV70931,H001,Ceramic Mug,Home Goods,47,2025-04-09 09:46:19,32.91,CUST32,Germany,Nicholas Gonzalez
-INV46559,H002,Wall Clock,Home Goods,16,2024-11-29 20:44:51,61.42,CUST49,Italy,Stacie Allen
-INV13761,H002,Wall Clock,Home Goods,21,2024-02-14 17:45:04,22.0,CUST34,Italy,Katherine Johnson
-INV46655,T001,Stuffed Bear,Toys,45,2024-05-20 20:14:08,2.0,CUST25,Germany,Amanda Singh
-INV41635,T003,RC Car,Toys,27,2024-12-24 20:12:48,76.06,CUST89,Portugal,Alyssa Miller
-INV94659,T003,RC Car,Toys,32,2024-11-12 00:37:40,10.21,CUST29,,Jennifer Orr
-INV41890,C002,Women's Jeans,Clothing,43,2025-03-29 13:26:08,47.85,CUST68,Italy,Brian Johnson
-INV65771,T003,RC Car,Toys,36,2024-07-15 12:48:32,70.58,CUST35,Netherlands,Drew Turner
-INV42951,C001,Men's T-Shirt,Clothing,8,2024-02-25 11:29:19,12.84,CUST69,France,Victoria Franklin
-INV35105,C001,Men's T-Shirt,Clothing,48,2024-12-19 10:04:01,72.73,CUST98,Netherlands,Jennifer Jennings
-INV23176,C001,Men's T-Shirt,Clothing,19,2024-03-31 13:08:21,18.76,CUST2,France,Sherry West
-INV45954,E001,Wireless Mouse,Electronics,4,2025-02-28 10:38:10,70.04,CUST17,Portugal,Tommy Cook
-INV23446,E001,Wireless Mouse,Electronics,37,2024-05-29 17:05:24,48.39,CUST44,France,Mary Thompson
-INV16734,C002,Women's Jeans,Clothing,31,2023-12-06 02:22:44,40.67,CUST10,United Kingdom,Julie Cardenas
-INV29887,E003,Smartphone Charger,Electronics,37,2024-06-18 03:06:04,99.4,CUST16,Norway,Sherri Pierce
-INV89471,T001,Stuffed Bear,Toys,40,2024-03-30 19:01:34,38.66,CUST57,Netherlands,Adrienne Adams
-INV87139,H001,Ceramic Mug,Home Goods,20,2025-03-16 22:36:39,6.96,CUST95,Germany,Nathaniel Ross
-INV37235,T002,Building Blocks Set,Toys,14,2024-05-08 02:57:21,16.55,CUST23,Germany,Kimberly Obrien
-INV30517,E001,Wireless Mouse,Electronics,27,2024-11-15 21:37:12,47.52,CUST5,Spain,Megan Tanner
-INV47762,T003,RC Car,Toys,19,2025-07-31 16:31:50,8.05,CUST30,Netherlands,Hannah Miller
-INV91927,T001,Stuffed Bear,Toys,43,2024-03-01 15:28:43,12.36,CUST29,France,Jennifer Orr
-INV44816,E003,Smartphone Charger,Electronics,5,2023-10-12 06:02:27,79.47,CUST77,Netherlands,Stacey Le
-INV67560,E002,Bluetooth Headphones,Electronics,30,2025-07-17 11:04:17,70.27,CUST35,Portugal,Drew Turner
-INV67377,E002,Bluetooth Headphones,Electronics,39,2023-09-21 15:43:46,73.72,CUST78,Netherlands,Ricky Perry
-INV13390,E002,Bluetooth Headphones,Electronics,15,2025-07-02 20:56:32,59.13,CUST3,Netherlands,Michael Kim
-INV85529,E001,Wireless Mouse,Electronics,49,2024-02-07 17:07:49,52.38,CUST57,Netherlands,Adrienne Adams
-INV33788,T001,Stuffed Bear,Toys,28,2025-05-23 17:54:11,96.94,CUST61,Italy,Mr. Christopher Dunlap
-INV63523,C003,Baseball Cap,Clothing,-21,2025-06-28 03:48:30,85.92,CUST43,Norway,Justin Moreno
-INV74942,C002,Women's Jeans,Clothing,43,2024-09-25 20:01:42,4.63,CUST12,Italy,Devin Lee
-INV43082,C003,Baseball Cap,Clothing,8,2024-09-28 18:44:09,82.67,CUST1,Portugal,Lawrence Delacruz
-INV64165,E001,Wireless Mouse,Electronics,13,2025-01-23 13:10:19,62.64,CUST64,Portugal,William Rodriguez
-INV16764,C001,Men's T-Shirt,Clothing,18,2025-02-24 04:46:12,92.84,CUST57,Portugal,Adrienne Adams
-INV25915,E001,Wireless Mouse,Electronics,41,2025-04-26 08:42:45,71.27,CUST40,United Kingdom,Adam Lewis
-INV82384,H001,Ceramic Mug,Home Goods,6,2024-03-29 04:07:51,46.68,CUST16,France,Sherri Pierce
-INV75323,T003,RC Car,Toys,19,2025-01-14 09:57:18,42.13,CUST62,Portugal,Dylan Jones
-INV41946,H002,Wall Clock,Home Goods,36,2024-01-07 13:57:57,19.87,CUST77,France,Stacey Le
-INV19150,C002,Women's Jeans,Clothing,50,2024-10-09 12:22:28,93.49,CUST65,Netherlands,Amber Berry
-INV10336,C002,Women's Jeans,Clothing,47,2024-06-12 21:22:11,58.41,CUST85,Portugal,John Bird
-INV29476,H002,Wall Clock,Home Goods,35,2024-12-19 12:33:56,33.91,CUST98,Norway,Jennifer Jennings
-INV69682,C003,Baseball Cap,Clothing,13,2025-07-26 08:41:40,57.61,CUST30,Norway,Hannah Miller
-INV15720,C003,Baseball Cap,Clothing,48,2024-12-08 13:52:48,39.22,CUST85,France,John Bird
-INV74923,E001,,Electronics,9,2025-01-07 21:29:16,33.87,CUST13,Portugal,Brandon Anderson
-INV23069,H003,LED Desk Lamp,Home Goods,30,2023-08-27 05:14:54,41.59,CUST84,France,Matthew Ramirez
-INV19807,H002,Wall Clock,Home Goods,17,2024-07-23 22:41:31,69.58,CUST84,Germany,Matthew Ramirez
-INV53065,T002,Building Blocks Set,Toys,35,2024-09-04 11:31:45,63.05,CUST98,Portugal,Jennifer Jennings
-INV80912,E001,Wireless Mouse,Electronics,40,2023-10-21 08:32:51,63.48,CUST37,Spain,Cassidy Wells
-INV21846,H001,Ceramic Mug,Home Goods,7,2025-05-21 03:39:33,44.92,CUST89,Netherlands,Alyssa Miller
-INV13794,E001,Wireless Mouse,Electronics,21,2023-10-08 10:40:52,36.49,CUST56,France,Charlene Ruiz
-INV42007,H003,LED Desk Lamp,Home Goods,27,2025-03-13 06:33:20,17.83,CUST11,Norway,Justin Hart
-INV91226,T002,Building Blocks Set,Toys,16,2025-01-02 21:13:55,15.17,CUST60,Netherlands,Anthony Williams
-INV70236,C002,Women's Jeans,Clothing,43,2023-08-21 16:56:21,90.22,CUST87,France,Laura Mack
-INV19681,H002,Wall Clock,Home Goods,23,2025-04-04 10:53:30,64.25,CUST55,Netherlands,Walter Ashley
-INV69878,C002,Women's Jeans,Clothing,13,2024-09-08 17:35:35,11.56,CUST49,Italy,Stacie Allen
-INV85341,C002,Women's Jeans,Clothing,45,2024-06-09 00:47:55,97.82,CUST85,Norway,John Bird
-INV45976,E001,Wireless Mouse,Electronics,37,2025-07-14 01:47:08,91.15,CUST96,Portugal,Mary Fisher
-INV47512,C001,Men's T-Shirt,Clothing,39,2024-08-06 07:58:25,64.03,CUST80,Netherlands,Zachary Evans
-INV98835,T003,RC Car,Toys,50,2025-06-17 04:58:47,63.2,CUST81,United Kingdom,George Frederick
-INV50492,H002,Wall Clock,Home Goods,3,2025-03-27 13:17:03,73.5,CUST12,Netherlands,Devin Lee
-INV52823,T003,RC Car,Toys,27,2024-02-07 07:18:38,14.08,CUST70,Italy,Darrell Salazar
-INV79579,H003,LED Desk Lamp,Home Goods,18,2024-01-27 09:21:21,91.49,CUST62,Netherlands,Dylan Jones
-INV54396,E002,Bluetooth Headphones,Electronics,30,2023-10-28 05:07:29,75.66,CUST29,Norway,Jennifer Orr
-INV83048,C003,Baseball Cap,Clothing,6,2024-09-19 00:30:24,27.18,CUST16,Portugal,Sherri Pierce
-INV58311,T002,Building Blocks Set,Toys,48,2025-06-30 09:32:42,58.87,CUST82,Italy,Michael Payne
-INV24201,T002,Building Blocks Set,Toys,15,2024-12-06 00:54:40,62.34,CUST72,Italy,Amy Lowe
-INV89964,C001,Men's T-Shirt,Clothing,42,2023-10-15 23:08:03,82.56,CUST90,Netherlands,Erika Oliver
-INV95097,H001,Ceramic Mug,Home Goods,8,2024-01-02 01:39:03,94.68,CUST39,Portugal,Gordon Carlson
-INV25220,E002,Bluetooth Headphones,Electronics,16,2025-02-12 04:56:21,39.48,CUST48,Norway,Kimberly Carpenter
-INV86983,T003,RC Car,Toys,47,2024-01-17 15:06:19,65.84,CUST63,Norway,Debra Gray
-INV46666,E001,Wireless Mouse,Electronics,45,2024-08-25 07:54:37,44.89,CUST31,Italy,Margaret Evans
-INV23022,T002,Building Blocks Set,Toys,24,2025-02-19 23:28:38,36.51,CUST51,Netherlands,Timothy Chandler
-INV34878,E002,Bluetooth Headphones,Electronics,30,2023-11-13 07:43:21,64.53,CUST77,United Kingdom,Stacey Le
-INV16629,C003,Baseball Cap,Clothing,16,2023-12-18 20:33:20,21.32,CUST98,Spain,Jennifer Jennings
-INV86858,C001,Men's T-Shirt,Clothing,15,2024-07-13 05:22:20,79.08,CUST77,United Kingdom,Stacey Le
-INV46342,E003,Smartphone Charger,Electronics,9,2025-02-15 09:07:33,80.05,CUST15,United Kingdom,David Chaney
-INV27275,E001,Wireless Mouse,Electronics,23,2024-04-11 21:26:22,33.05,CUST23,Netherlands,Kimberly Obrien
-INV16868,E003,Smartphone Charger,Electronics,48,2024-10-16 19:09:15,12.25,CUST9,Portugal,Erik Powell
-INV68756,C003,Baseball Cap,Clothing,33,2025-04-10 03:58:13,45.75,CUST29,United Kingdom,Jennifer Orr
-INV96363,H003,LED Desk Lamp,Home Goods,20,2024-11-23 23:25:23,96.44,CUST8,Portugal,Norman Pruitt
-INV62640,H001,Ceramic Mug,Home Goods,44,2023-11-30 17:51:00,71.53,CUST57,Germany,Adrienne Adams
-INV20589,C003,Baseball Cap,Clothing,39,2024-01-10 02:23:29,13.49,CUST80,Italy,Zachary Evans
-INV59925,T001,Stuffed Bear,Toys,34,2024-06-08 16:31:09,51.05,CUST56,Germany,Charlene Ruiz
-INV24996,T002,Building Blocks Set,Toys,42,2025-02-26 07:49:43,43.58,CUST30,Norway,Hannah Miller
-INV54424,H002,Wall Clock,Home Goods,26,2024-10-10 03:27:43,31.94,CUST41,Netherlands,Amanda Vega
-INV59060,E003,Smartphone Charger,Electronics,44,2024-12-09 02:26:39,10.03,CUST11,Germany,Justin Hart
-INV66606,E002,Bluetooth Headphones,Electronics,48,2024-08-27 04:44:14,56.08,CUST76,Italy,Eugene Lambert
-INV97819,E002,Bluetooth Headphones,Electronics,27,2024-08-08 15:23:55,86.94,CUST93,United Kingdom,John Campos
-INV47700,T001,Stuffed Bear,Toys,20,2024-08-06 03:46:19,58.21,CUST28,France,Amanda Fox
-INV96079,H002,Wall Clock,Home Goods,15,2023-11-30 12:44:50,84.69,CUST48,Germany,Kimberly Carpenter
-INV46512,T001,Stuffed Bear,Toys,15,2024-10-24 20:25:26,97.48,CUST80,United Kingdom,Zachary Evans
-INV89822,T002,Building Blocks Set,Toys,45,2024-05-11 01:03:14,18.86,CUST90,Netherlands,Erika Oliver
-INV54541,C003,Baseball Cap,Clothing,1,2024-02-13 05:12:56,57.07,CUST52,Germany,Ashley Davis
-INV28595,T003,RC Car,Toys,41,2023-09-12 03:20:26,74.87,CUST28,Norway,Amanda Fox
-INV65028,H002,Wall Clock,Home Goods,22,2024-01-20 13:28:23,31.85,CUST42,Germany,Juan Johnson
-INV16895,E003,Smartphone Charger,Electronics,11,2025-05-05 01:48:42,67.72,CUST35,Portugal,Drew Turner
-INV96761,H001,Ceramic Mug,Home Goods,32,2025-04-24 16:05:39,42.0,CUST28,Germany,Amanda Fox
-INV55242,H001,Ceramic Mug,Home Goods,8,2024-05-28 21:35:43,49.18,CUST86,Netherlands,Ricky Gonzalez
-INV15952,C001,Men's T-Shirt,Clothing,26,2025-04-16 01:59:40,1.76,CUST39,Spain,Gordon Carlson
-INV27987,C002,Women's Jeans,Clothing,19,2024-07-12 04:22:06,1.77,CUST96,Norway,Mary Fisher
-INV33028,E003,Smartphone Charger,Electronics,25,2025-02-07 08:22:41,50.53,CUST86,Italy,Ricky Gonzalez
-INV19447,H001,Ceramic Mug,Home Goods,48,2023-09-24 15:52:56,2.86,CUST10,Italy,Julie Cardenas
-INV85465,H001,Ceramic Mug,Home Goods,37,2024-09-29 23:18:24,42.35,CUST15,Norway,David Chaney
-INV12733,C003,Baseball Cap,Clothing,11,2025-05-05 16:45:05,0.0,CUST47,Germany,Kathryn Gomez
-INV67240,E002,Bluetooth Headphones,Electronics,16,2024-10-31 21:26:24,40.64,CUST11,Norway,Justin Hart
-INV50668,T003,RC Car,Toys,22,2024-03-25 12:07:35,78.13,CUST10,Germany,Julie Cardenas
-INV79547,H003,LED Desk Lamp,Home Goods,13,2024-08-03 12:46:59,73.01,CUST83,France,Jennifer Jones
-INV40968,E002,Bluetooth Headphones,Electronics,10,2024-04-30 07:10:56,18.18,CUST20,Germany,Anthony Robles
-INV33218,T002,Building Blocks Set,Toys,32,2024-11-29 20:31:29,76.23,CUST58,Italy,Angela Ferrell
-INV92210,C003,Baseball Cap,Clothing,10,2024-11-04 02:29:10,47.42,CUST81,Netherlands,George Frederick
-INV46002,T001,Stuffed Bear,Toys,4,2024-08-06 18:28:17,8.34,CUST60,Portugal,Anthony Williams
-INV14929,E001,Wireless Mouse,Electronics,24,2024-05-31 02:47:37,64.82,CUST12,Norway,Devin Lee
-INV70648,T001,Stuffed Bear,Toys,36,2023-09-23 16:22:27,91.0,CUST74,Spain,Jessica Preston
-INV52143,T001,Stuffed Bear,Toys,31,2025-01-06 05:29:33,95.81,CUST58,Germany,Angela Ferrell
-INV55015,T003,RC Car,Toys,6,2025-01-09 23:31:29,18.08,CUST32,Portugal,Nicholas Gonzalez
-INV67595,H003,LED Desk Lamp,Home Goods,34,2025-04-27 05:46:47,37.03,CUST37,Norway,Cassidy Wells
-INV63578,C003,Baseball Cap,Clothing,-44,2025-04-15 01:54:23,79.13,CUST83,Italy,Jennifer Jones
-INV18639,C003,Baseball Cap,Clothing,7,2025-03-05 14:04:27,29.13,CUST93,France,John Campos
-INV53694,E002,Bluetooth Headphones,Electronics,38,2025-06-21 05:08:57,0.0,CUST40,Norway,Adam Lewis
-INV26901,T001,Stuffed Bear,Toys,46,2023-11-06 11:16:17,56.33,CUST83,Italy,Jennifer Jones
-INV26750,T002,Building Blocks Set,Toys,45,2025-07-13 19:09:55,10.25,CUST86,Norway,Ricky Gonzalez
-INV76648,C003,Baseball Cap,Clothing,2,2024-08-17 11:14:43,18.85,CUST28,Italy,Amanda Fox
-INV73736,C001,Men's T-Shirt,Clothing,15,2023-12-30 05:38:28,8.64,CUST13,United Kingdom,Brandon Anderson
-INV96760,C003,Baseball Cap,Clothing,50,2025-05-05 04:46:16,60.13,CUST20,France,Anthony Robles
-INV33703,T003,RC Car,Toys,50,2025-05-12 06:01:37,72.4,CUST6,Norway,Paul Flores
-INV57749,T002,Building Blocks Set,Toys,47,2024-04-11 16:10:22,61.45,CUST97,Portugal,Meghan Hicks
-INV40671,H003,LED Desk Lamp,Home Goods,16,2024-06-23 17:04:34,90.49,CUST25,Italy,Amanda Singh
-INV98907,T001,Stuffed Bear,Toys,29,2024-11-26 10:15:32,78.03,CUST65,Norway,Amber Berry
-INV31241,C001,Men's T-Shirt,Clothing,39,2023-12-31 09:06:08,6.17,CUST62,Italy,Dylan Jones
-INV82684,E002,Bluetooth Headphones,Electronics,46,2025-01-21 04:32:21,29.22,CUST98,France,Jennifer Jennings
-INV45755,H002,Wall Clock,Home Goods,33,2024-01-09 15:55:40,10.08,CUST29,Portugal,Jennifer Orr
-INV55820,E001,Wireless Mouse,Electronics,27,2023-10-05 14:26:04,50.7,CUST31,Norway,Margaret Evans
-INV20696,C003,Baseball Cap,Clothing,15,2023-09-09 11:36:10,93.15,CUST92,Italy,Ruben Murphy
-INV29142,E003,Smartphone Charger,Electronics,3,2024-05-31 17:12:05,69.91,CUST18,Portugal,Victoria Kennedy
-INV68799,T001,Stuffed Bear,Toys,1,2023-11-01 00:41:30,26.34,CUST20,Norway,Anthony Robles
-INV24573,C002,Women's Jeans,Clothing,16,2024-06-15 04:26:10,5.73,CUST54,Portugal,Adam Suarez
-INV18232,E002,Bluetooth Headphones,Electronics,32,2025-04-14 19:31:01,2.63,CUST66,Spain,Krista Barrett
-INV28818,C002,Women's Jeans,Clothing,28,2023-08-13 22:23:04,35.93,CUST74,Norway,Jessica Preston
-INV34551,T002,Building Blocks Set,Toys,43,2023-11-07 19:03:34,97.49,CUST9,United Kingdom,Erik Powell
-INV61177,H002,Wall Clock,Home Goods,3,2025-05-23 14:05:09,98.12,CUST33,United Kingdom,Bonnie Robinson
-INV56805,E002,Bluetooth Headphones,Electronics,23,2024-04-14 23:55:27,63.2,CUST99,Italy,Laura Davis
-INV27486,E001,Wireless Mouse,Electronics,23,2025-02-21 12:19:34,81.54,CUST23,Portugal,Kimberly Obrien
-INV72722,T002,Building Blocks Set,Toys,12,2023-12-28 02:17:50,71.89,CUST59,United Kingdom,Michael Murphy
-INV48462,C001,Men's T-Shirt,Clothing,3,2024-03-03 01:31:32,32.24,CUST40,Norway,Adam Lewis
-INV81176,H002,Wall Clock,Home Goods,17,2023-09-18 23:33:10,19.92,CUST46,United Kingdom,Melissa Brown
-INV95948,C003,Baseball Cap,Clothing,18,2023-12-17 13:23:57,44.26,CUST52,Portugal,Ashley Davis
-INV60678,C003,Baseball Cap,Clothing,12,2025-01-01 18:06:51,37.37,CUST67,Netherlands,Laura West DVM
-INV20828,T003,RC Car,Toys,28,2023-10-31 15:40:40,60.64,CUST24,Netherlands,Kevin Rogers
-INV52101,E002,Bluetooth Headphones,Electronics,6,2024-07-12 10:45:50,31.34,CUST78,Norway,Ricky Perry
-INV31842,T003,RC Car,Toys,29,2024-08-05 16:16:46,5.19,CUST46,Norway,Melissa Brown
-INV45986,T002,Building Blocks Set,Toys,4,2023-10-27 23:12:40,41.21,CUST66,France,Krista Barrett
-INV14081,E003,Smartphone Charger,Electronics,39,2025-07-06 15:57:12,4.45,CUST9,Spain,Erik Powell
-INV94562,C003,Baseball Cap,Clothing,24,2024-09-07 20:39:09,4.21,CUST20,Portugal,Anthony Robles
-INV58623,C003,Baseball Cap,Clothing,29,2023-10-29 20:53:45,14.63,CUST47,Norway,Kathryn Gomez
-INV51207,T002,Building Blocks Set,Toys,18,2024-04-23 04:07:49,3.57,CUST24,Portugal,Kevin Rogers
-INV77861,H001,Ceramic Mug,Home Goods,36,2023-12-10 09:31:51,77.72,CUST91,Portugal,Michael Joseph DDS
-INV38124,T001,Stuffed Bear,Toys,19,2025-07-22 17:53:02,20.82,CUST18,Germany,Victoria Kennedy
-INV69250,E003,Smartphone Charger,Electronics,46,2024-11-09 03:11:46,81.24,CUST41,Italy,Amanda Vega
-INV18511,H003,LED Desk Lamp,Home Goods,35,2024-06-04 10:55:15,85.28,CUST92,France,Ruben Murphy
-INV57381,H003,LED Desk Lamp,Home Goods,15,2023-12-14 07:19:02,79.41,CUST31,Portugal,Margaret Evans
-INV13445,C003,Baseball Cap,Clothing,36,2025-03-20 13:25:53,47.27,CUST71,France,Jessica Sanchez
-INV90209,E002,Bluetooth Headphones,Electronics,5,2024-06-23 14:29:47,99.96,CUST93,Portugal,John Campos
-INV78903,H001,Ceramic Mug,Home Goods,50,2024-10-04 20:55:53,8.3,CUST41,Germany,Amanda Vega
-INV68979,H002,Wall Clock,Home Goods,44,2025-01-22 12:32:36,13.71,CUST100,France,Katrina Garcia
-INV26912,H001,Ceramic Mug,Home Goods,33,2023-10-07 04:31:14,52.29,CUST39,France,Gordon Carlson
-INV31229,C003,Baseball Cap,Clothing,46,2024-03-29 12:35:53,94.8,CUST67,Netherlands,Laura West DVM
-INV20336,C002,Women's Jeans,Clothing,13,2025-05-23 20:03:19,28.17,CUST81,Netherlands,George Frederick
-INV90534,H003,LED Desk Lamp,Home Goods,6,2025-01-07 23:20:15,17.69,CUST75,France,Mr. Ricky Spence
-INV32439,T002,Building Blocks Set,Toys,40,2025-04-22 12:17:32,84.41,CUST73,United Kingdom,Jill Frost
-INV13718,E002,Bluetooth Headphones,Electronics,3,2025-05-29 20:59:58,27.2,CUST27,Norway,Paul Myers
-INV91016,T002,Building Blocks Set,Toys,2,2025-01-02 22:50:03,55.01,CUST83,Netherlands,Jennifer Jones
-INV73300,C001,Men's T-Shirt,Clothing,44,2024-09-30 10:49:45,45.9,CUST89,,Alyssa Miller
-INV30719,H002,Wall Clock,Home Goods,27,2024-12-19 16:54:35,21.2,CUST78,France,Ricky Perry
-INV50970,T003,RC Car,Toys,21,2024-07-30 14:31:00,13.95,CUST48,Germany,Kimberly Carpenter
-INV51827,C001,Men's T-Shirt,Clothing,30,2023-12-15 09:44:18,45.51,CUST19,Germany,Adrienne Davis
-INV16632,C002,Women's Jeans,Clothing,25,2025-05-03 15:13:25,25.58,CUST21,Italy,Lance Harris
-INV85718,T003,RC Car,Toys,21,2024-02-22 05:48:05,50.33,CUST66,Portugal,Krista Barrett
-INV75373,C002,Women's Jeans,Clothing,32,2023-09-04 03:16:42,94.58,CUST65,Portugal,Amber Berry
-INV41552,C001,Men's T-Shirt,Clothing,38,2024-08-07 01:46:17,6.0,CUST64,Portugal,William Rodriguez
-INV47453,H003,LED Desk Lamp,Home Goods,1,2023-11-30 15:41:22,14.26,CUST34,Italy,Katherine Johnson
-INV62855,C003,Baseball Cap,Clothing,3,2024-09-25 01:51:45,57.46,CUST25,Italy,Amanda Singh
-INV82512,C002,Women's Jeans,Clothing,5,2024-09-10 18:21:33,45.59,CUST71,Netherlands,Jessica Sanchez
-INV91689,T002,Building Blocks Set,Toys,40,2023-12-11 04:41:04,97.53,CUST51,Italy,Timothy Chandler
-INV54444,H003,LED Desk Lamp,Home Goods,24,2024-01-06 07:14:50,60.64,CUST52,United Kingdom,Ashley Davis
-INV15938,E001,Wireless Mouse,Electronics,9,2025-08-11 12:07:32,80.59,CUST67,Portugal,Laura West DVM
-INV29521,T001,Stuffed Bear,Toys,33,2024-01-02 11:56:27,93.21,CUST41,France,Amanda Vega
-INV61505,T001,Stuffed Bear,Toys,48,2024-06-13 21:37:00,34.3,CUST66,Portugal,Krista Barrett
-INV83783,C002,,Clothing,31,2023-08-29 13:24:41,33.79,CUST15,Norway,David Chaney
-INV86507,C002,Women's Jeans,Clothing,47,2025-07-16 22:54:38,3.64,CUST61,Netherlands,Mr. Christopher Dunlap
-INV95929,T001,Stuffed Bear,Toys,37,2024-04-01 01:52:11,58.77,CUST22,Norway,Bryan Anderson
-INV29369,T002,Building Blocks Set,Toys,16,2023-09-13 20:50:47,94.87,CUST15,Spain,David Chaney
-INV12482,H002,Wall Clock,Home Goods,21,2024-10-13 05:30:48,41.88,CUST27,Norway,Paul Myers
-INV75774,T001,Stuffed Bear,Toys,31,2023-10-14 05:01:38,52.35,CUST72,Italy,Amy Lowe
-INV96799,H002,Wall Clock,Home Goods,34,2024-08-31 11:25:24,95.71,CUST59,Italy,Michael Murphy
-INV81601,C003,Baseball Cap,Clothing,44,2025-07-09 23:25:19,80.56,CUST34,Portugal,Katherine Johnson
-INV35200,C001,Men's T-Shirt,Clothing,18,2025-03-05 10:52:04,23.26,CUST39,Netherlands,Gordon Carlson
-INV37168,T003,RC Car,Toys,46,2024-12-24 11:32:35,48.5,CUST72,Netherlands,Amy Lowe
-INV47721,E002,Bluetooth Headphones,Electronics,37,2025-07-04 19:46:37,38.59,CUST51,Italy,Timothy Chandler
-INV29198,C002,Women's Jeans,Clothing,3,2024-06-01 02:52:38,35.29,CUST57,Netherlands,Adrienne Adams
-INV72793,C001,Men's T-Shirt,Clothing,13,2025-02-13 09:52:17,93.37,CUST90,Netherlands,Erika Oliver
-INV27992,E002,Bluetooth Headphones,Electronics,40,2025-04-03 08:42:43,25.0,CUST86,Spain,Ricky Gonzalez
-INV93616,C001,Men's T-Shirt,Clothing,4,2023-11-22 15:02:52,33.7,CUST61,Germany,Mr. Christopher Dunlap
-INV99285,E003,Smartphone Charger,Electronics,1,2025-02-25 05:45:01,41.28,CUST61,Portugal,Mr. Christopher Dunlap
-INV95267,C001,Men's T-Shirt,Clothing,49,2024-06-01 11:41:36,29.26,CUST8,Germany,Norman Pruitt
-INV95498,T001,Stuffed Bear,Toys,15,2025-02-09 01:21:28,91.41,CUST23,Norway,Kimberly Obrien
-INV33040,E001,Wireless Mouse,Electronics,26,2024-12-31 06:47:00,93.72,CUST38,United Kingdom,Daniel Copeland
-INV11214,C002,Women's Jeans,Clothing,37,2025-04-20 03:54:24,92.92,CUST43,Netherlands,Justin Moreno
-INV69552,T002,Building Blocks Set,Toys,35,2025-01-29 17:58:58,89.04,CUST18,Portugal,Victoria Kennedy
-INV45761,C001,Men's T-Shirt,Clothing,8,2024-07-15 05:54:58,73.38,CUST83,Netherlands,Jennifer Jones
-INV34405,E001,Wireless Mouse,Electronics,48,2024-07-22 10:44:29,57.21,CUST97,Spain,Meghan Hicks
-INV33002,T001,Stuffed Bear,Toys,41,2024-09-30 15:34:19,52.01,CUST12,Norway,Devin Lee
-INV97720,E002,Bluetooth Headphones,Electronics,12,2024-01-02 17:23:00,33.04,CUST32,United Kingdom,Nicholas Gonzalez
-INV44181,H001,Ceramic Mug,Home Goods,16,2024-11-11 09:43:15,95.45,CUST39,United Kingdom,Gordon Carlson
-INV44282,T002,Building Blocks Set,Toys,-24,2025-07-21 08:36:12,7.15,CUST16,Portugal,Sherri Pierce
-INV50213,E003,Smartphone Charger,Electronics,26,2025-07-14 18:17:46,92.39,CUST91,Netherlands,Michael Joseph DDS
-INV25389,T002,Building Blocks Set,Toys,19,2024-08-22 22:22:40,22.86,CUST18,Portugal,Victoria Kennedy
-INV30078,H002,Wall Clock,Home Goods,48,2025-04-23 13:36:11,42.17,CUST71,Portugal,Jessica Sanchez
-INV80453,T002,Building Blocks Set,Toys,14,2024-04-21 21:41:34,87.44,CUST11,Portugal,Justin Hart
-INV79228,T003,RC Car,Toys,24,2023-10-30 20:32:26,12.11,CUST71,Spain,Jessica Sanchez
-INV85065,H003,LED Desk Lamp,Home Goods,10,2024-01-27 11:56:47,85.59,CUST57,Germany,Adrienne Adams
-INV99167,C001,Men's T-Shirt,Clothing,46,2025-03-31 17:47:51,10.0,CUST66,Portugal,Krista Barrett
-INV17292,H002,Wall Clock,Home Goods,9,2025-01-18 15:07:30,46.22,CUST8,Portugal,Norman Pruitt
-INV98181,C002,Women's Jeans,Clothing,47,2023-09-03 14:24:57,26.19,CUST1,Spain,Lawrence Delacruz
-INV85800,E002,Bluetooth Headphones,Electronics,3,2024-10-18 12:32:38,70.34,CUST70,United Kingdom,Darrell Salazar
-INV19046,H002,Wall Clock,Home Goods,3,2024-05-31 14:53:11,18.82,CUST18,Norway,Victoria Kennedy
-INV59081,H001,Ceramic Mug,Home Goods,29,2024-09-01 13:40:36,8.94,CUST85,France,John Bird
-INV95660,C003,,Clothing,8,2024-02-10 19:33:39,39.91,CUST17,Spain,Tommy Cook
-INV10455,E001,Wireless Mouse,Electronics,20,2024-11-28 19:49:21,42.99,CUST49,Spain,Stacie Allen
-INV42441,H002,Wall Clock,Home Goods,23,2024-01-17 10:02:09,19.66,CUST93,Germany,John Campos
-INV14222,T002,Building Blocks Set,Toys,27,2025-05-02 00:34:10,24.83,CUST9,Germany,Erik Powell
-INV87849,E001,Wireless Mouse,Electronics,29,2025-04-15 01:46:20,25.23,CUST6,Norway,Paul Flores
-INV67535,C001,Men's T-Shirt,Clothing,35,2024-03-21 02:03:18,14.87,CUST38,Spain,Daniel Copeland
-INV85511,C003,Baseball Cap,Clothing,37,2025-04-15 11:40:30,24.45,CUST19,Spain,Adrienne Davis
-INV64206,C002,Women's Jeans,Clothing,18,2023-10-13 20:16:10,94.9,CUST95,France,Nathaniel Ross
-INV92050,T002,Building Blocks Set,Toys,28,2025-03-03 18:02:42,5.64,CUST45,Norway,Melissa Erickson
-INV78742,C003,Baseball Cap,Clothing,45,2024-10-11 14:51:51,15.77,CUST49,France,Stacie Allen
-INV80507,H002,Wall Clock,Home Goods,16,2024-03-29 10:56:58,85.9,CUST19,Portugal,Adrienne Davis
-INV17552,H003,LED Desk Lamp,Home Goods,27,2024-10-11 20:17:24,53.47,CUST50,Spain,Andrew Russell
-INV43422,C001,Men's T-Shirt,Clothing,22,2025-06-04 02:52:43,92.3,CUST48,Germany,Kimberly Carpenter
-INV80206,T003,RC Car,Toys,13,2023-10-03 09:46:27,38.34,CUST78,United Kingdom,Ricky Perry
-INV19539,C001,Men's T-Shirt,Clothing,49,2025-04-04 20:20:49,22.48,CUST27,Italy,Paul Myers
-INV49739,E001,Wireless Mouse,Electronics,14,2024-02-22 04:16:16,74.94,CUST97,Portugal,Meghan Hicks
-INV41797,T003,RC Car,Toys,39,2025-08-01 07:26:45,0.0,CUST31,Italy,Margaret Evans
-INV47101,H001,Ceramic Mug,Home Goods,30,2025-02-08 23:37:09,36.57,CUST34,Italy,Katherine Johnson
-INV77215,H002,Wall Clock,Home Goods,30,2023-11-20 17:05:37,76.4,CUST41,Spain,Amanda Vega
-INV58589,C003,Baseball Cap,Clothing,27,2023-09-27 20:28:51,86.54,CUST95,France,Nathaniel Ross
-INV12125,C002,Women's Jeans,Clothing,36,2025-04-01 21:05:09,72.28,CUST38,France,Daniel Copeland
-INV35715,C003,Baseball Cap,Clothing,15,2024-09-03 20:44:43,83.5,CUST64,Italy,William Rodriguez
-INV43728,H002,Wall Clock,Home Goods,47,2025-05-30 17:51:43,46.62,CUST94,Italy,Mark King
-INV32185,E003,Smartphone Charger,Electronics,47,2025-02-21 17:46:44,19.22,CUST70,United Kingdom,Darrell Salazar
-INV78674,E001,Wireless Mouse,Electronics,5,2025-06-26 01:45:58,76.67,CUST53,France,Kimberly Garza
-INV92667,C001,Men's T-Shirt,Clothing,5,2025-08-05 05:29:55,1.91,CUST65,Portugal,Amber Berry
-INV58916,E001,Wireless Mouse,Electronics,40,2025-05-26 22:26:48,91.36,CUST85,Portugal,John Bird
-INV12061,E001,Wireless Mouse,Electronics,35,2025-02-26 14:58:34,2.17,CUST68,Netherlands,Brian Johnson
-INV80220,C002,Women's Jeans,Clothing,2,2025-01-07 15:40:36,80.81,CUST23,Germany,Kimberly Obrien
-INV22624,H003,LED Desk Lamp,Home Goods,10,2024-04-14 06:59:16,62.36,CUST33,Italy,Bonnie Robinson
-INV45038,H001,Ceramic Mug,Home Goods,6,2024-08-28 14:46:58,46.44,CUST32,Spain,Nicholas Gonzalez
-INV49318,T002,Building Blocks Set,Toys,6,2025-06-11 23:39:42,76.2,CUST12,Norway,Devin Lee
-INV59710,H001,Ceramic Mug,Home Goods,36,2024-12-11 02:02:35,64.04,CUST90,France,Erika Oliver
-INV20837,H002,Wall Clock,Home Goods,28,2025-06-02 12:03:40,57.02,CUST13,United Kingdom,Brandon Anderson
-INV40115,C001,Men's T-Shirt,Clothing,45,2025-03-14 17:18:44,27.84,CUST10,Netherlands,Julie Cardenas
-INV81176,T001,Stuffed Bear,Toys,43,2023-09-14 06:31:48,92.95,CUST41,United Kingdom,Amanda Vega
-INV37152,T001,Stuffed Bear,Toys,-10,2025-08-10 14:30:05,92.96,CUST39,France,Gordon Carlson
-INV83919,C001,Men's T-Shirt,Clothing,37,2024-09-13 19:40:52,33.84,CUST97,France,Meghan Hicks
-INV20279,H003,LED Desk Lamp,Home Goods,48,2024-07-31 01:57:18,10.67,CUST30,Germany,Hannah Miller
-INV54642,T001,Stuffed Bear,Toys,50,2025-05-01 21:41:07,40.27,CUST100,Italy,Katrina Garcia
-INV13883,T002,Building Blocks Set,Toys,18,2024-11-15 17:51:44,23.59,CUST71,Norway,Jessica Sanchez
-INV66603,E003,Smartphone Charger,Electronics,44,2025-04-02 13:50:16,9.48,CUST80,Netherlands,Zachary Evans
-INV42302,T003,RC Car,Toys,5,2023-11-04 09:45:23,16.27,CUST92,France,Ruben Murphy
-INV61068,C003,Baseball Cap,Clothing,24,2023-11-29 03:19:55,1.51,CUST40,Portugal,Adam Lewis
-INV57175,C002,Women's Jeans,Clothing,7,2023-12-25 03:10:42,19.55,CUST58,Norway,Angela Ferrell
-INV23538,E001,Wireless Mouse,Electronics,6,2024-08-08 20:10:42,10.21,CUST77,Italy,Stacey Le
-INV60493,E001,Wireless Mouse,Electronics,19,2024-10-08 14:07:09,78.14,CUST93,Spain,John Campos
-INV84967,H003,LED Desk Lamp,Home Goods,11,2025-07-13 13:51:43,17.78,CUST35,Netherlands,Drew Turner
-INV45180,H002,Wall Clock,Home Goods,10,2023-10-15 06:05:16,44.03,CUST54,Netherlands,Adam Suarez
-INV73469,E002,Bluetooth Headphones,Electronics,24,2024-04-25 08:58:41,72.37,CUST64,Spain,William Rodriguez
-INV70012,E002,Bluetooth Headphones,Electronics,9,2024-06-18 00:14:47,94.93,CUST43,Norway,Justin Moreno
-INV53193,H002,Wall Clock,Home Goods,22,2024-10-25 23:42:12,97.45,CUST18,Netherlands,Victoria Kennedy
-INV52030,T001,Stuffed Bear,Toys,45,2024-03-04 17:26:24,32.1,CUST51,Italy,Timothy Chandler
-INV48200,T003,RC Car,Toys,45,2025-05-21 17:52:37,96.81,CUST32,Italy,Nicholas Gonzalez
-INV59290,C002,Women's Jeans,Clothing,26,2024-08-19 04:08:47,93.27,CUST26,France,Sandra Leonard
-INV99353,H003,LED Desk Lamp,Home Goods,2,2024-11-26 07:37:59,44.41,CUST38,Germany,Daniel Copeland
-INV63627,T002,Building Blocks Set,Toys,32,2024-01-01 23:03:32,30.98,CUST33,France,Bonnie Robinson
-INV65460,H001,Ceramic Mug,Home Goods,5,2024-11-13 21:46:12,48.44,CUST52,Norway,Ashley Davis
-INV81256,E001,Wireless Mouse,Electronics,24,2025-07-30 19:32:53,59.79,CUST11,Germany,Justin Hart
-INV42536,T002,Building Blocks Set,Toys,43,2024-08-09 06:03:22,65.05,CUST6,Norway,Paul Flores
-INV53463,H001,Ceramic Mug,Home Goods,7,2023-08-22 03:35:24,26.62,CUST66,Spain,Krista Barrett
-INV68429,C003,Baseball Cap,Clothing,26,2024-11-28 21:25:47,69.35,CUST20,Italy,Anthony Robles
-INV13219,H002,Wall Clock,Home Goods,7,2024-06-09 15:08:42,92.13,CUST11,Germany,Justin Hart
-INV28569,C003,Baseball Cap,Clothing,20,2024-07-28 16:34:41,78.64,CUST67,Portugal,Laura West DVM
-INV55652,H002,Wall Clock,Home Goods,7,2024-11-02 16:28:23,32.57,CUST39,United Kingdom,Gordon Carlson
-INV25084,E001,Wireless Mouse,Electronics,22,2025-06-05 03:58:54,68.04,CUST22,Spain,Bryan Anderson
-INV77632,E003,Smartphone Charger,Electronics,36,2024-01-22 12:03:03,56.43,CUST60,Spain,Anthony Williams
-INV63090,T002,Building Blocks Set,Toys,12,2024-02-18 23:19:08,66.07,CUST51,United Kingdom,Timothy Chandler
-INV90492,C001,Men's T-Shirt,Clothing,29,2025-04-09 15:38:22,39.49,CUST91,Spain,Michael Joseph DDS
-INV36972,C002,Women's Jeans,Clothing,49,2025-08-01 02:16:40,58.16,CUST69,France,Victoria Franklin
-INV57945,C003,Baseball Cap,Clothing,13,2024-11-22 04:08:56,26.97,CUST63,Italy,Debra Gray
-INV88246,H001,Ceramic Mug,Home Goods,40,2024-09-16 21:22:19,12.31,CUST46,Portugal,Melissa Brown
-INV90918,E003,Smartphone Charger,Electronics,44,2025-08-03 10:49:46,91.95,CUST76,Germany,Eugene Lambert
-INV98094,E003,Smartphone Charger,Electronics,21,2023-12-10 08:41:10,31.23,CUST24,Italy,Kevin Rogers
-INV28528,H003,LED Desk Lamp,Home Goods,25,2024-10-13 21:42:54,14.65,CUST50,,Andrew Russell
-INV34347,H002,Wall Clock,Home Goods,41,2025-02-12 23:29:35,93.14,CUST23,France,Kimberly Obrien
-INV74178,C002,Women's Jeans,Clothing,9,2024-02-19 11:27:12,0.0,CUST80,United Kingdom,Zachary Evans
-INV57059,E001,Wireless Mouse,Electronics,32,2023-12-29 07:06:15,81.71,CUST72,Portugal,Amy Lowe
-INV63626,T002,Building Blocks Set,Toys,32,2024-10-10 16:09:36,49.38,CUST11,United Kingdom,Justin Hart
-INV38905,C002,Women's Jeans,Clothing,3,2024-05-19 08:11:10,54.22,CUST22,Portugal,Bryan Anderson
-INV84140,T003,RC Car,Toys,50,2024-12-31 20:00:53,51.57,CUST74,Germany,Jessica Preston
-INV45112,H003,LED Desk Lamp,Home Goods,24,2025-02-17 01:30:53,76.24,CUST57,Spain,Adrienne Adams
-INV65725,E002,Bluetooth Headphones,Electronics,48,2025-06-11 09:00:44,30.47,CUST5,Portugal,Megan Tanner
-INV44447,C003,Baseball Cap,Clothing,6,2024-11-03 04:16:26,77.79,CUST31,Spain,Margaret Evans
-INV87060,T003,RC Car,Toys,23,2025-08-08 22:13:08,63.64,CUST22,France,Bryan Anderson
-INV37082,C001,Men's T-Shirt,Clothing,4,2025-03-17 12:46:22,53.7,CUST77,France,Stacey Le
-INV52421,T003,RC Car,Toys,19,2024-06-03 20:51:09,27.47,CUST66,Germany,Krista Barrett
-INV27771,H001,Ceramic Mug,Home Goods,4,2024-05-21 23:52:49,13.56,CUST17,Spain,Tommy Cook
-INV29168,T003,RC Car,Toys,21,2024-04-21 14:17:52,49.46,CUST74,Netherlands,Jessica Preston
-INV92288,H001,Ceramic Mug,Home Goods,25,2024-11-16 02:44:58,63.73,CUST99,Germany,Laura Davis
-INV62802,H003,LED Desk Lamp,Home Goods,48,2024-05-22 13:26:14,46.01,CUST63,Italy,Debra Gray
-INV86278,E001,Wireless Mouse,Electronics,50,2023-11-15 16:41:29,63.85,CUST90,Italy,Erika Oliver
-INV18300,H003,,Home Goods,26,2024-03-22 15:38:34,82.66,CUST64,Netherlands,William Rodriguez
-INV52318,C002,Women's Jeans,Clothing,22,2025-02-22 21:02:30,13.93,CUST63,Italy,Debra Gray
-INV99463,E001,Wireless Mouse,Electronics,3,2023-11-21 22:47:54,78.61,CUST59,United Kingdom,Michael Murphy
-INV26284,E003,Smartphone Charger,Electronics,29,2024-11-21 00:01:28,99.19,CUST55,Spain,Walter Ashley
-INV27290,T002,Building Blocks Set,Toys,20,2024-01-21 09:58:36,10.24,CUST47,Netherlands,Kathryn Gomez
-INV20803,C003,Baseball Cap,Clothing,43,2025-06-06 06:01:35,6.13,CUST81,Netherlands,George Frederick
-INV40689,H001,Ceramic Mug,Home Goods,42,2023-11-13 03:27:55,1.11,CUST62,Germany,Dylan Jones
-INV27393,T001,Stuffed Bear,Toys,15,2025-01-24 16:12:15,1.92,CUST90,Italy,Erika Oliver
-INV25806,H001,Ceramic Mug,Home Goods,45,2023-12-25 17:23:33,8.01,CUST50,Germany,Andrew Russell
-INV23425,E002,Bluetooth Headphones,Electronics,21,2024-08-22 10:53:43,14.58,CUST100,France,Katrina Garcia
-INV94092,T002,Building Blocks Set,Toys,10,2023-10-21 19:18:54,56.77,CUST79,France,David Mclean
-INV67684,C003,Baseball Cap,Clothing,47,2024-03-17 22:52:03,75.08,CUST53,Portugal,Kimberly Garza
-INV38474,E002,Bluetooth Headphones,Electronics,7,2024-01-02 04:29:02,59.37,CUST50,Italy,Andrew Russell
-INV66280,C003,Baseball Cap,Clothing,9,2024-04-21 10:05:02,64.82,CUST32,Netherlands,Nicholas Gonzalez
-INV13515,T002,Building Blocks Set,Toys,20,2024-03-09 18:51:02,61.09,CUST25,Norway,Amanda Singh
-INV48737,T002,Building Blocks Set,Toys,4,2024-04-13 18:01:05,39.2,CUST31,Portugal,Margaret Evans
-INV93634,T001,Stuffed Bear,Toys,5,2025-02-02 00:26:21,98.7,CUST41,France,Amanda Vega
-INV60703,T001,Stuffed Bear,Toys,27,2024-08-20 19:53:32,68.61,CUST98,Portugal,Jennifer Jennings
-INV19567,E001,Wireless Mouse,Electronics,38,2023-10-20 00:30:07,26.96,CUST6,United Kingdom,Paul Flores
-INV62163,H003,LED Desk Lamp,Home Goods,19,2025-05-16 18:14:33,76.94,CUST55,Norway,Walter Ashley
-INV20803,T002,Building Blocks Set,Toys,35,2025-02-12 22:25:46,16.12,CUST11,Netherlands,Justin Hart
-INV20357,H003,LED Desk Lamp,Home Goods,14,2024-01-18 19:31:45,33.35,CUST76,Germany,Eugene Lambert
-INV50654,T003,RC Car,Toys,28,2024-04-12 02:06:29,25.2,CUST56,Germany,Charlene Ruiz
-INV69424,T001,Stuffed Bear,Toys,39,2023-10-07 11:15:39,66.94,CUST85,France,John Bird
-INV25655,E001,Wireless Mouse,Electronics,46,2023-12-30 00:24:47,17.22,CUST45,Netherlands,Melissa Erickson
-INV31884,C003,Baseball Cap,Clothing,9,2024-05-13 04:17:53,77.37,CUST4,Italy,Craig Perkins
-INV66272,C002,Women's Jeans,Clothing,34,2023-10-16 09:34:25,71.52,CUST74,Germany,Jessica Preston
-INV75031,H002,Wall Clock,Home Goods,33,2024-08-14 02:01:06,50.46,CUST73,France,Jill Frost
-INV58193,E003,Smartphone Charger,Electronics,17,2023-11-25 20:53:43,67.74,CUST15,Spain,David Chaney
-INV76692,E001,Wireless Mouse,Electronics,3,2023-08-24 08:54:13,5.55,CUST47,Norway,Kathryn Gomez
-INV29671,E003,Smartphone Charger,Electronics,3,2025-02-28 23:52:24,42.52,CUST42,Spain,Juan Johnson
-INV64559,T003,RC Car,Toys,21,2024-05-15 02:50:08,57.58,CUST16,United Kingdom,Sherri Pierce
-INV33507,C001,Men's T-Shirt,Clothing,34,2023-09-28 14:35:50,7.82,CUST60,Netherlands,Anthony Williams
-INV50723,C003,Baseball Cap,Clothing,6,2025-02-28 16:37:46,1.79,CUST26,Netherlands,Sandra Leonard
-INV83899,C002,Women's Jeans,Clothing,48,2025-05-10 08:49:55,46.93,CUST76,Portugal,Eugene Lambert
-INV35614,T003,RC Car,Toys,35,2024-04-19 05:28:55,1.63,CUST53,United Kingdom,Kimberly Garza
-INV40539,H003,LED Desk Lamp,Home Goods,23,2025-05-24 00:20:57,95.15,CUST1,Norway,Lawrence Delacruz
-INV50306,E002,Bluetooth Headphones,Electronics,14,2025-02-04 08:40:17,42.56,CUST8,France,Norman Pruitt
-INV46677,E002,Bluetooth Headphones,Electronics,3,2024-04-05 18:55:25,41.89,CUST48,Portugal,Kimberly Carpenter
-INV21128,T001,Stuffed Bear,Toys,7,2025-01-10 04:51:39,64.08,CUST51,Germany,Timothy Chandler
-INV87580,T001,Stuffed Bear,Toys,4,2024-10-30 04:45:32,24.44,CUST34,Italy,Katherine Johnson
-INV61505,T003,RC Car,Toys,48,2024-07-11 11:34:48,45.82,CUST30,Germany,Hannah Miller
-INV36569,E003,Smartphone Charger,Electronics,50,2025-04-01 03:58:03,16.39,CUST22,Portugal,Bryan Anderson
-INV71086,C003,Baseball Cap,Clothing,27,2023-12-13 19:30:44,36.47,CUST99,Spain,Laura Davis
-INV69233,C002,Women's Jeans,Clothing,30,2024-05-09 04:21:57,9.95,CUST88,Netherlands,Jonathan Sullivan
-INV89076,E001,Wireless Mouse,Electronics,14,2024-07-12 05:24:01,10.03,CUST32,Italy,Nicholas Gonzalez
-INV61936,H003,LED Desk Lamp,Home Goods,4,2025-07-05 10:52:49,26.76,CUST23,United Kingdom,Kimberly Obrien
-INV63004,H002,Wall Clock,Home Goods,36,2025-02-25 09:05:48,10.38,CUST14,France,Zachary Bautista
-INV25919,E001,Wireless Mouse,Electronics,4,2024-03-26 04:45:33,20.62,CUST52,Italy,Ashley Davis
-INV99952,T002,Building Blocks Set,Toys,42,2023-11-06 21:12:06,59.03,CUST10,United Kingdom,Julie Cardenas
-INV18450,C001,Men's T-Shirt,Clothing,42,2024-11-08 04:41:20,10.11,CUST43,Germany,Justin Moreno
-INV15596,H002,Wall Clock,Home Goods,4,2024-01-31 20:53:40,43.88,CUST93,Norway,John Campos
-INV75028,E001,Wireless Mouse,Electronics,25,2025-07-11 15:32:03,18.11,CUST28,France,Amanda Fox
-INV46042,C002,Women's Jeans,Clothing,29,2024-01-11 01:15:41,61.8,CUST79,Spain,David Mclean
-INV94840,C002,Women's Jeans,Clothing,32,2024-10-06 20:02:59,48.42,CUST12,Netherlands,Devin Lee
-INV60202,E003,Smartphone Charger,Electronics,27,2024-03-03 23:23:53,88.58,CUST68,Spain,Brian Johnson
-INV92674,H003,LED Desk Lamp,Home Goods,2,2024-09-06 13:04:29,48.49,CUST63,Italy,Debra Gray
-INV84141,H003,LED Desk Lamp,Home Goods,-21,2024-09-12 09:50:46,18.8,CUST41,Spain,Amanda Vega
-INV13840,C002,Women's Jeans,Clothing,4,2024-12-07 19:16:33,36.39,CUST75,Spain,Mr. Ricky Spence
-INV30922,E002,Bluetooth Headphones,Electronics,16,2025-06-14 08:46:48,27.39,CUST95,United Kingdom,Nathaniel Ross
-INV38758,T001,Stuffed Bear,Toys,25,2024-08-09 06:19:28,18.43,CUST76,Italy,Eugene Lambert
-INV57026,T001,Stuffed Bear,Toys,2,2025-08-01 12:48:15,94.81,CUST73,France,Jill Frost
-INV83807,C001,Men's T-Shirt,Clothing,32,2025-02-17 11:15:08,18.38,CUST5,Germany,Megan Tanner
-INV17362,C001,Men's T-Shirt,Clothing,39,2024-03-23 00:43:32,53.12,CUST1,Italy,Lawrence Delacruz
-INV90495,C001,Men's T-Shirt,Clothing,9,2024-07-25 06:27:40,91.96,CUST42,United Kingdom,Juan Johnson
-INV12872,E003,Smartphone Charger,Electronics,38,2025-08-02 05:09:26,77.66,CUST68,Italy,Brian Johnson
-INV19506,C003,Baseball Cap,Clothing,46,2025-06-20 14:24:11,59.02,CUST44,Netherlands,Mary Thompson
-INV52284,E003,Smartphone Charger,Electronics,11,2024-11-01 23:16:29,96.11,CUST84,Italy,Matthew Ramirez
-INV32833,T003,RC Car,Toys,36,2025-07-22 22:20:40,78.91,CUST29,France,Jennifer Orr
-INV59595,C002,Women's Jeans,Clothing,47,2025-07-17 10:43:22,13.61,CUST94,United Kingdom,Mark King
-INV85082,H001,Ceramic Mug,Home Goods,50,2025-03-15 01:10:44,19.03,CUST41,Spain,Amanda Vega
-INV93839,T001,Stuffed Bear,Toys,7,2025-01-01 05:07:14,33.79,CUST10,Spain,Julie Cardenas
-INV55457,C003,Baseball Cap,Clothing,11,2025-05-24 03:13:49,82.34,CUST86,Italy,Ricky Gonzalez
-INV68540,E001,Wireless Mouse,Electronics,17,2024-03-13 09:05:07,69.62,CUST45,Netherlands,Melissa Erickson
-INV24160,T003,RC Car,Toys,1,2023-09-30 14:03:05,44.38,CUST54,France,Adam Suarez
-INV64266,H002,Wall Clock,Home Goods,25,2024-08-05 19:52:48,38.16,CUST62,Spain,Dylan Jones
-INV31319,H002,Wall Clock,Home Goods,5,2023-09-15 10:44:14,2.99,CUST34,Germany,Katherine Johnson
-INV19725,C003,Baseball Cap,Clothing,11,2024-08-30 05:51:30,73.47,CUST71,Germany,Jessica Sanchez
-INV54295,T001,Stuffed Bear,Toys,40,2024-12-18 01:07:42,43.7,CUST84,France,Matthew Ramirez
-INV89602,H001,Ceramic Mug,Home Goods,11,2023-10-05 03:41:12,33.78,CUST25,Norway,Amanda Singh
-INV82628,T003,RC Car,Toys,47,2025-02-15 09:39:28,66.4,CUST39,Spain,Gordon Carlson
-INV22571,E001,Wireless Mouse,Electronics,26,2025-03-19 20:00:45,84.15,CUST20,United Kingdom,Anthony Robles
-INV57294,E001,Wireless Mouse,Electronics,28,2023-11-09 10:43:27,82.57,CUST81,Portugal,George Frederick
-INV36171,E002,Bluetooth Headphones,Electronics,2,2024-03-10 06:13:11,64.18,CUST11,Portugal,Justin Hart
-INV25139,C002,Women's Jeans,Clothing,26,2024-12-06 17:48:26,89.59,CUST34,Germany,Katherine Johnson
-INV94130,H003,LED Desk Lamp,Home Goods,25,2024-02-17 13:30:30,88.66,CUST48,France,Kimberly Carpenter
-INV68428,E001,Wireless Mouse,Electronics,17,2024-11-04 16:55:56,27.08,CUST35,United Kingdom,Drew Turner
-INV29808,T003,RC Car,Toys,43,2023-11-19 03:07:13,67.15,CUST70,Norway,Darrell Salazar
-INV87296,C001,Men's T-Shirt,Clothing,36,2023-10-13 14:05:38,82.02,CUST54,Portugal,Adam Suarez
-INV85066,C001,Men's T-Shirt,Clothing,31,2024-06-13 02:52:28,40.09,CUST92,United Kingdom,Ruben Murphy
-INV75811,T001,Stuffed Bear,Toys,34,2025-03-19 22:35:00,15.6,CUST97,Portugal,Meghan Hicks
-INV32659,E003,Smartphone Charger,Electronics,14,2024-02-25 04:35:39,5.22,CUST11,Norway,Justin Hart
-INV36465,T002,Building Blocks Set,Toys,10,2025-04-12 09:23:21,32.66,CUST94,Germany,Mark King
-INV21406,H001,Ceramic Mug,Home Goods,36,2024-09-21 20:05:58,33.29,CUST36,Portugal,Jacob Carter
-INV11620,T003,RC Car,Toys,40,2025-04-04 19:01:33,78.39,CUST15,Norway,David Chaney
-INV29613,E003,Smartphone Charger,Electronics,37,2025-04-05 21:12:52,76.08,CUST13,Germany,Brandon Anderson
-INV83752,E002,Bluetooth Headphones,Electronics,19,2025-02-10 12:31:11,87.91,CUST34,Norway,Katherine Johnson
-INV95824,H002,Wall Clock,Home Goods,37,2025-04-26 17:13:23,4.71,CUST36,Norway,Jacob Carter
-INV28855,T001,Stuffed Bear,Toys,39,2025-07-09 14:37:34,4.84,CUST43,Spain,Justin Moreno
-INV16460,T003,RC Car,Toys,31,2024-05-13 13:33:36,3.0,CUST39,Netherlands,Gordon Carlson
-INV46745,H002,Wall Clock,Home Goods,45,2025-07-13 03:34:33,97.28,CUST30,France,Hannah Miller
-INV49384,T003,RC Car,Toys,29,2024-07-05 09:48:33,73.15,CUST78,Germany,Ricky Perry
-INV34633,H002,,Home Goods,14,2024-10-01 17:38:19,76.19,CUST48,United Kingdom,Kimberly Carpenter
-INV77537,E003,Smartphone Charger,Electronics,5,2024-06-25 18:27:06,40.94,CUST100,United Kingdom,Katrina Garcia
-INV32772,C001,Men's T-Shirt,Clothing,13,2023-10-10 09:05:01,4.27,CUST7,Italy,Holly Price
-INV36097,C002,Women's Jeans,Clothing,24,2024-11-29 18:23:27,40.3,CUST16,United Kingdom,Sherri Pierce
-INV41711,C003,Baseball Cap,Clothing,32,2025-04-11 16:14:31,18.58,CUST61,Italy,Mr. Christopher Dunlap
-INV55121,E003,Smartphone Charger,Electronics,17,2025-07-17 03:17:27,29.22,CUST50,United Kingdom,Andrew Russell
-INV31352,T001,Stuffed Bear,Toys,50,2024-03-18 08:03:32,65.09,CUST87,Spain,Laura Mack
-INV45269,T002,Building Blocks Set,Toys,27,2025-01-18 00:43:48,86.6,CUST99,United Kingdom,Laura Davis
-INV72140,E003,,Electronics,42,2024-02-05 21:53:12,80.29,CUST29,Netherlands,Jennifer Orr
-INV89736,C002,Women's Jeans,Clothing,46,2025-08-07 23:24:05,28.26,CUST49,Italy,Stacie Allen
-INV70161,C002,Women's Jeans,Clothing,14,2024-12-01 11:00:02,68.04,CUST80,Norway,Zachary Evans
-INV86609,E002,Bluetooth Headphones,Electronics,1,2025-01-16 13:37:31,56.58,CUST77,Netherlands,Stacey Le
-INV49121,T002,Building Blocks Set,Toys,7,2024-12-17 02:19:27,34.29,CUST36,Italy,Jacob Carter
-INV46291,C002,Women's Jeans,Clothing,42,2025-08-09 23:43:09,30.58,CUST20,Spain,Anthony Robles
-INV17441,T001,Stuffed Bear,Toys,26,2025-06-18 11:38:08,0.0,CUST93,United Kingdom,John Campos
-INV95904,H002,Wall Clock,Home Goods,19,2024-05-03 15:14:22,41.06,CUST95,United Kingdom,Nathaniel Ross
-INV86418,T003,RC Car,Toys,37,2024-02-22 12:29:39,72.93,CUST29,Portugal,Jennifer Orr
-INV98063,C003,Baseball Cap,Clothing,33,2024-06-14 06:11:20,84.22,CUST72,France,Amy Lowe
-INV48506,E002,Bluetooth Headphones,Electronics,31,2023-12-21 09:25:02,72.79,CUST72,France,Amy Lowe
-INV99091,C003,Baseball Cap,Clothing,42,2023-11-11 08:05:31,36.17,CUST96,Netherlands,Mary Fisher
-INV65112,C003,Baseball Cap,Clothing,24,2024-05-04 21:19:11,30.11,CUST16,Portugal,Sherri Pierce
-INV17035,T002,Building Blocks Set,Toys,38,2025-03-28 22:35:50,8.05,CUST25,Germany,Amanda Singh
-INV99220,H001,Ceramic Mug,Home Goods,34,2024-06-12 15:02:26,6.35,CUST20,France,Anthony Robles
-INV36253,C003,Baseball Cap,Clothing,27,2025-03-17 16:39:34,15.18,CUST92,France,Ruben Murphy
-INV20592,H002,Wall Clock,Home Goods,22,2025-05-19 06:26:16,32.03,CUST8,United Kingdom,Norman Pruitt
-INV69251,C002,Women's Jeans,Clothing,14,2024-01-31 20:58:54,76.68,CUST63,Germany,Debra Gray
-INV26961,T001,Stuffed Bear,Toys,28,2025-05-21 15:38:03,40.94,CUST62,Norway,Dylan Jones
-INV10611,E001,Wireless Mouse,Electronics,35,2024-03-03 13:35:03,95.06,CUST42,Spain,Juan Johnson
-INV12348,T002,Building Blocks Set,Toys,1,2025-05-14 09:03:33,23.4,CUST45,Netherlands,Melissa Erickson
-INV26899,E002,Bluetooth Headphones,Electronics,25,2025-01-08 21:25:58,31.31,CUST9,United Kingdom,Erik Powell
-INV49085,C002,Women's Jeans,Clothing,30,2025-01-25 21:42:47,52.89,CUST56,France,Charlene Ruiz
-INV54922,H002,Wall Clock,Home Goods,23,2024-02-20 06:00:11,94.86,CUST52,United Kingdom,Ashley Davis
-INV39939,C001,Men's T-Shirt,Clothing,47,2023-12-24 07:41:21,73.67,CUST76,France,Eugene Lambert
-INV26143,C003,Baseball Cap,Clothing,46,2025-06-08 01:21:37,38.14,CUST82,Netherlands,Michael Payne
-INV80088,T001,Stuffed Bear,Toys,4,2025-04-11 01:44:46,66.54,CUST84,United Kingdom,Matthew Ramirez
-INV16322,T003,RC Car,Toys,8,2024-10-11 16:10:37,38.65,CUST71,Netherlands,Jessica Sanchez
-INV72180,T003,RC Car,Toys,10,2024-03-09 22:56:56,1.92,CUST54,Germany,Adam Suarez
-INV96832,H003,LED Desk Lamp,Home Goods,18,2025-05-10 22:03:01,70.37,CUST54,Germany,Adam Suarez
-INV77054,T003,RC Car,Toys,40,2023-12-10 10:17:34,12.29,CUST14,Portugal,Zachary Bautista
-INV36037,T001,Stuffed Bear,Toys,13,2024-05-07 19:02:49,97.34,CUST46,Norway,Melissa Brown
-INV48712,E003,Smartphone Charger,Electronics,3,2025-02-23 18:04:18,91.13,CUST89,Portugal,Alyssa Miller
-INV53332,C001,Men's T-Shirt,Clothing,1,2023-08-25 03:14:25,90.78,CUST74,Portugal,Jessica Preston
-INV29548,E002,Bluetooth Headphones,Electronics,50,2025-01-16 02:43:56,0.0,CUST13,Netherlands,Brandon Anderson
-INV94454,C001,Men's T-Shirt,Clothing,30,2024-06-10 09:36:59,46.96,CUST13,France,Brandon Anderson
-INV15170,C002,Women's Jeans,Clothing,24,2025-07-05 11:23:07,43.17,CUST15,Germany,David Chaney
-INV16014,E001,Wireless Mouse,Electronics,9,2025-06-21 23:33:49,17.88,CUST46,Portugal,Melissa Brown
-INV91501,C002,Women's Jeans,Clothing,47,2023-11-15 13:34:00,81.68,CUST24,Germany,Kevin Rogers
-INV62530,H001,Ceramic Mug,Home Goods,30,2024-05-16 14:02:36,69.3,CUST62,Norway,Dylan Jones
-INV95045,E003,Smartphone Charger,Electronics,8,2023-12-25 02:08:06,98.18,CUST21,Germany,Lance Harris
-INV64529,T001,Stuffed Bear,Toys,31,2025-03-16 15:57:10,18.94,CUST49,,Stacie Allen
-INV90131,E001,Wireless Mouse,Electronics,44,2023-12-23 17:35:18,92.12,CUST15,Norway,David Chaney
-INV67761,E001,Wireless Mouse,Electronics,5,2024-05-05 23:50:48,32.11,CUST91,Spain,Michael Joseph DDS
-INV97797,C003,Baseball Cap,Clothing,34,2025-01-28 22:30:33,10.43,CUST85,Spain,John Bird
-INV73167,C003,Baseball Cap,Clothing,43,2025-07-04 23:21:10,39.1,CUST72,United Kingdom,Amy Lowe
-INV11526,T002,Building Blocks Set,Toys,11,2025-01-10 17:05:10,85.34,CUST22,Germany,Bryan Anderson
-INV74441,C003,Baseball Cap,Clothing,16,2024-07-15 10:07:38,5.98,CUST29,Norway,Jennifer Orr
-INV62858,C001,Men's T-Shirt,Clothing,6,2024-11-24 16:10:20,80.32,CUST58,Germany,Angela Ferrell
-INV75333,H002,Wall Clock,Home Goods,21,2023-12-11 18:06:31,74.78,CUST3,Germany,Michael Kim
-INV62879,H001,Ceramic Mug,Home Goods,3,2025-03-04 19:59:31,1.02,CUST12,Netherlands,Devin Lee
-INV76628,H003,LED Desk Lamp,Home Goods,14,2025-06-12 16:36:36,95.09,CUST47,United Kingdom,Kathryn Gomez
-INV39218,H002,Wall Clock,Home Goods,22,2025-03-07 22:33:52,60.4,CUST92,Italy,Ruben Murphy
-INV69314,E002,Bluetooth Headphones,Electronics,7,2025-06-16 08:04:24,1.22,CUST46,Netherlands,Melissa Brown
-INV81786,H003,LED Desk Lamp,Home Goods,24,2025-07-30 03:52:15,5.53,CUST22,Portugal,Bryan Anderson
-INV28408,T003,RC Car,Toys,48,2024-10-04 03:53:39,26.17,CUST26,Spain,Sandra Leonard
-INV25826,H001,Ceramic Mug,Home Goods,14,2024-11-22 06:56:19,71.96,CUST14,Norway,Zachary Bautista
-INV16094,T002,Building Blocks Set,Toys,44,2025-04-05 04:29:10,77.44,CUST58,Portugal,Angela Ferrell
-INV96305,T001,Stuffed Bear,Toys,33,2023-12-27 18:09:42,1.43,CUST95,United Kingdom,Nathaniel Ross
-INV82512,H001,Ceramic Mug,Home Goods,38,2024-12-18 18:30:28,78.33,CUST23,France,Kimberly Obrien
-INV26827,E002,Bluetooth Headphones,Electronics,25,2025-06-15 21:51:54,61.01,CUST42,Norway,Juan Johnson
-INV64875,T001,Stuffed Bear,Toys,45,2024-04-22 09:57:40,40.39,CUST44,Netherlands,Mary Thompson
-INV69355,E003,Smartphone Charger,Electronics,9,2024-10-07 21:56:14,70.3,CUST96,Netherlands,Mary Fisher
-INV81802,C003,Baseball Cap,Clothing,46,2025-02-28 23:01:53,22.52,CUST27,Netherlands,Paul Myers
-INV99995,C003,Baseball Cap,Clothing,44,2023-12-25 23:40:08,97.54,CUST23,Italy,Kimberly Obrien
-INV25126,C003,Baseball Cap,Clothing,-36,2024-12-15 21:13:09,57.49,CUST86,Norway,Ricky Gonzalez
-INV98374,T003,RC Car,Toys,35,2024-05-30 15:22:43,81.02,CUST67,Germany,Laura West DVM
-INV13312,H001,Ceramic Mug,Home Goods,10,2023-10-05 02:03:39,20.79,CUST97,France,Meghan Hicks
-INV47567,T002,Building Blocks Set,Toys,17,2024-01-08 02:15:30,69.37,CUST38,Spain,Daniel Copeland
-INV80932,E001,Wireless Mouse,Electronics,23,2024-11-17 03:43:52,61.99,CUST87,Spain,Laura Mack
-INV94819,H003,LED Desk Lamp,Home Goods,25,2024-04-11 18:36:07,78.65,CUST90,Netherlands,Erika Oliver
-INV97096,E001,Wireless Mouse,Electronics,25,2024-09-11 15:10:00,95.71,CUST88,Italy,Jonathan Sullivan
-INV82368,E001,Wireless Mouse,Electronics,1,2024-04-25 07:23:39,62.44,CUST100,Portugal,Katrina Garcia
-INV39563,T002,Building Blocks Set,Toys,46,2025-08-07 23:34:46,37.41,CUST76,Spain,Eugene Lambert
-INV35362,C002,Women's Jeans,Clothing,29,2024-02-09 02:42:40,19.51,CUST23,Germany,Kimberly Obrien
-INV59440,E001,Wireless Mouse,Electronics,28,2024-05-23 20:15:54,27.16,CUST21,Netherlands,Lance Harris
-INV10739,C003,Baseball Cap,Clothing,30,2025-08-07 05:38:10,4.95,CUST42,United Kingdom,Juan Johnson
-INV91968,T001,Stuffed Bear,Toys,43,2024-06-15 17:51:37,79.2,CUST71,Italy,Jessica Sanchez
-INV19552,T003,RC Car,Toys,21,2025-01-31 08:00:30,95.74,CUST67,Germany,Laura West DVM
-INV76209,E003,Smartphone Charger,Electronics,27,2025-02-18 19:33:10,40.94,CUST45,Spain,Melissa Erickson
-INV37964,T002,Building Blocks Set,Toys,22,2024-07-16 13:08:10,30.06,CUST97,Portugal,Meghan Hicks
-INV83575,T002,Building Blocks Set,Toys,-1,2023-12-07 12:35:51,45.12,CUST83,Spain,Jennifer Jones
-INV15226,T002,Building Blocks Set,Toys,21,2024-09-05 04:07:40,39.2,CUST70,Netherlands,Darrell Salazar
-INV13238,H003,LED Desk Lamp,Home Goods,50,2024-08-29 18:43:31,80.48,CUST58,Portugal,Angela Ferrell
-INV15747,C002,Women's Jeans,Clothing,42,2024-02-25 11:39:44,51.88,CUST13,France,Brandon Anderson
-INV80513,H003,LED Desk Lamp,Home Goods,1,2025-05-14 02:23:01,21.87,CUST81,Spain,George Frederick
-INV99837,H001,Ceramic Mug,Home Goods,7,2024-03-09 19:34:44,83.05,CUST95,Norway,Nathaniel Ross
-INV94746,E002,Bluetooth Headphones,Electronics,48,2025-07-14 05:35:52,3.35,CUST92,Italy,Ruben Murphy
-INV14965,E002,Bluetooth Headphones,Electronics,5,2023-10-06 06:28:49,79.63,CUST72,Germany,Amy Lowe
-INV85361,C001,Men's T-Shirt,Clothing,17,2024-10-02 14:07:40,45.66,CUST52,Norway,Ashley Davis
-INV51471,E001,Wireless Mouse,Electronics,25,2025-07-01 04:18:26,53.95,CUST83,Germany,Jennifer Jones
-INV86756,E001,Wireless Mouse,Electronics,-45,2023-10-25 13:01:24,92.88,CUST14,Netherlands,Zachary Bautista
-INV99899,C002,Women's Jeans,Clothing,39,2023-11-08 10:14:59,76.76,CUST57,Norway,Adrienne Adams
-INV61788,T002,Building Blocks Set,Toys,2,2024-12-09 05:41:29,53.81,CUST18,Norway,Victoria Kennedy
-INV81529,C002,Women's Jeans,Clothing,41,2024-01-06 10:51:06,68.05,CUST94,Italy,Mark King
-INV11461,H003,LED Desk Lamp,Home Goods,36,2024-01-03 04:29:12,5.14,CUST74,Norway,Jessica Preston
-INV80405,H003,LED Desk Lamp,Home Goods,6,2024-06-19 07:38:52,75.08,CUST93,Italy,John Campos
-INV37752,H001,Ceramic Mug,Home Goods,42,2025-01-17 05:11:11,16.93,CUST29,Netherlands,Jennifer Orr
-INV35470,E002,Bluetooth Headphones,Electronics,12,2025-06-29 20:39:16,85.37,CUST97,Portugal,Meghan Hicks
-INV94498,H003,LED Desk Lamp,Home Goods,5,2024-06-04 02:27:09,25.82,CUST26,Portugal,Sandra Leonard
-INV53365,C003,Baseball Cap,Clothing,9,2025-06-29 23:51:54,24.22,CUST37,Germany,Cassidy Wells
-INV35362,C003,Baseball Cap,Clothing,32,2024-11-15 11:57:16,62.02,CUST40,France,Adam Lewis
-INV84128,T001,Stuffed Bear,Toys,24,2024-06-30 15:35:39,17.7,CUST41,Spain,Amanda Vega
-INV39035,T003,RC Car,Toys,48,2025-05-29 15:52:43,28.39,CUST47,France,Kathryn Gomez
-INV99073,T003,RC Car,Toys,22,2024-12-15 16:51:06,45.09,CUST100,Netherlands,Katrina Garcia
-INV73828,H003,,Home Goods,7,2024-02-07 23:30:13,61.06,CUST36,France,Jacob Carter
-INV80597,C001,Men's T-Shirt,Clothing,17,2025-05-14 02:47:02,73.02,CUST3,United Kingdom,Michael Kim
-INV86269,T001,Stuffed Bear,Toys,26,2025-04-07 07:44:46,90.72,CUST71,Netherlands,Jessica Sanchez
-INV81233,H003,LED Desk Lamp,Home Goods,31,2025-06-11 05:24:41,37.22,CUST29,Netherlands,Jennifer Orr
-INV27548,H002,Wall Clock,Home Goods,33,2025-01-15 03:17:49,40.28,CUST65,United Kingdom,Amber Berry
-INV96858,C001,Men's T-Shirt,Clothing,40,2025-07-12 06:02:17,75.96,CUST18,Portugal,Victoria Kennedy
-INV30869,E003,Smartphone Charger,Electronics,37,2025-03-13 05:19:22,73.86,CUST62,Italy,Dylan Jones
-INV15297,C001,Men's T-Shirt,Clothing,49,2024-12-23 08:26:15,7.22,CUST48,Spain,Kimberly Carpenter
-INV15610,T002,Building Blocks Set,Toys,14,2025-01-23 13:09:09,39.42,CUST59,United Kingdom,Michael Murphy
-INV15230,T002,Building Blocks Set,Toys,21,2023-11-25 18:58:57,63.72,CUST36,Netherlands,Jacob Carter
-INV85842,H003,,Home Goods,37,2024-02-06 13:42:49,65.71,CUST47,Germany,Kathryn Gomez
-INV77720,C002,Women's Jeans,Clothing,25,2024-03-27 18:48:01,41.18,CUST45,Portugal,Melissa Erickson
-INV73191,T001,Stuffed Bear,Toys,1,2025-01-06 05:03:34,44.55,CUST30,Germany,Hannah Miller
-INV77441,T002,Building Blocks Set,Toys,18,2024-03-15 05:28:12,19.5,CUST47,Germany,Kathryn Gomez
-INV96652,C001,Men's T-Shirt,Clothing,27,2024-07-15 04:07:35,48.67,CUST62,Portugal,Dylan Jones
-INV37617,T001,Stuffed Bear,Toys,11,2025-06-04 14:57:37,3.22,CUST6,France,Paul Flores
-INV85168,T001,Stuffed Bear,Toys,11,2023-12-27 22:55:15,51.75,CUST74,France,Jessica Preston
-INV17328,E003,Smartphone Charger,Electronics,17,2024-02-12 18:48:37,95.87,CUST77,United Kingdom,Stacey Le
-INV96736,C002,Women's Jeans,Clothing,6,2024-03-20 16:21:17,61.05,CUST61,Portugal,Mr. Christopher Dunlap
-INV32356,C001,Men's T-Shirt,Clothing,27,2025-04-18 05:11:45,79.67,CUST99,France,Laura Davis
-INV91685,T002,Building Blocks Set,Toys,33,2024-05-08 06:06:23,72.69,CUST44,Portugal,Mary Thompson
-INV88188,T001,Stuffed Bear,Toys,5,2024-04-03 13:46:12,39.16,CUST14,United Kingdom,Zachary Bautista
-INV36522,H003,LED Desk Lamp,Home Goods,33,2025-07-12 15:17:03,82.82,CUST78,Germany,Ricky Perry
-INV33255,H002,Wall Clock,Home Goods,40,2025-04-17 01:25:16,87.9,CUST69,Germany,Victoria Franklin
-INV22214,H002,Wall Clock,Home Goods,43,2023-12-23 21:58:18,54.39,CUST1,Norway,Lawrence Delacruz
-INV78425,H001,Ceramic Mug,Home Goods,24,2023-09-25 19:17:24,43.47,CUST62,Norway,Dylan Jones
-INV55943,T001,Stuffed Bear,Toys,48,2025-07-25 20:58:33,10.67,CUST18,Netherlands,Victoria Kennedy
-INV72539,C001,Men's T-Shirt,Clothing,6,2024-05-28 21:46:59,87.8,CUST53,Netherlands,Kimberly Garza
-INV34775,E001,Wireless Mouse,Electronics,46,2023-08-19 21:02:37,52.73,CUST67,United Kingdom,Laura West DVM
-INV59155,T002,Building Blocks Set,Toys,14,2025-07-16 11:30:05,41.48,CUST14,France,Zachary Bautista
-INV65846,T002,Building Blocks Set,Toys,38,2024-04-27 09:30:49,85.64,CUST55,Italy,Walter Ashley
-INV90200,C002,Women's Jeans,Clothing,44,2024-09-21 07:24:58,41.91,CUST72,Portugal,Amy Lowe
-INV33425,C003,Baseball Cap,Clothing,36,2025-03-02 17:36:47,26.12,CUST40,Italy,Adam Lewis
-INV62183,T003,RC Car,Toys,9,2025-06-17 04:20:08,75.03,CUST58,France,Angela Ferrell
-INV23143,C001,,Clothing,33,2024-09-25 12:19:19,80.28,CUST79,United Kingdom,David Mclean
-INV31068,H001,Ceramic Mug,Home Goods,41,2023-08-17 03:18:59,82.5,CUST61,Norway,Mr. Christopher Dunlap
-INV21552,E002,Bluetooth Headphones,Electronics,17,2024-03-26 13:30:06,8.92,CUST5,Norway,Megan Tanner
-INV62513,T001,Stuffed Bear,Toys,42,2025-01-26 10:25:48,71.45,CUST77,United Kingdom,Stacey Le
-INV32973,T002,Building Blocks Set,Toys,32,2024-11-03 00:23:23,20.97,CUST85,Netherlands,John Bird
-INV35525,E001,Wireless Mouse,Electronics,39,2025-01-15 18:46:48,70.15,CUST79,France,David Mclean
-INV98345,E001,Wireless Mouse,Electronics,24,2024-04-12 23:50:54,0.0,CUST21,Germany,Lance Harris
-INV46167,H001,Ceramic Mug,Home Goods,23,2025-06-27 14:23:12,41.14,CUST26,United Kingdom,Sandra Leonard
-INV18993,E002,Bluetooth Headphones,Electronics,36,2024-05-29 20:21:24,91.59,CUST45,Italy,Melissa Erickson
-INV46242,C001,Men's T-Shirt,Clothing,39,2024-02-27 16:33:26,93.04,CUST74,United Kingdom,Jessica Preston
-INV44223,E003,Smartphone Charger,Electronics,27,2025-01-11 03:52:34,56.3,CUST65,Netherlands,Amber Berry
-INV54560,E002,Bluetooth Headphones,Electronics,33,2024-05-01 19:35:04,81.5,CUST74,Netherlands,Jessica Preston
-INV68034,H001,Ceramic Mug,Home Goods,37,2024-12-19 08:51:26,75.99,CUST100,Portugal,Katrina Garcia
-INV99337,H002,Wall Clock,Home Goods,38,2023-09-09 17:32:52,12.51,CUST9,Norway,Erik Powell
-INV93055,C001,Men's T-Shirt,Clothing,44,2025-07-30 08:22:17,80.22,CUST53,Italy,Kimberly Garza
-INV77699,H003,LED Desk Lamp,Home Goods,1,2025-07-29 09:35:17,25.58,CUST12,Norway,Devin Lee
-INV98302,T003,RC Car,Toys,22,2023-10-28 20:11:26,93.21,CUST61,Italy,Mr. Christopher Dunlap
-INV56338,C001,Men's T-Shirt,Clothing,37,2024-05-13 06:39:17,94.76,CUST88,Spain,Jonathan Sullivan
-INV75404,T003,,Toys,13,2024-04-08 08:48:46,87.4,CUST27,Spain,Paul Myers
-INV36577,C001,Men's T-Shirt,Clothing,40,2024-08-10 05:40:46,78.11,CUST16,Germany,Sherri Pierce
-INV98580,T002,Building Blocks Set,Toys,32,2025-05-01 00:14:28,76.66,CUST70,United Kingdom,Darrell Salazar
-INV73214,C003,Baseball Cap,Clothing,40,2024-06-29 17:55:32,89.91,CUST74,Netherlands,Jessica Preston
-INV74330,E003,Smartphone Charger,Electronics,49,2025-01-16 10:12:15,40.39,CUST97,France,Meghan Hicks
-INV17097,H003,LED Desk Lamp,Home Goods,28,2024-12-13 19:41:19,4.22,CUST45,Norway,Melissa Erickson
-INV99959,E003,Smartphone Charger,Electronics,30,2023-12-13 18:52:02,46.55,CUST89,United Kingdom,Alyssa Miller
-INV11549,T002,Building Blocks Set,Toys,14,2024-09-03 21:09:13,10.97,CUST47,,Kathryn Gomez
-INV34530,H003,LED Desk Lamp,Home Goods,17,2024-04-10 09:48:31,47.66,CUST79,Italy,David Mclean
-INV57962,E003,Smartphone Charger,Electronics,32,2024-10-19 07:39:54,42.49,CUST97,Italy,Meghan Hicks
-INV57851,H001,Ceramic Mug,Home Goods,18,2024-11-15 06:32:58,57.57,CUST74,Spain,Jessica Preston
-INV23090,T003,RC Car,Toys,18,2024-04-09 20:13:09,43.79,CUST49,Spain,Stacie Allen
-INV29116,T003,RC Car,Toys,10,2024-12-08 00:21:16,18.48,CUST64,France,William Rodriguez
-INV92660,H003,LED Desk Lamp,Home Goods,35,2024-06-30 17:43:02,30.7,CUST72,United Kingdom,Amy Lowe
-INV62219,E002,Bluetooth Headphones,Electronics,45,2024-01-26 02:11:09,22.33,CUST33,,Bonnie Robinson
-INV92557,E002,Bluetooth Headphones,Electronics,29,2024-07-19 09:27:28,36.74,CUST72,Netherlands,Amy Lowe
-INV55107,E001,Wireless Mouse,Electronics,27,2023-12-14 12:46:58,86.87,CUST78,Spain,Ricky Perry
-INV85609,T001,Stuffed Bear,Toys,42,2025-06-06 19:36:14,18.28,CUST100,Netherlands,Katrina Garcia
-INV56544,C003,Baseball Cap,Clothing,44,2025-01-15 17:44:56,77.7,CUST58,Germany,Angela Ferrell
-INV59947,T001,Stuffed Bear,Toys,19,2024-11-28 22:59:59,95.7,CUST22,Italy,Bryan Anderson
-INV65288,T002,Building Blocks Set,Toys,40,2025-03-19 14:44:14,85.04,CUST10,Germany,Julie Cardenas
-INV31233,C003,Baseball Cap,Clothing,15,2024-06-28 11:32:13,65.65,CUST91,Netherlands,Michael Joseph DDS
-INV89349,T002,Building Blocks Set,Toys,26,2024-05-15 16:11:53,78.32,CUST47,Portugal,Kathryn Gomez
-INV64262,E003,Smartphone Charger,Electronics,12,2023-09-04 04:33:09,73.05,CUST85,Netherlands,John Bird
-INV20494,C001,Men's T-Shirt,Clothing,11,2024-09-21 03:45:01,10.46,CUST61,United Kingdom,Mr. Christopher Dunlap
-INV13455,H001,Ceramic Mug,Home Goods,34,2023-11-05 03:47:02,26.98,CUST20,Germany,Anthony Robles
-INV95830,H001,Ceramic Mug,Home Goods,20,2024-04-02 09:00:26,74.02,CUST57,France,Adrienne Adams
-INV27206,H003,LED Desk Lamp,Home Goods,11,2023-09-10 01:16:47,66.69,CUST42,Portugal,Juan Johnson
-INV71235,H003,LED Desk Lamp,Home Goods,18,2025-02-23 16:11:46,14.38,CUST90,France,Erika Oliver
-INV87441,T001,Stuffed Bear,Toys,30,2025-05-19 23:09:02,87.85,CUST56,Netherlands,Charlene Ruiz
-INV55504,H002,Wall Clock,Home Goods,35,2024-03-31 03:15:38,44.74,CUST47,Norway,Kathryn Gomez
-INV44053,E003,Smartphone Charger,Electronics,20,2023-08-22 00:00:12,52.81,CUST98,France,Jennifer Jennings
-INV55073,C002,Women's Jeans,Clothing,31,2025-02-09 00:18:10,69.09,CUST63,Portugal,Debra Gray
-INV49270,E001,Wireless Mouse,Electronics,50,2024-10-25 10:39:53,60.1,CUST1,Italy,Lawrence Delacruz
-INV34716,H001,Ceramic Mug,Home Goods,36,2024-11-01 14:22:20,25.74,CUST92,Norway,Ruben Murphy
-INV59592,C001,Men's T-Shirt,Clothing,17,2023-11-01 15:22:23,62.91,CUST67,Netherlands,Laura West DVM
-INV47313,T002,Building Blocks Set,Toys,48,2025-02-06 09:47:15,41.88,CUST9,France,Erik Powell
-INV27907,C002,Women's Jeans,Clothing,8,2025-05-25 16:34:42,62.16,CUST35,Portugal,Drew Turner
-INV34613,C003,Baseball Cap,Clothing,2,2024-01-14 01:48:25,97.0,CUST3,France,Michael Kim
-INV23405,C002,Women's Jeans,Clothing,18,2023-12-18 15:57:44,72.98,CUST30,Germany,Hannah Miller
-INV29750,E001,Wireless Mouse,Electronics,32,2024-03-21 12:26:55,42.6,CUST64,Italy,William Rodriguez
-INV70776,T003,RC Car,Toys,3,2024-07-15 02:55:15,84.51,CUST19,United Kingdom,Adrienne Davis
-INV44931,H001,Ceramic Mug,Home Goods,5,2025-02-18 17:07:03,18.98,CUST33,Norway,Bonnie Robinson
-INV11653,E002,Bluetooth Headphones,Electronics,50,2024-04-22 14:00:36,77.35,CUST57,Spain,Adrienne Adams
-INV14392,C001,Men's T-Shirt,Clothing,30,2023-11-16 18:58:26,66.93,CUST27,Portugal,Paul Myers
-INV61003,T002,Building Blocks Set,Toys,20,2024-07-07 05:46:29,63.29,CUST6,Germany,Paul Flores
-INV43202,H002,Wall Clock,Home Goods,41,2024-06-12 07:14:07,36.68,CUST7,Spain,Holly Price
-INV24801,C001,Men's T-Shirt,Clothing,41,2024-10-29 11:48:54,2.49,CUST36,Germany,Jacob Carter
-INV61879,C001,Men's T-Shirt,Clothing,1,2023-09-24 21:09:22,78.56,CUST61,France,Mr. Christopher Dunlap
-INV58679,E002,Bluetooth Headphones,Electronics,16,2024-01-20 18:12:05,10.05,CUST80,Italy,Zachary Evans
-INV91937,E001,Wireless Mouse,Electronics,4,2024-08-10 23:28:05,16.24,CUST69,Germany,Victoria Franklin
-INV26492,H002,Wall Clock,Home Goods,15,2024-07-01 20:19:44,79.07,CUST97,,Meghan Hicks
-INV67503,T003,RC Car,Toys,13,2023-09-02 13:45:14,36.46,CUST18,Netherlands,Victoria Kennedy
-INV15175,H002,Wall Clock,Home Goods,46,2024-11-02 20:21:12,30.18,CUST90,Portugal,Erika Oliver
-INV34874,T001,Stuffed Bear,Toys,12,2025-02-18 12:39:29,33.04,CUST60,Netherlands,Anthony Williams
-INV88470,H003,LED Desk Lamp,Home Goods,11,2023-10-21 19:20:17,16.35,CUST38,Netherlands,Daniel Copeland
-INV80989,C003,Baseball Cap,Clothing,30,2023-08-12 23:13:47,51.09,CUST94,France,Mark King
-INV12453,T001,Stuffed Bear,Toys,24,2025-05-08 08:41:38,32.75,CUST9,Norway,Erik Powell
-INV34886,H003,LED Desk Lamp,Home Goods,44,2025-01-02 20:04:41,16.26,CUST37,Italy,Cassidy Wells
-INV63713,T002,,Toys,21,2023-12-03 03:30:16,52.8,CUST9,United Kingdom,Erik Powell
-INV27009,E003,Smartphone Charger,Electronics,3,2024-03-05 03:53:51,49.05,CUST13,,Brandon Anderson
-INV84843,T002,Building Blocks Set,Toys,25,2025-06-15 17:50:13,53.06,CUST90,Netherlands,Erika Oliver
-INV16433,C003,,Clothing,15,2025-04-23 02:34:49,2.3,CUST27,Portugal,Paul Myers
-INV20480,H002,Wall Clock,Home Goods,41,2023-10-13 13:08:27,56.24,CUST54,Italy,Adam Suarez
-INV17641,T001,Stuffed Bear,Toys,18,2025-02-03 01:28:48,73.7,CUST39,Germany,Gordon Carlson
-INV38298,H003,LED Desk Lamp,Home Goods,7,2023-11-23 08:24:39,53.63,CUST25,Spain,Amanda Singh
-INV78969,T002,Building Blocks Set,Toys,16,2025-03-17 22:46:02,94.8,CUST72,Norway,Amy Lowe
-INV23829,T002,Building Blocks Set,Toys,37,2024-08-12 16:42:05,70.55,CUST55,Germany,Walter Ashley
-INV31864,E003,Smartphone Charger,Electronics,36,2024-09-26 18:22:31,34.41,CUST21,Portugal,Lance Harris
-INV56179,C003,Baseball Cap,Clothing,36,2024-07-09 13:32:02,41.82,CUST82,Norway,Michael Payne
-INV52395,T001,Stuffed Bear,Toys,16,2025-03-10 19:51:56,22.18,CUST99,Netherlands,Laura Davis
-INV57187,H002,Wall Clock,Home Goods,29,2024-09-21 00:00:25,72.91,CUST37,United Kingdom,Cassidy Wells
-INV77844,E003,Smartphone Charger,Electronics,20,2023-08-18 10:56:05,0.0,CUST28,Italy,Amanda Fox
-INV12844,T003,RC Car,Toys,18,2025-02-28 18:36:53,56.08,CUST74,France,Jessica Preston
-INV22358,E001,Wireless Mouse,Electronics,30,2024-08-10 05:41:01,14.7,CUST47,Spain,Kathryn Gomez
-INV40539,C002,Women's Jeans,Clothing,20,2023-11-14 20:46:14,40.58,CUST28,Germany,Amanda Fox
-INV52558,H002,Wall Clock,Home Goods,12,2024-12-23 20:58:47,82.13,CUST13,Netherlands,Brandon Anderson
-INV14898,T003,RC Car,Toys,37,2024-09-05 02:51:26,78.23,CUST99,Italy,Laura Davis
-INV55603,H001,Ceramic Mug,Home Goods,27,2023-12-13 08:15:16,75.02,CUST78,United Kingdom,Ricky Perry
-INV93084,T002,Building Blocks Set,Toys,25,2023-10-06 11:05:48,52.91,CUST41,France,Amanda Vega
-INV52838,H003,LED Desk Lamp,Home Goods,45,2024-03-25 05:34:39,6.0,CUST94,Norway,Mark King
-INV68407,T001,Stuffed Bear,Toys,37,2025-01-09 03:16:47,22.99,CUST38,Norway,Daniel Copeland
-INV29400,E003,Smartphone Charger,Electronics,22,2023-11-04 17:19:31,57.57,CUST7,Norway,Holly Price
-INV44413,E002,,Electronics,26,2025-01-06 15:49:09,77.61,CUST17,France,Tommy Cook
-INV73035,H003,LED Desk Lamp,Home Goods,13,2024-12-23 14:23:35,65.57,CUST26,Spain,Sandra Leonard
-INV41760,E002,Bluetooth Headphones,Electronics,18,2024-10-25 11:46:30,68.79,CUST74,Germany,Jessica Preston
-INV24749,T002,Building Blocks Set,Toys,27,2024-10-18 13:17:56,35.48,CUST42,Italy,Juan Johnson
-INV87840,T002,Building Blocks Set,Toys,2,2024-06-19 06:09:44,98.78,CUST79,Portugal,David Mclean
-INV91681,E003,Smartphone Charger,Electronics,29,2023-09-26 08:30:03,20.77,CUST48,France,Kimberly Carpenter
-INV21247,E002,Bluetooth Headphones,Electronics,48,2023-10-06 08:50:56,94.95,CUST19,Netherlands,Adrienne Davis
-INV11800,C003,Baseball Cap,Clothing,45,2023-12-03 11:06:32,45.56,CUST3,Italy,Michael Kim
-INV37395,T003,RC Car,Toys,35,2024-03-15 07:25:12,55.1,CUST97,Netherlands,Meghan Hicks
-INV81932,H002,Wall Clock,Home Goods,40,2024-01-03 00:40:10,38.28,CUST85,United Kingdom,John Bird
-INV43483,E003,Smartphone Charger,Electronics,4,2024-05-28 07:18:25,79.13,CUST80,Netherlands,Zachary Evans
-INV16957,H002,Wall Clock,Home Goods,42,2023-08-20 02:25:29,39.48,CUST35,Italy,Drew Turner
-INV24141,E001,Wireless Mouse,Electronics,19,2025-06-06 14:04:22,23.89,CUST49,Germany,Stacie Allen
-INV51347,H002,Wall Clock,Home Goods,39,2025-02-06 03:12:17,19.46,CUST65,Portugal,Amber Berry
-INV83490,T003,RC Car,Toys,2,2023-09-21 09:00:26,92.3,CUST40,Italy,Adam Lewis
-INV74216,H001,Ceramic Mug,Home Goods,48,2024-01-19 00:40:08,35.33,CUST46,Italy,Melissa Brown
-INV91950,C002,Women's Jeans,Clothing,16,2025-01-06 10:02:39,81.38,CUST81,Netherlands,George Frederick
-INV60747,E001,Wireless Mouse,Electronics,36,2024-05-24 08:12:47,16.02,CUST51,France,Timothy Chandler
-INV21507,T003,RC Car,Toys,25,2025-01-26 22:17:54,87.4,CUST88,Spain,Jonathan Sullivan
-INV64700,C001,Men's T-Shirt,Clothing,37,2024-01-15 15:31:37,97.08,CUST78,Italy,Ricky Perry
-INV68873,H003,LED Desk Lamp,Home Goods,9,2024-03-10 23:45:20,14.72,CUST70,Spain,Darrell Salazar
-INV28102,C002,Women's Jeans,Clothing,45,2025-08-03 19:04:16,91.05,CUST56,France,Charlene Ruiz
-INV96013,T001,Stuffed Bear,Toys,11,2024-07-02 02:28:08,56.18,CUST93,Germany,John Campos
-INV34134,C003,Baseball Cap,Clothing,10,2023-09-11 11:36:11,88.13,CUST53,Norway,Kimberly Garza
-INV49760,H002,Wall Clock,Home Goods,48,2025-05-25 09:58:07,16.04,CUST25,Germany,Amanda Singh
-INV27241,E003,Smartphone Charger,Electronics,2,2025-04-29 22:27:44,27.42,CUST73,Spain,Jill Frost
-INV88166,C001,Men's T-Shirt,Clothing,15,2025-07-15 00:56:58,36.57,CUST89,Portugal,Alyssa Miller
-INV27575,H003,LED Desk Lamp,Home Goods,39,2024-12-04 23:39:00,38.02,CUST50,Portugal,Andrew Russell
-INV72108,E003,Smartphone Charger,Electronics,11,2024-02-25 08:14:18,4.19,CUST98,United Kingdom,Jennifer Jennings
-INV45370,H001,Ceramic Mug,Home Goods,15,2025-06-29 07:23:05,76.02,CUST9,France,Erik Powell
-INV67577,T001,Stuffed Bear,Toys,32,2025-07-16 11:49:44,86.81,CUST32,Norway,Nicholas Gonzalez
-INV63066,E001,Wireless Mouse,Electronics,39,2024-09-04 11:23:32,40.02,CUST96,United Kingdom,Mary Fisher
-INV78242,E002,Bluetooth Headphones,Electronics,29,2024-11-21 01:32:39,87.9,CUST32,Norway,Nicholas Gonzalez
-INV15144,H003,LED Desk Lamp,Home Goods,25,2025-01-21 22:57:40,96.3,CUST25,Netherlands,Amanda Singh
-INV67613,H001,Ceramic Mug,Home Goods,20,2024-05-30 16:47:49,17.48,CUST38,United Kingdom,Daniel Copeland
-INV77760,E003,Smartphone Charger,Electronics,30,2025-06-03 16:26:44,9.95,CUST65,Germany,Amber Berry
-INV33562,T001,Stuffed Bear,Toys,45,2025-02-21 04:55:34,39.91,CUST42,Portugal,Juan Johnson
-INV13265,E003,Smartphone Charger,Electronics,30,2025-04-07 07:21:07,88.37,CUST12,Netherlands,Devin Lee
-INV52477,T003,RC Car,Toys,42,2025-08-09 05:58:15,72.12,CUST16,Germany,Sherri Pierce
-INV24963,T003,RC Car,Toys,29,2025-05-22 13:12:51,9.45,CUST91,Norway,Michael Joseph DDS
-INV77065,T001,Stuffed Bear,Toys,11,2024-09-02 20:02:14,38.68,CUST99,France,Laura Davis
-INV53934,T001,Stuffed Bear,Toys,43,2024-01-12 05:54:09,87.01,CUST23,United Kingdom,Kimberly Obrien
-INV64995,C002,Women's Jeans,Clothing,20,2024-11-10 10:30:51,0.0,CUST16,France,Sherri Pierce
-INV36588,E001,Wireless Mouse,Electronics,40,2024-04-27 00:26:40,46.41,CUST64,United Kingdom,William Rodriguez
-INV89689,H002,Wall Clock,Home Goods,16,2024-03-21 21:26:23,66.29,CUST59,Norway,Michael Murphy
-INV67917,E002,Bluetooth Headphones,Electronics,39,2025-04-17 00:14:21,25.23,CUST71,Netherlands,Jessica Sanchez
-INV91233,T002,Building Blocks Set,Toys,36,2024-03-11 01:46:51,19.3,CUST8,Italy,Norman Pruitt
-INV14813,E003,Smartphone Charger,Electronics,3,2025-06-25 21:02:51,83.96,CUST39,Italy,Gordon Carlson
-INV21495,E001,Wireless Mouse,Electronics,7,2024-10-11 06:29:23,16.97,CUST37,France,Cassidy Wells
-INV69682,T003,RC Car,Toys,38,2024-08-14 01:18:17,10.22,CUST39,Italy,Gordon Carlson
-INV58309,H001,,Home Goods,5,2024-10-22 20:02:31,7.43,CUST61,France,Mr. Christopher Dunlap
-INV25993,T003,RC Car,Toys,18,2024-07-14 19:11:21,41.96,CUST27,Spain,Paul Myers
-INV90223,E001,Wireless Mouse,Electronics,7,2025-03-19 22:54:01,53.37,CUST12,Portugal,Devin Lee
-INV89269,T003,RC Car,Toys,19,2024-10-22 22:10:02,84.93,CUST34,Italy,Katherine Johnson
-INV27001,T001,Stuffed Bear,Toys,37,2025-01-01 18:55:18,73.19,CUST64,Portugal,William Rodriguez
-INV33580,T001,Stuffed Bear,Toys,15,2025-08-06 10:34:34,97.95,CUST1,Germany,Lawrence Delacruz
-INV13143,H002,Wall Clock,Home Goods,41,2023-12-10 07:32:55,80.16,CUST54,Norway,Adam Suarez
-INV15962,C003,Baseball Cap,Clothing,23,2025-03-07 23:12:38,22.02,CUST82,Spain,Michael Payne
-INV46913,C002,Women's Jeans,Clothing,5,2024-06-22 10:55:58,51.16,CUST42,United Kingdom,Juan Johnson
-INV24920,T002,Building Blocks Set,Toys,22,2024-07-26 14:25:10,72.72,CUST79,United Kingdom,David Mclean
-INV33020,C001,Men's T-Shirt,Clothing,22,2024-07-23 17:26:37,91.7,CUST5,France,Megan Tanner
-INV73110,E003,Smartphone Charger,Electronics,41,2024-11-25 19:33:01,89.7,CUST60,Norway,Anthony Williams
-INV17342,H003,LED Desk Lamp,Home Goods,20,2025-03-12 11:29:13,55.96,CUST3,Spain,Michael Kim
-INV85680,T002,Building Blocks Set,Toys,22,2024-08-08 02:24:38,96.99,CUST36,United Kingdom,Jacob Carter
-INV54453,H001,Ceramic Mug,Home Goods,41,2025-02-09 06:02:33,57.53,CUST50,France,Andrew Russell
-INV88012,E002,Bluetooth Headphones,Electronics,49,2024-06-22 11:27:02,71.27,CUST35,Norway,Drew Turner
-INV21376,H002,Wall Clock,Home Goods,16,2024-08-26 16:27:12,83.12,CUST39,Spain,Gordon Carlson
-INV78825,C002,Women's Jeans,Clothing,12,2023-12-04 13:37:29,78.71,CUST100,Spain,Katrina Garcia
-INV22137,H002,Wall Clock,Home Goods,33,2023-09-06 17:34:23,90.59,CUST20,Spain,Anthony Robles
-INV54579,H002,Wall Clock,Home Goods,47,2025-01-29 11:17:59,77.78,CUST19,Germany,Adrienne Davis
-INV77652,T002,Building Blocks Set,Toys,9,2024-03-09 01:19:51,46.48,CUST92,Germany,Ruben Murphy
-INV10538,C002,Women's Jeans,Clothing,3,2025-07-15 21:38:14,87.32,CUST43,Portugal,Justin Moreno
-INV16047,E002,Bluetooth Headphones,Electronics,34,2025-06-16 11:22:37,3.23,CUST98,Netherlands,Jennifer Jennings
-INV93735,C001,Men's T-Shirt,Clothing,21,2024-03-04 07:00:37,29.37,CUST69,Italy,Victoria Franklin
-INV67817,T002,Building Blocks Set,Toys,8,2024-05-17 05:26:11,16.59,CUST15,United Kingdom,David Chaney
-INV91650,H003,LED Desk Lamp,Home Goods,33,2023-11-24 07:31:16,54.71,CUST71,Italy,Jessica Sanchez
-INV45527,E003,Smartphone Charger,Electronics,46,2024-05-28 20:54:06,25.24,CUST10,Netherlands,Julie Cardenas
-INV90381,C003,Baseball Cap,Clothing,35,2024-11-08 01:50:48,13.88,CUST61,United Kingdom,Mr. Christopher Dunlap
-INV23884,H001,Ceramic Mug,Home Goods,4,2023-11-08 15:31:37,39.8,CUST91,Portugal,Michael Joseph DDS
-INV90781,C003,Baseball Cap,Clothing,20,2024-07-17 07:12:51,71.58,CUST86,Germany,Ricky Gonzalez
-INV71039,T001,Stuffed Bear,Toys,9,2023-11-15 17:02:57,10.63,CUST40,Portugal,Adam Lewis
-INV71675,C001,Men's T-Shirt,Clothing,15,2024-01-06 22:27:43,26.55,CUST47,Norway,Kathryn Gomez
-INV34032,T003,RC Car,Toys,43,2024-07-15 11:49:27,45.88,CUST4,Germany,Craig Perkins
-INV72303,E002,Bluetooth Headphones,Electronics,23,2024-12-14 16:47:35,84.73,CUST37,Italy,Cassidy Wells
-INV89225,T001,Stuffed Bear,Toys,9,2025-01-13 03:44:51,41.16,CUST92,Germany,Ruben Murphy
-INV52712,H003,LED Desk Lamp,Home Goods,42,2023-10-23 10:59:59,53.74,CUST52,Norway,Ashley Davis
-INV41270,T001,Stuffed Bear,Toys,16,2025-02-23 05:47:23,97.42,CUST50,Germany,Andrew Russell
-INV54658,C001,Men's T-Shirt,Clothing,45,2025-04-08 15:41:51,78.65,CUST56,Italy,Charlene Ruiz
-INV81372,T003,RC Car,Toys,16,2024-02-05 02:50:09,74.2,CUST92,Portugal,Ruben Murphy
-INV24984,T001,Stuffed Bear,Toys,39,2024-11-28 11:50:47,55.95,CUST57,France,Adrienne Adams
-INV50374,H001,Ceramic Mug,Home Goods,5,2025-04-15 03:57:33,68.87,CUST77,Norway,Stacey Le
-INV52914,H002,Wall Clock,Home Goods,42,2025-06-18 02:14:18,9.96,CUST18,United Kingdom,Victoria Kennedy
-INV29231,T002,Building Blocks Set,Toys,10,2024-11-17 19:20:32,29.86,CUST79,Portugal,David Mclean
-INV35646,C001,Men's T-Shirt,Clothing,44,2024-07-01 10:54:46,57.46,CUST87,Netherlands,Laura Mack
-INV66980,T003,RC Car,Toys,23,2023-11-11 21:12:59,1.8,CUST66,Norway,Krista Barrett
-INV26718,C002,Women's Jeans,Clothing,4,2024-08-24 19:59:03,96.82,CUST1,Italy,Lawrence Delacruz
-INV24378,C002,Women's Jeans,Clothing,2,2024-04-08 15:43:05,70.52,CUST51,Italy,Timothy Chandler
-INV60173,H001,Ceramic Mug,Home Goods,25,2024-10-30 19:50:49,21.91,CUST23,Portugal,Kimberly Obrien
-INV28228,C001,,Clothing,36,2024-09-08 13:07:03,84.16,CUST20,Netherlands,Anthony Robles
-INV97826,E003,Smartphone Charger,Electronics,9,2023-08-23 02:36:43,65.19,CUST19,Portugal,Adrienne Davis
-INV96235,H001,Ceramic Mug,Home Goods,9,2023-11-06 04:59:45,64.58,CUST54,Portugal,Adam Suarez
-INV89223,H001,Ceramic Mug,Home Goods,40,2024-02-12 16:32:38,51.43,CUST71,Portugal,Jessica Sanchez
-INV60425,C003,Baseball Cap,Clothing,15,2024-02-18 15:27:55,60.85,CUST74,Portugal,Jessica Preston
-INV41031,T003,RC Car,Toys,33,2024-05-13 14:57:29,92.73,CUST74,Italy,Jessica Preston
-INV14385,E001,Wireless Mouse,Electronics,37,2024-12-18 13:25:10,12.2,CUST62,Germany,Dylan Jones
-INV28623,T003,RC Car,Toys,47,2025-02-01 10:10:24,47.03,CUST11,Germany,Justin Hart
-INV42142,H002,Wall Clock,Home Goods,41,2025-06-21 02:50:34,68.72,CUST70,Netherlands,Darrell Salazar
-INV90352,E001,Wireless Mouse,Electronics,22,2025-02-09 00:23:33,47.42,CUST66,Portugal,Krista Barrett
-INV85230,T003,RC Car,Toys,22,2024-10-16 12:50:57,96.1,CUST38,Netherlands,Daniel Copeland
-INV31955,E001,Wireless Mouse,Electronics,45,2025-04-14 11:04:15,72.97,CUST73,Netherlands,Jill Frost
-INV18050,T002,Building Blocks Set,Toys,31,2025-03-26 06:09:21,57.71,CUST85,Netherlands,John Bird
-INV91830,E001,Wireless Mouse,Electronics,19,2024-12-20 03:00:14,13.56,CUST10,Netherlands,Julie Cardenas
-INV43036,E003,Smartphone Charger,Electronics,40,2024-05-25 10:01:13,85.93,CUST2,Germany,Sherry West
-INV89144,E003,Smartphone Charger,Electronics,38,2024-01-13 23:59:56,45.22,CUST23,Netherlands,Kimberly Obrien
-INV40958,H002,Wall Clock,Home Goods,12,2025-02-02 01:12:17,34.94,CUST11,France,Justin Hart
-INV88059,E003,Smartphone Charger,Electronics,32,2024-10-07 13:57:02,24.56,CUST57,France,Adrienne Adams
-INV37637,T001,Stuffed Bear,Toys,47,2024-07-30 01:58:40,64.58,CUST97,Germany,Meghan Hicks
-INV16884,E003,Smartphone Charger,Electronics,30,2024-09-23 17:20:20,30.84,CUST96,Spain,Mary Fisher
-INV59781,T002,Building Blocks Set,Toys,46,2024-09-14 17:16:45,27.0,CUST68,Norway,Brian Johnson
-INV11554,C002,Women's Jeans,Clothing,29,2024-09-06 11:29:37,96.21,CUST88,United Kingdom,Jonathan Sullivan
-INV22761,H003,LED Desk Lamp,Home Goods,41,2024-08-08 15:43:15,61.44,CUST84,Netherlands,Matthew Ramirez
-INV53904,C002,Women's Jeans,Clothing,18,2023-11-20 09:17:48,65.78,CUST51,Portugal,Timothy Chandler
-INV98511,T003,,Toys,16,2025-06-30 21:26:05,77.28,CUST67,Italy,Laura West DVM
-INV98829,T003,RC Car,Toys,12,2024-06-27 19:56:16,2.05,CUST2,Germany,Sherry West
-INV11567,H001,Ceramic Mug,Home Goods,7,2025-01-30 03:46:59,68.86,CUST45,Spain,Melissa Erickson
-INV47132,C002,Women's Jeans,Clothing,13,2023-09-15 00:51:46,62.32,CUST8,Spain,Norman Pruitt
-INV88562,T002,Building Blocks Set,Toys,8,2025-08-06 04:22:05,9.55,CUST78,France,Ricky Perry
-INV59277,T002,Building Blocks Set,Toys,49,2025-06-05 20:36:35,80.52,CUST24,Germany,Kevin Rogers
-INV34151,C002,Women's Jeans,Clothing,19,2024-12-02 02:45:24,64.24,CUST36,Norway,Jacob Carter
-INV97500,C003,Baseball Cap,Clothing,17,2024-01-24 02:41:38,28.45,CUST8,Norway,Norman Pruitt
-INV60933,C003,Baseball Cap,Clothing,4,2024-05-02 09:38:10,18.62,CUST9,Portugal,Erik Powell
-INV36302,T001,Stuffed Bear,Toys,26,2024-02-10 23:30:04,49.71,CUST19,Norway,Adrienne Davis
-INV38624,T001,Stuffed Bear,Toys,42,2023-11-28 16:04:38,71.82,CUST14,United Kingdom,Zachary Bautista
-INV19557,E002,Bluetooth Headphones,Electronics,37,2024-04-24 16:14:02,2.86,CUST64,France,William Rodriguez
-INV95572,T002,Building Blocks Set,Toys,1,2023-09-19 14:13:01,27.38,CUST90,Italy,Erika Oliver
-INV61292,T001,Stuffed Bear,Toys,1,2025-01-20 17:51:54,48.34,CUST52,Germany,Ashley Davis
-INV80795,C001,Men's T-Shirt,Clothing,1,2024-09-08 17:33:05,13.0,CUST69,Italy,Victoria Franklin
-INV53704,T002,Building Blocks Set,Toys,20,2024-09-25 02:00:34,63.59,CUST83,Germany,Jennifer Jones
-INV57887,H003,,Home Goods,22,2023-11-02 16:44:05,76.28,CUST38,Spain,Daniel Copeland
-INV33149,H003,LED Desk Lamp,Home Goods,3,2024-09-08 06:57:15,30.59,CUST50,Germany,Andrew Russell
-INV92656,T003,RC Car,Toys,23,2024-12-22 03:05:23,88.64,CUST57,Spain,Adrienne Adams
-INV28342,E001,Wireless Mouse,Electronics,13,2023-09-06 21:35:18,24.61,CUST50,Germany,Andrew Russell
-INV80851,T002,Building Blocks Set,Toys,20,2025-01-04 19:26:24,96.53,CUST58,United Kingdom,Angela Ferrell
-INV14855,C003,Baseball Cap,Clothing,4,2024-07-22 01:33:31,41.15,CUST28,Portugal,Amanda Fox
-INV98877,H003,LED Desk Lamp,Home Goods,10,2025-03-27 08:28:57,92.56,CUST5,France,Megan Tanner
-INV74080,T002,Building Blocks Set,Toys,2,2024-12-06 22:30:51,5.53,CUST90,France,Erika Oliver
-INV11882,E003,Smartphone Charger,Electronics,41,2023-10-02 11:11:23,82.25,CUST13,Portugal,Brandon Anderson
-INV90114,E003,Smartphone Charger,Electronics,38,2023-10-16 03:52:17,12.3,CUST77,Spain,Stacey Le
-INV18271,C001,Men's T-Shirt,Clothing,28,2024-07-22 14:38:12,33.1,CUST88,France,Jonathan Sullivan
-INV52151,C001,Men's T-Shirt,Clothing,49,2023-09-27 21:35:36,18.17,CUST9,Germany,Erik Powell
-INV45899,E003,Smartphone Charger,Electronics,49,2024-10-10 06:07:06,69.93,CUST71,France,Jessica Sanchez
-INV67496,C001,Men's T-Shirt,Clothing,38,2023-09-22 04:51:21,10.9,CUST81,Norway,George Frederick
-INV30677,E001,Wireless Mouse,Electronics,32,2023-11-02 00:13:52,1.72,CUST12,Netherlands,Devin Lee
-INV64555,T003,RC Car,Toys,50,2024-12-11 04:37:12,21.41,CUST82,Netherlands,Michael Payne
-INV78562,H002,Wall Clock,Home Goods,27,2024-04-12 06:21:18,61.44,CUST5,France,Megan Tanner
-INV75521,T001,Stuffed Bear,Toys,6,2025-05-15 10:57:58,35.44,CUST1,Spain,Lawrence Delacruz
-INV35153,E002,Bluetooth Headphones,Electronics,34,2023-11-17 22:32:03,36.83,CUST98,Spain,Jennifer Jennings
-INV70845,T002,Building Blocks Set,Toys,43,2024-03-12 10:03:51,6.25,CUST15,France,David Chaney
-INV99816,H002,Wall Clock,Home Goods,32,2024-02-08 05:49:00,67.34,CUST6,United Kingdom,Paul Flores
-INV94523,C003,Baseball Cap,Clothing,19,2024-03-13 15:49:33,25.89,CUST79,Portugal,David Mclean
-INV15677,E002,Bluetooth Headphones,Electronics,48,2023-10-04 19:33:52,18.41,CUST4,Portugal,Craig Perkins
-INV77489,E002,Bluetooth Headphones,Electronics,5,2024-04-08 16:11:43,59.68,CUST42,Norway,Juan Johnson
-INV36050,T003,RC Car,Toys,44,2024-07-10 08:22:34,78.12,CUST42,Spain,Juan Johnson
-INV22853,C001,Men's T-Shirt,Clothing,48,2024-10-07 07:16:48,38.18,CUST29,,Jennifer Orr
-INV71733,T001,Stuffed Bear,Toys,32,2023-10-06 15:52:09,15.35,CUST79,Portugal,David Mclean
-INV33338,H001,Ceramic Mug,Home Goods,24,2023-12-29 16:39:56,72.26,CUST81,Italy,George Frederick
-INV45349,C001,Men's T-Shirt,Clothing,22,2023-12-20 01:10:06,69.53,CUST8,Netherlands,Norman Pruitt
-INV27891,E002,Bluetooth Headphones,Electronics,30,2024-11-23 15:13:37,17.95,CUST44,Spain,Mary Thompson
-INV48687,T001,Stuffed Bear,Toys,11,2025-05-26 22:15:54,90.65,CUST74,Spain,Jessica Preston
-INV21334,H001,Ceramic Mug,Home Goods,34,2024-12-24 07:52:49,59.57,CUST60,Netherlands,Anthony Williams
-INV11901,T003,RC Car,Toys,28,2024-04-20 09:01:23,33.4,CUST75,Spain,Mr. Ricky Spence
-INV87564,E003,Smartphone Charger,Electronics,37,2023-08-17 15:12:38,98.04,CUST6,Portugal,Paul Flores
-INV76088,E001,Wireless Mouse,Electronics,28,2025-02-05 14:21:24,48.45,CUST90,Germany,Erika Oliver
-INV69302,H002,Wall Clock,Home Goods,16,2023-11-05 20:20:02,75.55,CUST89,Norway,Alyssa Miller
-INV38574,E003,Smartphone Charger,Electronics,23,2024-06-09 08:42:14,65.12,CUST12,United Kingdom,Devin Lee
-INV72886,T002,Building Blocks Set,Toys,20,2024-01-24 16:43:19,85.93,CUST96,United Kingdom,Mary Fisher
-INV69616,H002,Wall Clock,Home Goods,50,2023-12-31 14:45:31,19.31,CUST48,Portugal,Kimberly Carpenter
-INV93021,E001,,Electronics,-41,2023-10-23 14:00:46,89.45,CUST43,United Kingdom,Justin Moreno
-INV48874,H001,Ceramic Mug,Home Goods,49,2024-05-14 22:18:01,54.7,CUST27,Germany,Paul Myers
-INV91324,C003,Baseball Cap,Clothing,48,2023-10-07 18:44:27,94.59,CUST87,Italy,Laura Mack
-INV16758,E002,Bluetooth Headphones,Electronics,25,2024-08-20 16:56:34,62.29,CUST47,Italy,Kathryn Gomez
-INV32972,T002,Building Blocks Set,Toys,36,2025-08-02 02:26:22,56.52,CUST100,Spain,Katrina Garcia
-INV28141,C003,Baseball Cap,Clothing,16,2025-02-14 04:08:04,65.25,CUST95,Spain,Nathaniel Ross
-INV39548,C003,Baseball Cap,Clothing,23,2024-05-11 18:20:03,68.34,CUST36,United Kingdom,Jacob Carter
-INV18305,C003,Baseball Cap,Clothing,23,2024-11-17 17:42:10,50.64,CUST16,Portugal,Sherri Pierce
-INV79717,T002,Building Blocks Set,Toys,35,2024-06-06 16:27:21,62.47,CUST87,Germany,Laura Mack
-INV34687,H002,Wall Clock,Home Goods,6,2023-11-02 14:13:27,89.9,CUST37,Germany,Cassidy Wells
-INV24334,E003,Smartphone Charger,Electronics,18,2023-12-04 05:23:12,50.14,CUST27,United Kingdom,Paul Myers
-INV48426,H001,Ceramic Mug,Home Goods,44,2025-02-16 04:48:25,47.92,CUST54,Portugal,Adam Suarez
-INV94500,E001,Wireless Mouse,Electronics,19,2024-02-21 02:17:30,3.18,CUST30,Italy,Hannah Miller
-INV63961,T001,Stuffed Bear,Toys,22,2025-06-13 23:31:19,78.9,CUST63,Portugal,Debra Gray
-INV70031,C002,Women's Jeans,Clothing,37,2023-12-25 11:09:32,18.0,CUST34,Spain,Katherine Johnson
-INV73470,C003,Baseball Cap,Clothing,19,2023-09-29 05:24:03,35.96,CUST59,France,Michael Murphy
-INV91085,E003,Smartphone Charger,Electronics,46,2025-02-10 10:23:07,19.05,CUST23,France,Kimberly Obrien
-INV31135,C001,Men's T-Shirt,Clothing,8,2023-09-23 11:31:40,57.88,CUST57,Netherlands,Adrienne Adams
-INV58453,E003,Smartphone Charger,Electronics,14,2025-03-09 01:15:46,66.89,CUST45,France,Melissa Erickson
-INV58878,H002,Wall Clock,Home Goods,35,2024-01-25 19:25:45,30.85,CUST4,Norway,Craig Perkins
-INV75459,E003,Smartphone Charger,Electronics,30,2024-07-04 05:40:54,1.43,CUST95,Italy,Nathaniel Ross
-INV94835,T003,RC Car,Toys,19,2024-12-09 10:33:08,96.99,CUST97,France,Meghan Hicks
-INV84086,T003,RC Car,Toys,29,2024-07-23 04:05:21,73.43,CUST6,France,Paul Flores
-INV98867,H003,LED Desk Lamp,Home Goods,8,2024-06-22 00:54:10,40.76,CUST29,Portugal,Jennifer Orr
-INV56844,E002,Bluetooth Headphones,Electronics,21,2023-10-07 22:08:31,64.49,CUST75,Spain,Mr. Ricky Spence
-INV46428,C001,Men's T-Shirt,Clothing,2,2023-11-05 19:36:10,85.1,CUST87,Germany,Laura Mack
-INV77081,H001,Ceramic Mug,Home Goods,13,2024-12-26 11:34:09,60.71,CUST66,United Kingdom,Krista Barrett
-INV97394,C003,Baseball Cap,Clothing,26,2024-01-10 15:34:11,37.59,CUST48,United Kingdom,Kimberly Carpenter
-INV47309,C003,Baseball Cap,Clothing,23,2024-06-22 16:13:22,87.56,CUST12,Spain,Devin Lee
-INV68224,T003,RC Car,Toys,27,2024-11-07 10:30:31,17.22,CUST94,Norway,Mark King
-INV64289,E003,Smartphone Charger,Electronics,38,2025-04-15 03:08:02,15.22,CUST39,Portugal,Gordon Carlson
-INV78852,C003,Baseball Cap,Clothing,5,2025-04-07 13:40:53,9.76,CUST53,Netherlands,Kimberly Garza
-INV64331,E003,Smartphone Charger,Electronics,36,2024-11-27 20:40:37,75.77,CUST18,Spain,Victoria Kennedy
-INV34380,H001,Ceramic Mug,Home Goods,19,2025-03-01 17:51:42,5.18,CUST39,Netherlands,Gordon Carlson
-INV74762,H003,LED Desk Lamp,Home Goods,48,2024-11-28 08:10:28,3.66,CUST1,France,Lawrence Delacruz
-INV44429,C002,,Clothing,41,2025-05-24 17:12:16,13.29,CUST86,Netherlands,Ricky Gonzalez
-INV64677,E003,Smartphone Charger,Electronics,32,2025-07-16 23:28:33,25.23,CUST16,Netherlands,Sherri Pierce
-INV74625,E002,Bluetooth Headphones,Electronics,39,2024-08-16 21:09:21,48.57,CUST56,Netherlands,Charlene Ruiz
-INV92312,T002,Building Blocks Set,Toys,31,2025-07-22 04:21:14,37.95,CUST94,United Kingdom,Mark King
-INV44018,E003,Smartphone Charger,Electronics,38,2023-10-10 05:19:14,32.65,CUST89,France,Alyssa Miller
-INV56843,E003,Smartphone Charger,Electronics,4,2024-05-17 13:08:58,42.53,CUST46,United Kingdom,Melissa Brown
-INV47992,C002,Women's Jeans,Clothing,34,2025-05-27 02:47:49,51.87,CUST99,France,Laura Davis
-INV22387,T001,Stuffed Bear,Toys,49,2024-01-30 19:47:45,32.94,CUST41,Netherlands,Amanda Vega
-INV45580,T002,Building Blocks Set,Toys,45,2025-07-16 13:11:56,10.49,CUST75,Italy,Mr. Ricky Spence
-INV28837,E001,Wireless Mouse,Electronics,9,2025-01-23 10:14:45,37.93,CUST63,Norway,Debra Gray
-INV54605,E003,Smartphone Charger,Electronics,-7,2024-03-22 05:37:37,50.83,CUST25,Germany,Amanda Singh
-INV64702,H002,Wall Clock,Home Goods,5,2023-12-09 04:46:40,92.42,CUST62,Italy,Dylan Jones
-INV50838,T003,RC Car,Toys,24,2024-01-01 16:05:25,89.08,CUST77,Italy,Stacey Le
-INV32571,T003,RC Car,Toys,20,2023-09-10 04:19:04,23.01,CUST89,France,Alyssa Miller
-INV39697,C002,Women's Jeans,Clothing,9,2024-03-13 04:44:27,98.13,CUST55,Germany,Walter Ashley
-INV20188,E001,Wireless Mouse,Electronics,50,2024-12-19 15:42:04,5.21,CUST14,United Kingdom,Zachary Bautista
-INV96479,H003,LED Desk Lamp,Home Goods,38,2023-10-11 17:04:43,12.77,CUST33,United Kingdom,Bonnie Robinson
-INV18683,C002,Women's Jeans,Clothing,43,2023-08-22 03:30:48,78.45,CUST78,Spain,Ricky Perry
-INV87018,C001,Men's T-Shirt,Clothing,12,2025-06-28 12:47:56,3.9,CUST19,Netherlands,Adrienne Davis
-INV85989,C003,Baseball Cap,Clothing,23,2024-01-23 18:13:39,78.3,CUST79,Spain,David Mclean
-INV76179,T001,Stuffed Bear,Toys,5,2023-11-21 21:02:57,76.56,CUST68,Spain,Brian Johnson
-INV35106,C002,Women's Jeans,Clothing,11,2025-02-12 00:09:27,97.38,CUST13,Spain,Brandon Anderson
-INV76085,T003,RC Car,Toys,31,2024-08-21 21:27:31,19.33,CUST87,Germany,Laura Mack
-INV33704,C003,Baseball Cap,Clothing,25,2024-10-19 07:48:05,51.91,CUST53,Germany,Kimberly Garza
-INV51193,E002,Bluetooth Headphones,Electronics,30,2023-12-02 18:55:21,14.46,CUST98,Italy,Jennifer Jennings
-INV47784,H003,LED Desk Lamp,Home Goods,47,2023-09-22 02:59:40,33.48,CUST15,Norway,David Chaney
-INV47173,H002,Wall Clock,Home Goods,39,2024-06-26 16:09:50,23.36,CUST53,Netherlands,Kimberly Garza
+INV93810,E002,Bluetooth Headphones,Electronics,2,2024-05-19 08:54:58,23.1,CUST95,Germany,Kristi Hogan
+INV98696,T003,RC Car,Toys,35,2023-11-09 21:29:57,42.77,CUST4,Germany,Danny Norton
+INV38657,C001,Men's T-Shirt,Clothing,33,2025-04-19 00:57:58,56.56,CUST92,Norway,Tyler Adams
+INV38893,H002,Wall Clock,Home Goods,38,2024-05-22 00:14:11,76.12,CUST21,Norway,Jasmine Wright
+INV54597,C002,Women's Jeans,Clothing,10,2024-03-19 12:15:18,11.12,CUST49,Germany,Yvonne Hall
+INV57052,C003,Baseball Cap,Clothing,39,2024-05-08 01:34:55,73.24,CUST69,Germany,Mrs. Kristina Brown MD
+INV59615,E002,Bluetooth Headphones,Electronics,36,2024-06-07 22:53:17,62.23,CUST47,Spain,Caitlin Hickman
+INV19116,E001,Wireless Mouse,Electronics,43,2024-04-01 10:32:10,98.54,CUST30,Germany,Jessica Young
+INV59823,C002,Women's Jeans,Clothing,30,2025-05-23 13:16:59,17.1,CUST46,Spain,Tyler Torres
+INV97841,C002,Women's Jeans,Clothing,45,2025-07-11 23:35:39,8.07,CUST82,France,Megan Guerrero
+INV80010,T003,RC Car,Toys,16,2024-01-26 16:49:49,38.57,CUST82,Spain,Megan Guerrero
+INV99733,C003,Baseball Cap,Clothing,50,2023-10-08 08:20:21,82.36,CUST41,Norway,William Johnson
+INV45093,E002,Bluetooth Headphones,Electronics,14,2025-03-14 11:27:25,22.05,CUST64,Norway,Connor Bailey
+INV94259,H002,Wall Clock,Home Goods,10,2024-05-09 05:05:01,25.42,CUST72,Netherlands,Thomas Little
+INV86622,H001,Ceramic Mug,Home Goods,38,2024-09-23 13:10:47,22.71,CUST18,Portugal,William Bryan
+INV21915,E001,Wireless Mouse,Electronics,8,2024-01-15 22:50:40,16.84,CUST88,Norway,Tony Woods
+INV88172,E002,Bluetooth Headphones,Electronics,25,2024-09-05 21:41:44,99.62,CUST68,Netherlands,Ashley King
+INV82512,E001,Wireless Mouse,Electronics,44,2023-12-07 19:33:01,75.34,CUST99,Italy,Anthony Gordon
+INV24621,C002,Women's Jeans,Clothing,28,2024-01-20 16:31:10,1.32,CUST93,Netherlands,Shawn Herrera
+INV75612,E003,Smartphone Charger,Electronics,33,2023-11-28 22:45:59,30.55,CUST82,Spain,Megan Guerrero
+INV30032,C003,Baseball Cap,Clothing,49,2024-01-24 19:38:17,95.4,CUST68,United Kingdom,Ashley King
+INV88504,C003,Baseball Cap,Clothing,32,2023-08-31 04:04:22,92.98,CUST40,Spain,Kristin Harmon
+INV17592,C001,Men's T-Shirt,Clothing,37,2023-10-31 03:07:06,73.46,CUST9,France,John Robles
+INV26828,T002,Building Blocks Set,Toys,31,2025-02-24 06:00:43,27.24,CUST78,Norway,Erik Williams
+INV37760,H003,LED Desk Lamp,Home Goods,49,2025-07-18 07:19:25,71.58,CUST52,Italy,Peter Reid
+INV67422,H003,LED Desk Lamp,Home Goods,29,2023-12-13 09:01:33,23.25,CUST44,United Kingdom,Teresa Black
+INV87110,H003,LED Desk Lamp,Home Goods,15,2025-04-05 08:01:04,1.71,CUST91,United Kingdom,Evan Evans
+INV40007,E002,Bluetooth Headphones,Electronics,3,2024-07-15 02:34:47,51.9,CUST36,Portugal,Reginald Sampson
+INV38080,H003,LED Desk Lamp,Home Goods,9,2025-03-18 20:58:45,47.79,CUST61,Norway,Joel Buchanan DVM
+INV34957,E002,Bluetooth Headphones,Electronics,7,2025-06-16 15:41:38,36.08,CUST53,Portugal,Dawn Williams
+INV17100,T002,Building Blocks Set,Toys,42,2025-06-03 03:34:59,7.0,CUST94,Italy,Sarah Cruz
+INV24322,C001,Men's T-Shirt,Clothing,13,2024-02-22 19:31:32,45.41,CUST55,France,Ernest Campbell
+INV46509,H002,Wall Clock,Home Goods,16,2023-10-28 16:08:02,80.99,CUST71,Germany,Stephanie Webb
+INV16630,T002,Building Blocks Set,Toys,35,2023-08-27 03:23:44,92.71,CUST31,France,Kevin Rodriguez
+INV63269,H002,Wall Clock,Home Goods,31,2024-03-17 14:36:05,90.34,CUST22,Norway,Michele Pittman
+INV10282,H001,Ceramic Mug,Home Goods,17,2024-11-19 10:23:08,42.88,CUST94,Portugal,Sarah Cruz
+INV30289,C001,Men's T-Shirt,Clothing,19,2024-03-21 02:07:45,58.34,CUST70,United Kingdom,Sean Bryant
+INV51104,E001,Wireless Mouse,Electronics,4,2025-04-01 17:21:33,50.78,CUST68,France,Ashley King
+INV17455,H003,LED Desk Lamp,Home Goods,6,2024-02-18 02:29:41,59.91,CUST87,Spain,Xavier Townsend
+INV62923,E002,Bluetooth Headphones,Electronics,37,2024-04-20 21:04:40,59.86,CUST80,Germany,Evan Gordon
+INV64948,T002,Building Blocks Set,Toys,38,2025-03-12 19:02:02,32.32,CUST34,Spain,Shawn Roberts
+INV97782,T003,RC Car,Toys,21,2024-04-12 09:40:14,40.18,CUST86,Netherlands,Daniel Spencer
+INV69929,C003,Baseball Cap,Clothing,49,2023-10-25 00:20:20,46.37,CUST73,Germany,Gary Smith
+INV19602,H003,LED Desk Lamp,Home Goods,14,2025-01-11 09:39:20,14.11,CUST45,Germany,Harold French
+INV42018,C003,Baseball Cap,Clothing,19,2024-01-20 15:57:13,83.54,CUST91,Netherlands,Evan Evans
+INV90173,T002,Building Blocks Set,Toys,34,2023-08-20 20:11:32,30.64,CUST85,Germany,Michael Jones
+INV27601,C002,Women's Jeans,Clothing,8,2023-11-29 20:08:32,16.39,CUST37,Spain,Jackson Woods
+INV54942,C001,Men's T-Shirt,Clothing,44,2025-05-22 09:36:40,51.04,CUST33,United Kingdom,Adriana Carroll
+INV22097,T002,Building Blocks Set,Toys,28,2024-05-21 01:36:18,1.35,CUST99,France,Anthony Gordon
+INV93507,C002,Women's Jeans,Clothing,11,2024-11-06 20:05:09,70.86,CUST72,United Kingdom,Thomas Little
+INV24663,E002,Bluetooth Headphones,Electronics,45,2024-01-11 19:51:51,4.57,CUST48,France,Kelli Dennis
+INV66333,E003,Smartphone Charger,Electronics,3,2024-06-22 13:16:35,90.0,CUST6,Italy,Olivia Wright
+INV37535,T002,Building Blocks Set,Toys,16,2025-06-24 03:44:33,36.01,CUST72,Norway,Thomas Little
+INV91351,T003,RC Car,Toys,10,2024-04-10 05:54:59,97.64,CUST23,Norway,David Diaz
+INV13248,E003,Smartphone Charger,Electronics,48,2024-07-17 14:59:24,80.42,CUST95,Spain,Kristi Hogan
+INV44970,E003,Smartphone Charger,Electronics,45,2023-11-30 13:55:40,87.34,CUST61,Spain,Joel Buchanan DVM
+INV36158,H002,Wall Clock,Home Goods,23,2024-06-19 08:17:11,23.07,CUST85,Spain,Michael Jones
+INV62227,C003,Baseball Cap,Clothing,18,2023-10-22 10:09:45,35.76,CUST66,Norway,Kevin Davidson
+INV99065,H003,LED Desk Lamp,Home Goods,22,2023-09-09 04:11:58,87.83,CUST34,France,Shawn Roberts
+INV86099,C002,Women's Jeans,Clothing,3,2023-12-01 21:43:13,44.02,CUST94,Italy,Sarah Cruz
+INV67199,T001,Stuffed Bear,Toys,33,2023-12-08 14:01:28,90.05,CUST25,Netherlands,Jordan Deleon
+INV15817,T003,RC Car,Toys,28,2023-08-13 18:55:46,92.63,CUST69,Spain,Mrs. Kristina Brown MD
+INV57739,H001,Ceramic Mug,Home Goods,5,2025-06-22 12:01:19,62.69,CUST85,Germany,Michael Jones
+INV49363,H003,LED Desk Lamp,Home Goods,20,2025-06-24 14:52:08,33.29,CUST90,Netherlands,Kelsey Ayala
+INV82667,E003,Smartphone Charger,Electronics,13,2024-10-15 13:48:15,68.05,CUST23,Netherlands,David Diaz
+INV63225,H003,LED Desk Lamp,Home Goods,1,2024-06-18 10:26:46,21.81,CUST75,Italy,Christopher Rodriguez
+INV70946,H002,Wall Clock,Home Goods,29,2025-07-03 07:46:50,51.61,CUST95,France,Kristi Hogan
+INV96356,E002,Bluetooth Headphones,Electronics,19,2025-01-20 23:02:40,62.31,CUST12,Spain,Veronica Taylor
+INV98184,C002,Women's Jeans,Clothing,15,2024-03-02 05:21:53,3.42,CUST32,Portugal,Sara Jones
+INV90120,E002,Bluetooth Headphones,Electronics,30,2024-10-09 22:55:44,57.99,CUST92,Norway,Tyler Adams
+INV74799,H001,Ceramic Mug,Home Goods,16,2024-01-10 23:53:10,0.0,CUST97,Germany,William Lee
+INV65724,C001,Men's T-Shirt,Clothing,12,2025-07-24 18:51:29,46.99,CUST72,Spain,Thomas Little
+INV25906,H002,Wall Clock,Home Goods,9,2024-11-29 19:20:16,98.8,CUST77,Italy,Mr. Dennis Smith
+INV68008,T001,Stuffed Bear,Toys,47,2025-01-09 15:32:13,83.23,CUST71,Portugal,Stephanie Webb
+INV30861,T003,RC Car,Toys,31,2024-11-14 09:26:12,75.43,CUST82,Netherlands,Megan Guerrero
+INV78327,H002,Wall Clock,Home Goods,41,2024-04-12 09:59:52,44.55,CUST92,Netherlands,Tyler Adams
+INV40735,C002,Unknown Product,Clothing,22,2024-07-04 19:39:58,8.98,CUST20,Spain,Dana Edwards
+INV60205,T003,RC Car,Toys,10,2025-08-04 07:47:23,7.36,CUST53,Italy,Dawn Williams
+INV81121,H002,Wall Clock,Home Goods,27,2023-10-14 07:31:50,83.46,CUST50,United Kingdom,Kristen Jones
+INV85456,H001,Ceramic Mug,Home Goods,31,2023-08-18 12:48:25,30.56,CUST50,Norway,Kristen Jones
+INV80545,T003,RC Car,Toys,48,2025-02-21 21:57:49,89.88,CUST63,Spain,Margaret Blair
+INV45774,H001,Ceramic Mug,Home Goods,32,2023-09-10 14:09:28,34.28,CUST87,Norway,Xavier Townsend
+INV31632,H002,Wall Clock,Home Goods,9,2025-05-10 19:26:48,3.67,CUST51,United Kingdom,Ray Edwards
+INV21003,T002,Building Blocks Set,Toys,28,2023-12-28 16:48:35,18.99,CUST34,Norway,Shawn Roberts
+INV52906,C001,Men's T-Shirt,Clothing,30,2024-07-11 12:17:16,76.36,CUST49,Netherlands,Yvonne Hall
+INV65255,C002,Women's Jeans,Clothing,6,2024-12-05 00:42:20,75.15,CUST7,Italy,Nancy Sims
+INV39389,T002,Building Blocks Set,Toys,5,2025-06-09 01:27:56,75.67,CUST32,Spain,Sara Jones
+INV12671,T001,Stuffed Bear,Toys,10,2024-04-12 04:35:44,47.88,CUST15,Spain,Sharon Byrd
+INV70952,T003,RC Car,Toys,17,2024-08-23 06:06:32,60.98,CUST96,Germany,Sara Contreras
+INV31465,C002,Women's Jeans,Clothing,7,2025-03-26 00:56:05,92.96,CUST74,Norway,Charles Dixon
+INV61990,T003,RC Car,Toys,13,2023-10-28 21:33:27,69.37,CUST81,Spain,Tammy Pacheco
+INV23356,T003,RC Car,Toys,50,2024-06-15 21:51:37,80.75,CUST73,United Kingdom,Gary Smith
+INV55508,H003,LED Desk Lamp,Home Goods,28,2025-06-19 13:29:31,7.83,CUST83,Italy,Nichole Lowery
+INV11658,H001,Ceramic Mug,Home Goods,32,2023-11-28 15:47:02,96.12,CUST82,Unknown Country,Megan Guerrero
+INV30052,H001,Ceramic Mug,Home Goods,12,2025-01-27 23:40:56,27.74,CUST69,Portugal,Mrs. Kristina Brown MD
+INV70931,H001,Ceramic Mug,Home Goods,47,2025-04-09 09:46:19,32.91,CUST32,Germany,Sara Jones
+INV46559,H002,Wall Clock,Home Goods,16,2024-11-29 20:44:51,61.42,CUST49,Italy,Yvonne Hall
+INV13761,H002,Wall Clock,Home Goods,21,2024-02-14 17:45:04,22.0,CUST34,Italy,Shawn Roberts
+INV46655,T001,Stuffed Bear,Toys,45,2024-05-20 20:14:08,2.0,CUST25,Germany,Jordan Deleon
+INV41635,T003,RC Car,Toys,27,2024-12-24 20:12:48,76.06,CUST89,Portugal,Steven Nash
+INV94659,T003,RC Car,Toys,32,2024-11-12 00:37:40,10.21,CUST29,Unknown Country,Alexander Berry
+INV41890,C002,Women's Jeans,Clothing,43,2025-03-29 13:26:08,47.85,CUST68,Italy,Ashley King
+INV65771,T003,RC Car,Toys,36,2024-07-15 12:48:32,70.58,CUST35,Netherlands,Dana Fisher
+INV42951,C001,Men's T-Shirt,Clothing,8,2024-02-25 11:29:19,12.84,CUST69,France,Mrs. Kristina Brown MD
+INV35105,C001,Men's T-Shirt,Clothing,48,2024-12-19 10:04:01,72.73,CUST98,Netherlands,Matthew Holland
+INV23176,C001,Men's T-Shirt,Clothing,19,2024-03-31 13:08:21,18.76,CUST2,France,Meagan Crane
+INV45954,E001,Wireless Mouse,Electronics,4,2025-02-28 10:38:10,70.04,CUST17,Portugal,Austin Mullins
+INV23446,E001,Wireless Mouse,Electronics,37,2024-05-29 17:05:24,48.39,CUST44,France,Teresa Black
+INV16734,C002,Women's Jeans,Clothing,31,2023-12-06 02:22:44,40.67,CUST10,United Kingdom,Mark Gamble
+INV29887,E003,Smartphone Charger,Electronics,37,2024-06-18 03:06:04,99.4,CUST16,Norway,Michelle Luna
+INV89471,T001,Stuffed Bear,Toys,40,2024-03-30 19:01:34,38.66,CUST57,Netherlands,Sarah Jones
+INV87139,H001,Ceramic Mug,Home Goods,20,2025-03-16 22:36:39,6.96,CUST95,Germany,Kristi Hogan
+INV37235,T002,Building Blocks Set,Toys,14,2024-05-08 02:57:21,16.55,CUST23,Germany,David Diaz
+INV30517,E001,Wireless Mouse,Electronics,27,2024-11-15 21:37:12,47.52,CUST5,Spain,Ann Miller
+INV47762,T003,RC Car,Toys,19,2025-07-31 16:31:50,8.05,CUST30,Netherlands,Jessica Young
+INV91927,T001,Stuffed Bear,Toys,43,2024-03-01 15:28:43,12.36,CUST29,France,Alexander Berry
+INV44816,E003,Smartphone Charger,Electronics,5,2023-10-12 06:02:27,79.47,CUST77,Netherlands,Mr. Dennis Smith
+INV67560,E002,Bluetooth Headphones,Electronics,30,2025-07-17 11:04:17,70.27,CUST35,Portugal,Dana Fisher
+INV67377,E002,Bluetooth Headphones,Electronics,39,2023-09-21 15:43:46,73.72,CUST78,Netherlands,Erik Williams
+INV13390,E002,Bluetooth Headphones,Electronics,15,2025-07-02 20:56:32,59.13,CUST3,Netherlands,Sandy Smith
+INV85529,E001,Wireless Mouse,Electronics,49,2024-02-07 17:07:49,52.38,CUST57,Netherlands,Sarah Jones
+INV33788,T001,Stuffed Bear,Toys,28,2025-05-23 17:54:11,96.94,CUST61,Italy,Joel Buchanan DVM
+INV63523,C003,Baseball Cap,Clothing,-21,2025-06-28 03:48:30,85.92,CUST43,Norway,Jennifer Stevens
+INV74942,C002,Women's Jeans,Clothing,43,2024-09-25 20:01:42,4.63,CUST12,Italy,Veronica Taylor
+INV43082,C003,Baseball Cap,Clothing,8,2024-09-28 18:44:09,82.67,CUST1,Portugal,Jeremy Sexton
+INV64165,E001,Wireless Mouse,Electronics,13,2025-01-23 13:10:19,62.64,CUST64,Portugal,Connor Bailey
+INV16764,C001,Men's T-Shirt,Clothing,18,2025-02-24 04:46:12,92.84,CUST57,Portugal,Sarah Jones
+INV25915,E001,Wireless Mouse,Electronics,41,2025-04-26 08:42:45,71.27,CUST40,United Kingdom,Kristin Harmon
+INV82384,H001,Ceramic Mug,Home Goods,6,2024-03-29 04:07:51,46.68,CUST16,France,Michelle Luna
+INV75323,T003,RC Car,Toys,19,2025-01-14 09:57:18,42.13,CUST62,Portugal,David Underwood
+INV41946,H002,Wall Clock,Home Goods,36,2024-01-07 13:57:57,19.87,CUST77,France,Mr. Dennis Smith
+INV19150,C002,Women's Jeans,Clothing,50,2024-10-09 12:22:28,93.49,CUST65,Netherlands,Michael Parker
+INV10336,C002,Women's Jeans,Clothing,47,2024-06-12 21:22:11,58.41,CUST85,Portugal,Michael Jones
+INV29476,H002,Wall Clock,Home Goods,35,2024-12-19 12:33:56,33.91,CUST98,Norway,Matthew Holland
+INV69682,C003,Baseball Cap,Clothing,13,2025-07-26 08:41:40,57.61,CUST30,Norway,Jessica Young
+INV15720,C003,Baseball Cap,Clothing,48,2024-12-08 13:52:48,39.22,CUST85,France,Michael Jones
+INV74923,E001,Unknown Product,Electronics,9,2025-01-07 21:29:16,33.87,CUST13,Portugal,Gary Lee
+INV23069,H003,LED Desk Lamp,Home Goods,30,2023-08-27 05:14:54,41.59,CUST84,France,Maria Espinoza
+INV19807,H002,Wall Clock,Home Goods,17,2024-07-23 22:41:31,69.58,CUST84,Germany,Maria Espinoza
+INV53065,T002,Building Blocks Set,Toys,35,2024-09-04 11:31:45,63.05,CUST98,Portugal,Matthew Holland
+INV80912,E001,Wireless Mouse,Electronics,40,2023-10-21 08:32:51,63.48,CUST37,Spain,Jackson Woods
+INV21846,H001,Ceramic Mug,Home Goods,7,2025-05-21 03:39:33,44.92,CUST89,Netherlands,Steven Nash
+INV13794,E001,Wireless Mouse,Electronics,21,2023-10-08 10:40:52,36.49,CUST56,France,Ashley Smith
+INV42007,H003,LED Desk Lamp,Home Goods,27,2025-03-13 06:33:20,17.83,CUST11,Norway,Maria Leonard
+INV91226,T002,Building Blocks Set,Toys,16,2025-01-02 21:13:55,15.17,CUST60,Netherlands,Roger Myers
+INV70236,C002,Women's Jeans,Clothing,43,2023-08-21 16:56:21,90.22,CUST87,France,Xavier Townsend
+INV19681,H002,Wall Clock,Home Goods,23,2025-04-04 10:53:30,64.25,CUST55,Netherlands,Ernest Campbell
+INV69878,C002,Women's Jeans,Clothing,13,2024-09-08 17:35:35,11.56,CUST49,Italy,Yvonne Hall
+INV85341,C002,Women's Jeans,Clothing,45,2024-06-09 00:47:55,97.82,CUST85,Norway,Michael Jones
+INV45976,E001,Wireless Mouse,Electronics,37,2025-07-14 01:47:08,91.15,CUST96,Portugal,Sara Contreras
+INV47512,C001,Men's T-Shirt,Clothing,39,2024-08-06 07:58:25,64.03,CUST80,Netherlands,Evan Gordon
+INV98835,T003,RC Car,Toys,50,2025-06-17 04:58:47,63.2,CUST81,United Kingdom,Tammy Pacheco
+INV50492,H002,Wall Clock,Home Goods,3,2025-03-27 13:17:03,73.5,CUST12,Netherlands,Veronica Taylor
+INV52823,T003,RC Car,Toys,27,2024-02-07 07:18:38,14.08,CUST70,Italy,Sean Bryant
+INV79579,H003,LED Desk Lamp,Home Goods,18,2024-01-27 09:21:21,91.49,CUST62,Netherlands,David Underwood
+INV54396,E002,Bluetooth Headphones,Electronics,30,2023-10-28 05:07:29,75.66,CUST29,Norway,Alexander Berry
+INV83048,C003,Baseball Cap,Clothing,6,2024-09-19 00:30:24,27.18,CUST16,Portugal,Michelle Luna
+INV58311,T002,Building Blocks Set,Toys,48,2025-06-30 09:32:42,58.87,CUST82,Italy,Megan Guerrero
+INV24201,T002,Building Blocks Set,Toys,15,2024-12-06 00:54:40,62.34,CUST72,Italy,Thomas Little
+INV89964,C001,Men's T-Shirt,Clothing,42,2023-10-15 23:08:03,82.56,CUST90,Netherlands,Kelsey Ayala
+INV95097,H001,Ceramic Mug,Home Goods,8,2024-01-02 01:39:03,94.68,CUST39,Portugal,William Hill
+INV25220,E002,Bluetooth Headphones,Electronics,16,2025-02-12 04:56:21,39.48,CUST48,Norway,Kelli Dennis
+INV86983,T003,RC Car,Toys,47,2024-01-17 15:06:19,65.84,CUST63,Norway,Margaret Blair
+INV46666,E001,Wireless Mouse,Electronics,45,2024-08-25 07:54:37,44.89,CUST31,Italy,Kevin Rodriguez
+INV23022,T002,Building Blocks Set,Toys,24,2025-02-19 23:28:38,36.51,CUST51,Netherlands,Ray Edwards
+INV34878,E002,Bluetooth Headphones,Electronics,30,2023-11-13 07:43:21,64.53,CUST77,United Kingdom,Mr. Dennis Smith
+INV16629,C003,Baseball Cap,Clothing,16,2023-12-18 20:33:20,21.32,CUST98,Spain,Matthew Holland
+INV86858,C001,Men's T-Shirt,Clothing,15,2024-07-13 05:22:20,79.08,CUST77,United Kingdom,Mr. Dennis Smith
+INV46342,E003,Smartphone Charger,Electronics,9,2025-02-15 09:07:33,80.05,CUST15,United Kingdom,Sharon Byrd
+INV27275,E001,Wireless Mouse,Electronics,23,2024-04-11 21:26:22,33.05,CUST23,Netherlands,David Diaz
+INV16868,E003,Smartphone Charger,Electronics,48,2024-10-16 19:09:15,12.25,CUST9,Portugal,John Robles
+INV68756,C003,Baseball Cap,Clothing,33,2025-04-10 03:58:13,45.75,CUST29,United Kingdom,Alexander Berry
+INV96363,H003,LED Desk Lamp,Home Goods,20,2024-11-23 23:25:23,96.44,CUST8,Portugal,Brian Brown
+INV62640,H001,Ceramic Mug,Home Goods,44,2023-11-30 17:51:00,71.53,CUST57,Germany,Sarah Jones
+INV20589,C003,Baseball Cap,Clothing,39,2024-01-10 02:23:29,13.49,CUST80,Italy,Evan Gordon
+INV59925,T001,Stuffed Bear,Toys,34,2024-06-08 16:31:09,51.05,CUST56,Germany,Ashley Smith
+INV24996,T002,Building Blocks Set,Toys,42,2025-02-26 07:49:43,43.58,CUST30,Norway,Jessica Young
+INV54424,H002,Wall Clock,Home Goods,26,2024-10-10 03:27:43,31.94,CUST41,Netherlands,William Johnson
+INV59060,E003,Smartphone Charger,Electronics,44,2024-12-09 02:26:39,10.03,CUST11,Germany,Maria Leonard
+INV66606,E002,Bluetooth Headphones,Electronics,48,2024-08-27 04:44:14,56.08,CUST76,Italy,Christopher Clark
+INV97819,E002,Bluetooth Headphones,Electronics,27,2024-08-08 15:23:55,86.94,CUST93,United Kingdom,Shawn Herrera
+INV47700,T001,Stuffed Bear,Toys,20,2024-08-06 03:46:19,58.21,CUST28,France,Kathryn Thomas
+INV96079,H002,Wall Clock,Home Goods,15,2023-11-30 12:44:50,84.69,CUST48,Germany,Kelli Dennis
+INV46512,T001,Stuffed Bear,Toys,15,2024-10-24 20:25:26,97.48,CUST80,United Kingdom,Evan Gordon
+INV89822,T002,Building Blocks Set,Toys,45,2024-05-11 01:03:14,18.86,CUST90,Netherlands,Kelsey Ayala
+INV54541,C003,Baseball Cap,Clothing,1,2024-02-13 05:12:56,57.07,CUST52,Germany,Peter Reid
+INV28595,T003,RC Car,Toys,41,2023-09-12 03:20:26,74.87,CUST28,Norway,Kathryn Thomas
+INV65028,H002,Wall Clock,Home Goods,22,2024-01-20 13:28:23,31.85,CUST42,Germany,Jessica Carter
+INV16895,E003,Smartphone Charger,Electronics,11,2025-05-05 01:48:42,67.72,CUST35,Portugal,Dana Fisher
+INV96761,H001,Ceramic Mug,Home Goods,32,2025-04-24 16:05:39,42.0,CUST28,Germany,Kathryn Thomas
+INV55242,H001,Ceramic Mug,Home Goods,8,2024-05-28 21:35:43,49.18,CUST86,Netherlands,Daniel Spencer
+INV15952,C001,Men's T-Shirt,Clothing,26,2025-04-16 01:59:40,1.76,CUST39,Spain,William Hill
+INV27987,C002,Women's Jeans,Clothing,19,2024-07-12 04:22:06,1.77,CUST96,Norway,Sara Contreras
+INV33028,E003,Smartphone Charger,Electronics,25,2025-02-07 08:22:41,50.53,CUST86,Italy,Daniel Spencer
+INV19447,H001,Ceramic Mug,Home Goods,48,2023-09-24 15:52:56,2.86,CUST10,Italy,Mark Gamble
+INV85465,H001,Ceramic Mug,Home Goods,37,2024-09-29 23:18:24,42.35,CUST15,Norway,Sharon Byrd
+INV12733,C003,Baseball Cap,Clothing,11,2025-05-05 16:45:05,0.0,CUST47,Germany,Caitlin Hickman
+INV67240,E002,Bluetooth Headphones,Electronics,16,2024-10-31 21:26:24,40.64,CUST11,Norway,Maria Leonard
+INV50668,T003,RC Car,Toys,22,2024-03-25 12:07:35,78.13,CUST10,Germany,Mark Gamble
+INV79547,H003,LED Desk Lamp,Home Goods,13,2024-08-03 12:46:59,73.01,CUST83,France,Nichole Lowery
+INV40968,E002,Bluetooth Headphones,Electronics,10,2024-04-30 07:10:56,18.18,CUST20,Germany,Dana Edwards
+INV33218,T002,Building Blocks Set,Toys,32,2024-11-29 20:31:29,76.23,CUST58,Italy,John Black
+INV92210,C003,Baseball Cap,Clothing,10,2024-11-04 02:29:10,47.42,CUST81,Netherlands,Tammy Pacheco
+INV46002,T001,Stuffed Bear,Toys,4,2024-08-06 18:28:17,8.34,CUST60,Portugal,Roger Myers
+INV14929,E001,Wireless Mouse,Electronics,24,2024-05-31 02:47:37,64.82,CUST12,Norway,Veronica Taylor
+INV70648,T001,Stuffed Bear,Toys,36,2023-09-23 16:22:27,91.0,CUST74,Spain,Charles Dixon
+INV52143,T001,Stuffed Bear,Toys,31,2025-01-06 05:29:33,95.81,CUST58,Germany,John Black
+INV55015,T003,RC Car,Toys,6,2025-01-09 23:31:29,18.08,CUST32,Portugal,Sara Jones
+INV67595,H003,LED Desk Lamp,Home Goods,34,2025-04-27 05:46:47,37.03,CUST37,Norway,Jackson Woods
+INV63578,C003,Baseball Cap,Clothing,-44,2025-04-15 01:54:23,79.13,CUST83,Italy,Nichole Lowery
+INV18639,C003,Baseball Cap,Clothing,7,2025-03-05 14:04:27,29.13,CUST93,France,Shawn Herrera
+INV53694,E002,Bluetooth Headphones,Electronics,38,2025-06-21 05:08:57,0.0,CUST40,Norway,Kristin Harmon
+INV26901,T001,Stuffed Bear,Toys,46,2023-11-06 11:16:17,56.33,CUST83,Italy,Nichole Lowery
+INV26750,T002,Building Blocks Set,Toys,45,2025-07-13 19:09:55,10.25,CUST86,Norway,Daniel Spencer
+INV76648,C003,Baseball Cap,Clothing,2,2024-08-17 11:14:43,18.85,CUST28,Italy,Kathryn Thomas
+INV73736,C001,Men's T-Shirt,Clothing,15,2023-12-30 05:38:28,8.64,CUST13,United Kingdom,Gary Lee
+INV96760,C003,Baseball Cap,Clothing,50,2025-05-05 04:46:16,60.13,CUST20,France,Dana Edwards
+INV33703,T003,RC Car,Toys,50,2025-05-12 06:01:37,72.4,CUST6,Norway,Olivia Wright
+INV57749,T002,Building Blocks Set,Toys,47,2024-04-11 16:10:22,61.45,CUST97,Portugal,William Lee
+INV40671,H003,LED Desk Lamp,Home Goods,16,2024-06-23 17:04:34,90.49,CUST25,Italy,Jordan Deleon
+INV98907,T001,Stuffed Bear,Toys,29,2024-11-26 10:15:32,78.03,CUST65,Norway,Michael Parker
+INV31241,C001,Men's T-Shirt,Clothing,39,2023-12-31 09:06:08,6.17,CUST62,Italy,David Underwood
+INV82684,E002,Bluetooth Headphones,Electronics,46,2025-01-21 04:32:21,29.22,CUST98,France,Matthew Holland
+INV45755,H002,Wall Clock,Home Goods,33,2024-01-09 15:55:40,10.08,CUST29,Portugal,Alexander Berry
+INV55820,E001,Wireless Mouse,Electronics,27,2023-10-05 14:26:04,50.7,CUST31,Norway,Kevin Rodriguez
+INV20696,C003,Baseball Cap,Clothing,15,2023-09-09 11:36:10,93.15,CUST92,Italy,Tyler Adams
+INV29142,E003,Smartphone Charger,Electronics,3,2024-05-31 17:12:05,69.91,CUST18,Portugal,William Bryan
+INV68799,T001,Stuffed Bear,Toys,1,2023-11-01 00:41:30,26.34,CUST20,Norway,Dana Edwards
+INV24573,C002,Women's Jeans,Clothing,16,2024-06-15 04:26:10,5.73,CUST54,Portugal,Kenneth Robinson
+INV18232,E002,Bluetooth Headphones,Electronics,32,2025-04-14 19:31:01,2.63,CUST66,Spain,Kevin Davidson
+INV28818,C002,Women's Jeans,Clothing,28,2023-08-13 22:23:04,35.93,CUST74,Norway,Charles Dixon
+INV34551,T002,Building Blocks Set,Toys,43,2023-11-07 19:03:34,97.49,CUST9,United Kingdom,John Robles
+INV61177,H002,Wall Clock,Home Goods,3,2025-05-23 14:05:09,98.12,CUST33,United Kingdom,Adriana Carroll
+INV56805,E002,Bluetooth Headphones,Electronics,23,2024-04-14 23:55:27,63.2,CUST99,Italy,Anthony Gordon
+INV27486,E001,Wireless Mouse,Electronics,23,2025-02-21 12:19:34,81.54,CUST23,Portugal,David Diaz
+INV72722,T002,Building Blocks Set,Toys,12,2023-12-28 02:17:50,71.89,CUST59,United Kingdom,Jermaine Boyd III
+INV48462,C001,Men's T-Shirt,Clothing,3,2024-03-03 01:31:32,32.24,CUST40,Norway,Kristin Harmon
+INV81176,H002,Wall Clock,Home Goods,17,2023-09-18 23:33:10,19.92,CUST46,United Kingdom,Tyler Torres
+INV95948,C003,Baseball Cap,Clothing,18,2023-12-17 13:23:57,44.26,CUST52,Portugal,Peter Reid
+INV60678,C003,Baseball Cap,Clothing,12,2025-01-01 18:06:51,37.37,CUST67,Netherlands,Victoria Cruz
+INV20828,T003,RC Car,Toys,28,2023-10-31 15:40:40,60.64,CUST24,Netherlands,Mitchell Church
+INV52101,E002,Bluetooth Headphones,Electronics,6,2024-07-12 10:45:50,31.34,CUST78,Norway,Erik Williams
+INV31842,T003,RC Car,Toys,29,2024-08-05 16:16:46,5.19,CUST46,Norway,Tyler Torres
+INV45986,T002,Building Blocks Set,Toys,4,2023-10-27 23:12:40,41.21,CUST66,France,Kevin Davidson
+INV14081,E003,Smartphone Charger,Electronics,39,2025-07-06 15:57:12,4.45,CUST9,Spain,John Robles
+INV94562,C003,Baseball Cap,Clothing,24,2024-09-07 20:39:09,4.21,CUST20,Portugal,Dana Edwards
+INV58623,C003,Baseball Cap,Clothing,29,2023-10-29 20:53:45,14.63,CUST47,Norway,Caitlin Hickman
+INV51207,T002,Building Blocks Set,Toys,18,2024-04-23 04:07:49,3.57,CUST24,Portugal,Mitchell Church
+INV77861,H001,Ceramic Mug,Home Goods,36,2023-12-10 09:31:51,77.72,CUST91,Portugal,Evan Evans
+INV38124,T001,Stuffed Bear,Toys,19,2025-07-22 17:53:02,20.82,CUST18,Germany,William Bryan
+INV69250,E003,Smartphone Charger,Electronics,46,2024-11-09 03:11:46,81.24,CUST41,Italy,William Johnson
+INV18511,H003,LED Desk Lamp,Home Goods,35,2024-06-04 10:55:15,85.28,CUST92,France,Tyler Adams
+INV57381,H003,LED Desk Lamp,Home Goods,15,2023-12-14 07:19:02,79.41,CUST31,Portugal,Kevin Rodriguez
+INV13445,C003,Baseball Cap,Clothing,36,2025-03-20 13:25:53,47.27,CUST71,France,Stephanie Webb
+INV90209,E002,Bluetooth Headphones,Electronics,5,2024-06-23 14:29:47,99.96,CUST93,Portugal,Shawn Herrera
+INV78903,H001,Ceramic Mug,Home Goods,50,2024-10-04 20:55:53,8.3,CUST41,Germany,William Johnson
+INV68979,H002,Wall Clock,Home Goods,44,2025-01-22 12:32:36,13.71,CUST100,France,Gerald Duncan
+INV26912,H001,Ceramic Mug,Home Goods,33,2023-10-07 04:31:14,52.29,CUST39,France,William Hill
+INV31229,C003,Baseball Cap,Clothing,46,2024-03-29 12:35:53,94.8,CUST67,Netherlands,Victoria Cruz
+INV20336,C002,Women's Jeans,Clothing,13,2025-05-23 20:03:19,28.17,CUST81,Netherlands,Tammy Pacheco
+INV90534,H003,LED Desk Lamp,Home Goods,6,2025-01-07 23:20:15,17.69,CUST75,France,Christopher Rodriguez
+INV32439,T002,Building Blocks Set,Toys,40,2025-04-22 12:17:32,84.41,CUST73,United Kingdom,Gary Smith
+INV13718,E002,Bluetooth Headphones,Electronics,3,2025-05-29 20:59:58,27.2,CUST27,Norway,Tiffany Ramirez
+INV91016,T002,Building Blocks Set,Toys,2,2025-01-02 22:50:03,55.01,CUST83,Netherlands,Nichole Lowery
+INV73300,C001,Men's T-Shirt,Clothing,44,2024-09-30 10:49:45,45.9,CUST89,Unknown Country,Steven Nash
+INV30719,H002,Wall Clock,Home Goods,27,2024-12-19 16:54:35,21.2,CUST78,France,Erik Williams
+INV50970,T003,RC Car,Toys,21,2024-07-30 14:31:00,13.95,CUST48,Germany,Kelli Dennis
+INV51827,C001,Men's T-Shirt,Clothing,30,2023-12-15 09:44:18,45.51,CUST19,Germany,Michael Saunders
+INV16632,C002,Women's Jeans,Clothing,25,2025-05-03 15:13:25,25.58,CUST21,Italy,Jasmine Wright
+INV85718,T003,RC Car,Toys,21,2024-02-22 05:48:05,50.33,CUST66,Portugal,Kevin Davidson
+INV75373,C002,Women's Jeans,Clothing,32,2023-09-04 03:16:42,94.58,CUST65,Portugal,Michael Parker
+INV41552,C001,Men's T-Shirt,Clothing,38,2024-08-07 01:46:17,6.0,CUST64,Portugal,Connor Bailey
+INV47453,H003,LED Desk Lamp,Home Goods,1,2023-11-30 15:41:22,14.26,CUST34,Italy,Shawn Roberts
+INV62855,C003,Baseball Cap,Clothing,3,2024-09-25 01:51:45,57.46,CUST25,Italy,Jordan Deleon
+INV82512,C002,Women's Jeans,Clothing,5,2024-09-10 18:21:33,45.59,CUST71,Netherlands,Stephanie Webb
+INV91689,T002,Building Blocks Set,Toys,40,2023-12-11 04:41:04,97.53,CUST51,Italy,Ray Edwards
+INV54444,H003,LED Desk Lamp,Home Goods,24,2024-01-06 07:14:50,60.64,CUST52,United Kingdom,Peter Reid
+INV15938,E001,Wireless Mouse,Electronics,9,2025-08-11 12:07:32,80.59,CUST67,Portugal,Victoria Cruz
+INV29521,T001,Stuffed Bear,Toys,33,2024-01-02 11:56:27,93.21,CUST41,France,William Johnson
+INV61505,T001,Stuffed Bear,Toys,48,2024-06-13 21:37:00,34.3,CUST66,Portugal,Kevin Davidson
+INV83783,C002,Unknown Product,Clothing,31,2023-08-29 13:24:41,33.79,CUST15,Norway,Sharon Byrd
+INV86507,C002,Women's Jeans,Clothing,47,2025-07-16 22:54:38,3.64,CUST61,Netherlands,Joel Buchanan DVM
+INV95929,T001,Stuffed Bear,Toys,37,2024-04-01 01:52:11,58.77,CUST22,Norway,Michele Pittman
+INV29369,T002,Building Blocks Set,Toys,16,2023-09-13 20:50:47,94.87,CUST15,Spain,Sharon Byrd
+INV12482,H002,Wall Clock,Home Goods,21,2024-10-13 05:30:48,41.88,CUST27,Norway,Tiffany Ramirez
+INV75774,T001,Stuffed Bear,Toys,31,2023-10-14 05:01:38,52.35,CUST72,Italy,Thomas Little
+INV96799,H002,Wall Clock,Home Goods,34,2024-08-31 11:25:24,95.71,CUST59,Italy,Jermaine Boyd III
+INV81601,C003,Baseball Cap,Clothing,44,2025-07-09 23:25:19,80.56,CUST34,Portugal,Shawn Roberts
+INV35200,C001,Men's T-Shirt,Clothing,18,2025-03-05 10:52:04,23.26,CUST39,Netherlands,William Hill
+INV37168,T003,RC Car,Toys,46,2024-12-24 11:32:35,48.5,CUST72,Netherlands,Thomas Little
+INV47721,E002,Bluetooth Headphones,Electronics,37,2025-07-04 19:46:37,38.59,CUST51,Italy,Ray Edwards
+INV29198,C002,Women's Jeans,Clothing,3,2024-06-01 02:52:38,35.29,CUST57,Netherlands,Sarah Jones
+INV72793,C001,Men's T-Shirt,Clothing,13,2025-02-13 09:52:17,93.37,CUST90,Netherlands,Kelsey Ayala
+INV27992,E002,Bluetooth Headphones,Electronics,40,2025-04-03 08:42:43,25.0,CUST86,Spain,Daniel Spencer
+INV93616,C001,Men's T-Shirt,Clothing,4,2023-11-22 15:02:52,33.7,CUST61,Germany,Joel Buchanan DVM
+INV99285,E003,Smartphone Charger,Electronics,1,2025-02-25 05:45:01,41.28,CUST61,Portugal,Joel Buchanan DVM
+INV95267,C001,Men's T-Shirt,Clothing,49,2024-06-01 11:41:36,29.26,CUST8,Germany,Brian Brown
+INV95498,T001,Stuffed Bear,Toys,15,2025-02-09 01:21:28,91.41,CUST23,Norway,David Diaz
+INV33040,E001,Wireless Mouse,Electronics,26,2024-12-31 06:47:00,93.72,CUST38,United Kingdom,Kyle Callahan
+INV11214,C002,Women's Jeans,Clothing,37,2025-04-20 03:54:24,92.92,CUST43,Netherlands,Jennifer Stevens
+INV69552,T002,Building Blocks Set,Toys,35,2025-01-29 17:58:58,89.04,CUST18,Portugal,William Bryan
+INV45761,C001,Men's T-Shirt,Clothing,8,2024-07-15 05:54:58,73.38,CUST83,Netherlands,Nichole Lowery
+INV34405,E001,Wireless Mouse,Electronics,48,2024-07-22 10:44:29,57.21,CUST97,Spain,William Lee
+INV33002,T001,Stuffed Bear,Toys,41,2024-09-30 15:34:19,52.01,CUST12,Norway,Veronica Taylor
+INV97720,E002,Bluetooth Headphones,Electronics,12,2024-01-02 17:23:00,33.04,CUST32,United Kingdom,Sara Jones
+INV44181,H001,Ceramic Mug,Home Goods,16,2024-11-11 09:43:15,95.45,CUST39,United Kingdom,William Hill
+INV44282,T002,Building Blocks Set,Toys,-24,2025-07-21 08:36:12,7.15,CUST16,Portugal,Michelle Luna
+INV50213,E003,Smartphone Charger,Electronics,26,2025-07-14 18:17:46,92.39,CUST91,Netherlands,Evan Evans
+INV25389,T002,Building Blocks Set,Toys,19,2024-08-22 22:22:40,22.86,CUST18,Portugal,William Bryan
+INV30078,H002,Wall Clock,Home Goods,48,2025-04-23 13:36:11,42.17,CUST71,Portugal,Stephanie Webb
+INV80453,T002,Building Blocks Set,Toys,14,2024-04-21 21:41:34,87.44,CUST11,Portugal,Maria Leonard
+INV79228,T003,RC Car,Toys,24,2023-10-30 20:32:26,12.11,CUST71,Spain,Stephanie Webb
+INV85065,H003,LED Desk Lamp,Home Goods,10,2024-01-27 11:56:47,85.59,CUST57,Germany,Sarah Jones
+INV99167,C001,Men's T-Shirt,Clothing,46,2025-03-31 17:47:51,10.0,CUST66,Portugal,Kevin Davidson
+INV17292,H002,Wall Clock,Home Goods,9,2025-01-18 15:07:30,46.22,CUST8,Portugal,Brian Brown
+INV98181,C002,Women's Jeans,Clothing,47,2023-09-03 14:24:57,26.19,CUST1,Spain,Jeremy Sexton
+INV85800,E002,Bluetooth Headphones,Electronics,3,2024-10-18 12:32:38,70.34,CUST70,United Kingdom,Sean Bryant
+INV19046,H002,Wall Clock,Home Goods,3,2024-05-31 14:53:11,18.82,CUST18,Norway,William Bryan
+INV59081,H001,Ceramic Mug,Home Goods,29,2024-09-01 13:40:36,8.94,CUST85,France,Michael Jones
+INV95660,C003,Unknown Product,Clothing,8,2024-02-10 19:33:39,39.91,CUST17,Spain,Austin Mullins
+INV10455,E001,Wireless Mouse,Electronics,20,2024-11-28 19:49:21,42.99,CUST49,Spain,Yvonne Hall
+INV42441,H002,Wall Clock,Home Goods,23,2024-01-17 10:02:09,19.66,CUST93,Germany,Shawn Herrera
+INV14222,T002,Building Blocks Set,Toys,27,2025-05-02 00:34:10,24.83,CUST9,Germany,John Robles
+INV87849,E001,Wireless Mouse,Electronics,29,2025-04-15 01:46:20,25.23,CUST6,Norway,Olivia Wright
+INV67535,C001,Men's T-Shirt,Clothing,35,2024-03-21 02:03:18,14.87,CUST38,Spain,Kyle Callahan
+INV85511,C003,Baseball Cap,Clothing,37,2025-04-15 11:40:30,24.45,CUST19,Spain,Michael Saunders
+INV64206,C002,Women's Jeans,Clothing,18,2023-10-13 20:16:10,94.9,CUST95,France,Kristi Hogan
+INV92050,T002,Building Blocks Set,Toys,28,2025-03-03 18:02:42,5.64,CUST45,Norway,Harold French
+INV78742,C003,Baseball Cap,Clothing,45,2024-10-11 14:51:51,15.77,CUST49,France,Yvonne Hall
+INV80507,H002,Wall Clock,Home Goods,16,2024-03-29 10:56:58,85.9,CUST19,Portugal,Michael Saunders
+INV17552,H003,LED Desk Lamp,Home Goods,27,2024-10-11 20:17:24,53.47,CUST50,Spain,Kristen Jones
+INV43422,C001,Men's T-Shirt,Clothing,22,2025-06-04 02:52:43,92.3,CUST48,Germany,Kelli Dennis
+INV80206,T003,RC Car,Toys,13,2023-10-03 09:46:27,38.34,CUST78,United Kingdom,Erik Williams
+INV19539,C001,Men's T-Shirt,Clothing,49,2025-04-04 20:20:49,22.48,CUST27,Italy,Tiffany Ramirez
+INV49739,E001,Wireless Mouse,Electronics,14,2024-02-22 04:16:16,74.94,CUST97,Portugal,William Lee
+INV41797,T003,RC Car,Toys,39,2025-08-01 07:26:45,0.0,CUST31,Italy,Kevin Rodriguez
+INV47101,H001,Ceramic Mug,Home Goods,30,2025-02-08 23:37:09,36.57,CUST34,Italy,Shawn Roberts
+INV77215,H002,Wall Clock,Home Goods,30,2023-11-20 17:05:37,76.4,CUST41,Spain,William Johnson
+INV58589,C003,Baseball Cap,Clothing,27,2023-09-27 20:28:51,86.54,CUST95,France,Kristi Hogan
+INV12125,C002,Women's Jeans,Clothing,36,2025-04-01 21:05:09,72.28,CUST38,France,Kyle Callahan
+INV35715,C003,Baseball Cap,Clothing,15,2024-09-03 20:44:43,83.5,CUST64,Italy,Connor Bailey
+INV43728,H002,Wall Clock,Home Goods,47,2025-05-30 17:51:43,46.62,CUST94,Italy,Sarah Cruz
+INV32185,E003,Smartphone Charger,Electronics,47,2025-02-21 17:46:44,19.22,CUST70,United Kingdom,Sean Bryant
+INV78674,E001,Wireless Mouse,Electronics,5,2025-06-26 01:45:58,76.67,CUST53,France,Dawn Williams
+INV92667,C001,Men's T-Shirt,Clothing,5,2025-08-05 05:29:55,1.91,CUST65,Portugal,Michael Parker
+INV58916,E001,Wireless Mouse,Electronics,40,2025-05-26 22:26:48,91.36,CUST85,Portugal,Michael Jones
+INV12061,E001,Wireless Mouse,Electronics,35,2025-02-26 14:58:34,2.17,CUST68,Netherlands,Ashley King
+INV80220,C002,Women's Jeans,Clothing,2,2025-01-07 15:40:36,80.81,CUST23,Germany,David Diaz
+INV22624,H003,LED Desk Lamp,Home Goods,10,2024-04-14 06:59:16,62.36,CUST33,Italy,Adriana Carroll
+INV45038,H001,Ceramic Mug,Home Goods,6,2024-08-28 14:46:58,46.44,CUST32,Spain,Sara Jones
+INV49318,T002,Building Blocks Set,Toys,6,2025-06-11 23:39:42,76.2,CUST12,Norway,Veronica Taylor
+INV59710,H001,Ceramic Mug,Home Goods,36,2024-12-11 02:02:35,64.04,CUST90,France,Kelsey Ayala
+INV20837,H002,Wall Clock,Home Goods,28,2025-06-02 12:03:40,57.02,CUST13,United Kingdom,Gary Lee
+INV40115,C001,Men's T-Shirt,Clothing,45,2025-03-14 17:18:44,27.84,CUST10,Netherlands,Mark Gamble
+INV81176,T001,Stuffed Bear,Toys,43,2023-09-14 06:31:48,92.95,CUST41,United Kingdom,William Johnson
+INV37152,T001,Stuffed Bear,Toys,-10,2025-08-10 14:30:05,92.96,CUST39,France,William Hill
+INV83919,C001,Men's T-Shirt,Clothing,37,2024-09-13 19:40:52,33.84,CUST97,France,William Lee
+INV20279,H003,LED Desk Lamp,Home Goods,48,2024-07-31 01:57:18,10.67,CUST30,Germany,Jessica Young
+INV54642,T001,Stuffed Bear,Toys,50,2025-05-01 21:41:07,40.27,CUST100,Italy,Gerald Duncan
+INV13883,T002,Building Blocks Set,Toys,18,2024-11-15 17:51:44,23.59,CUST71,Norway,Stephanie Webb
+INV66603,E003,Smartphone Charger,Electronics,44,2025-04-02 13:50:16,9.48,CUST80,Netherlands,Evan Gordon
+INV42302,T003,RC Car,Toys,5,2023-11-04 09:45:23,16.27,CUST92,France,Tyler Adams
+INV61068,C003,Baseball Cap,Clothing,24,2023-11-29 03:19:55,1.51,CUST40,Portugal,Kristin Harmon
+INV57175,C002,Women's Jeans,Clothing,7,2023-12-25 03:10:42,19.55,CUST58,Norway,John Black
+INV23538,E001,Wireless Mouse,Electronics,6,2024-08-08 20:10:42,10.21,CUST77,Italy,Mr. Dennis Smith
+INV60493,E001,Wireless Mouse,Electronics,19,2024-10-08 14:07:09,78.14,CUST93,Spain,Shawn Herrera
+INV84967,H003,LED Desk Lamp,Home Goods,11,2025-07-13 13:51:43,17.78,CUST35,Netherlands,Dana Fisher
+INV45180,H002,Wall Clock,Home Goods,10,2023-10-15 06:05:16,44.03,CUST54,Netherlands,Kenneth Robinson
+INV73469,E002,Bluetooth Headphones,Electronics,24,2024-04-25 08:58:41,72.37,CUST64,Spain,Connor Bailey
+INV70012,E002,Bluetooth Headphones,Electronics,9,2024-06-18 00:14:47,94.93,CUST43,Norway,Jennifer Stevens
+INV53193,H002,Wall Clock,Home Goods,22,2024-10-25 23:42:12,97.45,CUST18,Netherlands,William Bryan
+INV52030,T001,Stuffed Bear,Toys,45,2024-03-04 17:26:24,32.1,CUST51,Italy,Ray Edwards
+INV48200,T003,RC Car,Toys,45,2025-05-21 17:52:37,96.81,CUST32,Italy,Sara Jones
+INV59290,C002,Women's Jeans,Clothing,26,2024-08-19 04:08:47,93.27,CUST26,France,Sharon Thompson
+INV99353,H003,LED Desk Lamp,Home Goods,2,2024-11-26 07:37:59,44.41,CUST38,Germany,Kyle Callahan
+INV63627,T002,Building Blocks Set,Toys,32,2024-01-01 23:03:32,30.98,CUST33,France,Adriana Carroll
+INV65460,H001,Ceramic Mug,Home Goods,5,2024-11-13 21:46:12,48.44,CUST52,Norway,Peter Reid
+INV81256,E001,Wireless Mouse,Electronics,24,2025-07-30 19:32:53,59.79,CUST11,Germany,Maria Leonard
+INV42536,T002,Building Blocks Set,Toys,43,2024-08-09 06:03:22,65.05,CUST6,Norway,Olivia Wright
+INV53463,H001,Ceramic Mug,Home Goods,7,2023-08-22 03:35:24,26.62,CUST66,Spain,Kevin Davidson
+INV68429,C003,Baseball Cap,Clothing,26,2024-11-28 21:25:47,69.35,CUST20,Italy,Dana Edwards
+INV13219,H002,Wall Clock,Home Goods,7,2024-06-09 15:08:42,92.13,CUST11,Germany,Maria Leonard
+INV28569,C003,Baseball Cap,Clothing,20,2024-07-28 16:34:41,78.64,CUST67,Portugal,Victoria Cruz
+INV55652,H002,Wall Clock,Home Goods,7,2024-11-02 16:28:23,32.57,CUST39,United Kingdom,William Hill
+INV25084,E001,Wireless Mouse,Electronics,22,2025-06-05 03:58:54,68.04,CUST22,Spain,Michele Pittman
+INV77632,E003,Smartphone Charger,Electronics,36,2024-01-22 12:03:03,56.43,CUST60,Spain,Roger Myers
+INV63090,T002,Building Blocks Set,Toys,12,2024-02-18 23:19:08,66.07,CUST51,United Kingdom,Ray Edwards
+INV90492,C001,Men's T-Shirt,Clothing,29,2025-04-09 15:38:22,39.49,CUST91,Spain,Evan Evans
+INV36972,C002,Women's Jeans,Clothing,49,2025-08-01 02:16:40,58.16,CUST69,France,Mrs. Kristina Brown MD
+INV57945,C003,Baseball Cap,Clothing,13,2024-11-22 04:08:56,26.97,CUST63,Italy,Margaret Blair
+INV88246,H001,Ceramic Mug,Home Goods,40,2024-09-16 21:22:19,12.31,CUST46,Portugal,Tyler Torres
+INV90918,E003,Smartphone Charger,Electronics,44,2025-08-03 10:49:46,91.95,CUST76,Germany,Christopher Clark
+INV98094,E003,Smartphone Charger,Electronics,21,2023-12-10 08:41:10,31.23,CUST24,Italy,Mitchell Church
+INV28528,H003,LED Desk Lamp,Home Goods,25,2024-10-13 21:42:54,14.65,CUST50,Unknown Country,Kristen Jones
+INV34347,H002,Wall Clock,Home Goods,41,2025-02-12 23:29:35,93.14,CUST23,France,David Diaz
+INV74178,C002,Women's Jeans,Clothing,9,2024-02-19 11:27:12,0.0,CUST80,United Kingdom,Evan Gordon
+INV57059,E001,Wireless Mouse,Electronics,32,2023-12-29 07:06:15,81.71,CUST72,Portugal,Thomas Little
+INV63626,T002,Building Blocks Set,Toys,32,2024-10-10 16:09:36,49.38,CUST11,United Kingdom,Maria Leonard
+INV38905,C002,Women's Jeans,Clothing,3,2024-05-19 08:11:10,54.22,CUST22,Portugal,Michele Pittman
+INV84140,T003,RC Car,Toys,50,2024-12-31 20:00:53,51.57,CUST74,Germany,Charles Dixon
+INV45112,H003,LED Desk Lamp,Home Goods,24,2025-02-17 01:30:53,76.24,CUST57,Spain,Sarah Jones
+INV65725,E002,Bluetooth Headphones,Electronics,48,2025-06-11 09:00:44,30.47,CUST5,Portugal,Ann Miller
+INV44447,C003,Baseball Cap,Clothing,6,2024-11-03 04:16:26,77.79,CUST31,Spain,Kevin Rodriguez
+INV87060,T003,RC Car,Toys,23,2025-08-08 22:13:08,63.64,CUST22,France,Michele Pittman
+INV37082,C001,Men's T-Shirt,Clothing,4,2025-03-17 12:46:22,53.7,CUST77,France,Mr. Dennis Smith
+INV52421,T003,RC Car,Toys,19,2024-06-03 20:51:09,27.47,CUST66,Germany,Kevin Davidson
+INV27771,H001,Ceramic Mug,Home Goods,4,2024-05-21 23:52:49,13.56,CUST17,Spain,Austin Mullins
+INV29168,T003,RC Car,Toys,21,2024-04-21 14:17:52,49.46,CUST74,Netherlands,Charles Dixon
+INV92288,H001,Ceramic Mug,Home Goods,25,2024-11-16 02:44:58,63.73,CUST99,Germany,Anthony Gordon
+INV62802,H003,LED Desk Lamp,Home Goods,48,2024-05-22 13:26:14,46.01,CUST63,Italy,Margaret Blair
+INV86278,E001,Wireless Mouse,Electronics,50,2023-11-15 16:41:29,63.85,CUST90,Italy,Kelsey Ayala
+INV18300,H003,Unknown Product,Home Goods,26,2024-03-22 15:38:34,82.66,CUST64,Netherlands,Connor Bailey
+INV52318,C002,Women's Jeans,Clothing,22,2025-02-22 21:02:30,13.93,CUST63,Italy,Margaret Blair
+INV99463,E001,Wireless Mouse,Electronics,3,2023-11-21 22:47:54,78.61,CUST59,United Kingdom,Jermaine Boyd III
+INV26284,E003,Smartphone Charger,Electronics,29,2024-11-21 00:01:28,99.19,CUST55,Spain,Ernest Campbell
+INV27290,T002,Building Blocks Set,Toys,20,2024-01-21 09:58:36,10.24,CUST47,Netherlands,Caitlin Hickman
+INV20803,C003,Baseball Cap,Clothing,43,2025-06-06 06:01:35,6.13,CUST81,Netherlands,Tammy Pacheco
+INV40689,H001,Ceramic Mug,Home Goods,42,2023-11-13 03:27:55,1.11,CUST62,Germany,David Underwood
+INV27393,T001,Stuffed Bear,Toys,15,2025-01-24 16:12:15,1.92,CUST90,Italy,Kelsey Ayala
+INV25806,H001,Ceramic Mug,Home Goods,45,2023-12-25 17:23:33,8.01,CUST50,Germany,Kristen Jones
+INV23425,E002,Bluetooth Headphones,Electronics,21,2024-08-22 10:53:43,14.58,CUST100,France,Gerald Duncan
+INV94092,T002,Building Blocks Set,Toys,10,2023-10-21 19:18:54,56.77,CUST79,France,Daniel Carey
+INV67684,C003,Baseball Cap,Clothing,47,2024-03-17 22:52:03,75.08,CUST53,Portugal,Dawn Williams
+INV38474,E002,Bluetooth Headphones,Electronics,7,2024-01-02 04:29:02,59.37,CUST50,Italy,Kristen Jones
+INV66280,C003,Baseball Cap,Clothing,9,2024-04-21 10:05:02,64.82,CUST32,Netherlands,Sara Jones
+INV13515,T002,Building Blocks Set,Toys,20,2024-03-09 18:51:02,61.09,CUST25,Norway,Jordan Deleon
+INV48737,T002,Building Blocks Set,Toys,4,2024-04-13 18:01:05,39.2,CUST31,Portugal,Kevin Rodriguez
+INV93634,T001,Stuffed Bear,Toys,5,2025-02-02 00:26:21,98.7,CUST41,France,William Johnson
+INV60703,T001,Stuffed Bear,Toys,27,2024-08-20 19:53:32,68.61,CUST98,Portugal,Matthew Holland
+INV19567,E001,Wireless Mouse,Electronics,38,2023-10-20 00:30:07,26.96,CUST6,United Kingdom,Olivia Wright
+INV62163,H003,LED Desk Lamp,Home Goods,19,2025-05-16 18:14:33,76.94,CUST55,Norway,Ernest Campbell
+INV20803,T002,Building Blocks Set,Toys,35,2025-02-12 22:25:46,16.12,CUST11,Netherlands,Maria Leonard
+INV20357,H003,LED Desk Lamp,Home Goods,14,2024-01-18 19:31:45,33.35,CUST76,Germany,Christopher Clark
+INV50654,T003,RC Car,Toys,28,2024-04-12 02:06:29,25.2,CUST56,Germany,Ashley Smith
+INV69424,T001,Stuffed Bear,Toys,39,2023-10-07 11:15:39,66.94,CUST85,France,Michael Jones
+INV25655,E001,Wireless Mouse,Electronics,46,2023-12-30 00:24:47,17.22,CUST45,Netherlands,Harold French
+INV31884,C003,Baseball Cap,Clothing,9,2024-05-13 04:17:53,77.37,CUST4,Italy,Danny Norton
+INV66272,C002,Women's Jeans,Clothing,34,2023-10-16 09:34:25,71.52,CUST74,Germany,Charles Dixon
+INV75031,H002,Wall Clock,Home Goods,33,2024-08-14 02:01:06,50.46,CUST73,France,Gary Smith
+INV58193,E003,Smartphone Charger,Electronics,17,2023-11-25 20:53:43,67.74,CUST15,Spain,Sharon Byrd
+INV76692,E001,Wireless Mouse,Electronics,3,2023-08-24 08:54:13,5.55,CUST47,Norway,Caitlin Hickman
+INV29671,E003,Smartphone Charger,Electronics,3,2025-02-28 23:52:24,42.52,CUST42,Spain,Jessica Carter
+INV64559,T003,RC Car,Toys,21,2024-05-15 02:50:08,57.58,CUST16,United Kingdom,Michelle Luna
+INV33507,C001,Men's T-Shirt,Clothing,34,2023-09-28 14:35:50,7.82,CUST60,Netherlands,Roger Myers
+INV50723,C003,Baseball Cap,Clothing,6,2025-02-28 16:37:46,1.79,CUST26,Netherlands,Sharon Thompson
+INV83899,C002,Women's Jeans,Clothing,48,2025-05-10 08:49:55,46.93,CUST76,Portugal,Christopher Clark
+INV35614,T003,RC Car,Toys,35,2024-04-19 05:28:55,1.63,CUST53,United Kingdom,Dawn Williams
+INV40539,H003,LED Desk Lamp,Home Goods,23,2025-05-24 00:20:57,95.15,CUST1,Norway,Jeremy Sexton
+INV50306,E002,Bluetooth Headphones,Electronics,14,2025-02-04 08:40:17,42.56,CUST8,France,Brian Brown
+INV46677,E002,Bluetooth Headphones,Electronics,3,2024-04-05 18:55:25,41.89,CUST48,Portugal,Kelli Dennis
+INV21128,T001,Stuffed Bear,Toys,7,2025-01-10 04:51:39,64.08,CUST51,Germany,Ray Edwards
+INV87580,T001,Stuffed Bear,Toys,4,2024-10-30 04:45:32,24.44,CUST34,Italy,Shawn Roberts
+INV61505,T003,RC Car,Toys,48,2024-07-11 11:34:48,45.82,CUST30,Germany,Jessica Young
+INV36569,E003,Smartphone Charger,Electronics,50,2025-04-01 03:58:03,16.39,CUST22,Portugal,Michele Pittman
+INV71086,C003,Baseball Cap,Clothing,27,2023-12-13 19:30:44,36.47,CUST99,Spain,Anthony Gordon
+INV69233,C002,Women's Jeans,Clothing,30,2024-05-09 04:21:57,9.95,CUST88,Netherlands,Tony Woods
+INV89076,E001,Wireless Mouse,Electronics,14,2024-07-12 05:24:01,10.03,CUST32,Italy,Sara Jones
+INV61936,H003,LED Desk Lamp,Home Goods,4,2025-07-05 10:52:49,26.76,CUST23,United Kingdom,David Diaz
+INV63004,H002,Wall Clock,Home Goods,36,2025-02-25 09:05:48,10.38,CUST14,France,Sylvia Long
+INV25919,E001,Wireless Mouse,Electronics,4,2024-03-26 04:45:33,20.62,CUST52,Italy,Peter Reid
+INV99952,T002,Building Blocks Set,Toys,42,2023-11-06 21:12:06,59.03,CUST10,United Kingdom,Mark Gamble
+INV18450,C001,Men's T-Shirt,Clothing,42,2024-11-08 04:41:20,10.11,CUST43,Germany,Jennifer Stevens
+INV15596,H002,Wall Clock,Home Goods,4,2024-01-31 20:53:40,43.88,CUST93,Norway,Shawn Herrera
+INV75028,E001,Wireless Mouse,Electronics,25,2025-07-11 15:32:03,18.11,CUST28,France,Kathryn Thomas
+INV46042,C002,Women's Jeans,Clothing,29,2024-01-11 01:15:41,61.8,CUST79,Spain,Daniel Carey
+INV94840,C002,Women's Jeans,Clothing,32,2024-10-06 20:02:59,48.42,CUST12,Netherlands,Veronica Taylor
+INV60202,E003,Smartphone Charger,Electronics,27,2024-03-03 23:23:53,88.58,CUST68,Spain,Ashley King
+INV92674,H003,LED Desk Lamp,Home Goods,2,2024-09-06 13:04:29,48.49,CUST63,Italy,Margaret Blair
+INV84141,H003,LED Desk Lamp,Home Goods,-21,2024-09-12 09:50:46,18.8,CUST41,Spain,William Johnson
+INV13840,C002,Women's Jeans,Clothing,4,2024-12-07 19:16:33,36.39,CUST75,Spain,Christopher Rodriguez
+INV30922,E002,Bluetooth Headphones,Electronics,16,2025-06-14 08:46:48,27.39,CUST95,United Kingdom,Kristi Hogan
+INV38758,T001,Stuffed Bear,Toys,25,2024-08-09 06:19:28,18.43,CUST76,Italy,Christopher Clark
+INV57026,T001,Stuffed Bear,Toys,2,2025-08-01 12:48:15,94.81,CUST73,France,Gary Smith
+INV83807,C001,Men's T-Shirt,Clothing,32,2025-02-17 11:15:08,18.38,CUST5,Germany,Ann Miller
+INV17362,C001,Men's T-Shirt,Clothing,39,2024-03-23 00:43:32,53.12,CUST1,Italy,Jeremy Sexton
+INV90495,C001,Men's T-Shirt,Clothing,9,2024-07-25 06:27:40,91.96,CUST42,United Kingdom,Jessica Carter
+INV12872,E003,Smartphone Charger,Electronics,38,2025-08-02 05:09:26,77.66,CUST68,Italy,Ashley King
+INV19506,C003,Baseball Cap,Clothing,46,2025-06-20 14:24:11,59.02,CUST44,Netherlands,Teresa Black
+INV52284,E003,Smartphone Charger,Electronics,11,2024-11-01 23:16:29,96.11,CUST84,Italy,Maria Espinoza
+INV32833,T003,RC Car,Toys,36,2025-07-22 22:20:40,78.91,CUST29,France,Alexander Berry
+INV59595,C002,Women's Jeans,Clothing,47,2025-07-17 10:43:22,13.61,CUST94,United Kingdom,Sarah Cruz
+INV85082,H001,Ceramic Mug,Home Goods,50,2025-03-15 01:10:44,19.03,CUST41,Spain,William Johnson
+INV93839,T001,Stuffed Bear,Toys,7,2025-01-01 05:07:14,33.79,CUST10,Spain,Mark Gamble
+INV55457,C003,Baseball Cap,Clothing,11,2025-05-24 03:13:49,82.34,CUST86,Italy,Daniel Spencer
+INV68540,E001,Wireless Mouse,Electronics,17,2024-03-13 09:05:07,69.62,CUST45,Netherlands,Harold French
+INV24160,T003,RC Car,Toys,1,2023-09-30 14:03:05,44.38,CUST54,France,Kenneth Robinson
+INV64266,H002,Wall Clock,Home Goods,25,2024-08-05 19:52:48,38.16,CUST62,Spain,David Underwood
+INV31319,H002,Wall Clock,Home Goods,5,2023-09-15 10:44:14,2.99,CUST34,Germany,Shawn Roberts
+INV19725,C003,Baseball Cap,Clothing,11,2024-08-30 05:51:30,73.47,CUST71,Germany,Stephanie Webb
+INV54295,T001,Stuffed Bear,Toys,40,2024-12-18 01:07:42,43.7,CUST84,France,Maria Espinoza
+INV89602,H001,Ceramic Mug,Home Goods,11,2023-10-05 03:41:12,33.78,CUST25,Norway,Jordan Deleon
+INV82628,T003,RC Car,Toys,47,2025-02-15 09:39:28,66.4,CUST39,Spain,William Hill
+INV22571,E001,Wireless Mouse,Electronics,26,2025-03-19 20:00:45,84.15,CUST20,United Kingdom,Dana Edwards
+INV57294,E001,Wireless Mouse,Electronics,28,2023-11-09 10:43:27,82.57,CUST81,Portugal,Tammy Pacheco
+INV36171,E002,Bluetooth Headphones,Electronics,2,2024-03-10 06:13:11,64.18,CUST11,Portugal,Maria Leonard
+INV25139,C002,Women's Jeans,Clothing,26,2024-12-06 17:48:26,89.59,CUST34,Germany,Shawn Roberts
+INV94130,H003,LED Desk Lamp,Home Goods,25,2024-02-17 13:30:30,88.66,CUST48,France,Kelli Dennis
+INV68428,E001,Wireless Mouse,Electronics,17,2024-11-04 16:55:56,27.08,CUST35,United Kingdom,Dana Fisher
+INV29808,T003,RC Car,Toys,43,2023-11-19 03:07:13,67.15,CUST70,Norway,Sean Bryant
+INV87296,C001,Men's T-Shirt,Clothing,36,2023-10-13 14:05:38,82.02,CUST54,Portugal,Kenneth Robinson
+INV85066,C001,Men's T-Shirt,Clothing,31,2024-06-13 02:52:28,40.09,CUST92,United Kingdom,Tyler Adams
+INV75811,T001,Stuffed Bear,Toys,34,2025-03-19 22:35:00,15.6,CUST97,Portugal,William Lee
+INV32659,E003,Smartphone Charger,Electronics,14,2024-02-25 04:35:39,5.22,CUST11,Norway,Maria Leonard
+INV36465,T002,Building Blocks Set,Toys,10,2025-04-12 09:23:21,32.66,CUST94,Germany,Sarah Cruz
+INV21406,H001,Ceramic Mug,Home Goods,36,2024-09-21 20:05:58,33.29,CUST36,Portugal,Reginald Sampson
+INV11620,T003,RC Car,Toys,40,2025-04-04 19:01:33,78.39,CUST15,Norway,Sharon Byrd
+INV29613,E003,Smartphone Charger,Electronics,37,2025-04-05 21:12:52,76.08,CUST13,Germany,Gary Lee
+INV83752,E002,Bluetooth Headphones,Electronics,19,2025-02-10 12:31:11,87.91,CUST34,Norway,Shawn Roberts
+INV95824,H002,Wall Clock,Home Goods,37,2025-04-26 17:13:23,4.71,CUST36,Norway,Reginald Sampson
+INV28855,T001,Stuffed Bear,Toys,39,2025-07-09 14:37:34,4.84,CUST43,Spain,Jennifer Stevens
+INV16460,T003,RC Car,Toys,31,2024-05-13 13:33:36,3.0,CUST39,Netherlands,William Hill
+INV46745,H002,Wall Clock,Home Goods,45,2025-07-13 03:34:33,97.28,CUST30,France,Jessica Young
+INV49384,T003,RC Car,Toys,29,2024-07-05 09:48:33,73.15,CUST78,Germany,Erik Williams
+INV34633,H002,Unknown Product,Home Goods,14,2024-10-01 17:38:19,76.19,CUST48,United Kingdom,Kelli Dennis
+INV77537,E003,Smartphone Charger,Electronics,5,2024-06-25 18:27:06,40.94,CUST100,United Kingdom,Gerald Duncan
+INV32772,C001,Men's T-Shirt,Clothing,13,2023-10-10 09:05:01,4.27,CUST7,Italy,Nancy Sims
+INV36097,C002,Women's Jeans,Clothing,24,2024-11-29 18:23:27,40.3,CUST16,United Kingdom,Michelle Luna
+INV41711,C003,Baseball Cap,Clothing,32,2025-04-11 16:14:31,18.58,CUST61,Italy,Joel Buchanan DVM
+INV55121,E003,Smartphone Charger,Electronics,17,2025-07-17 03:17:27,29.22,CUST50,United Kingdom,Kristen Jones
+INV31352,T001,Stuffed Bear,Toys,50,2024-03-18 08:03:32,65.09,CUST87,Spain,Xavier Townsend
+INV45269,T002,Building Blocks Set,Toys,27,2025-01-18 00:43:48,86.6,CUST99,United Kingdom,Anthony Gordon
+INV72140,E003,Unknown Product,Electronics,42,2024-02-05 21:53:12,80.29,CUST29,Netherlands,Alexander Berry
+INV89736,C002,Women's Jeans,Clothing,46,2025-08-07 23:24:05,28.26,CUST49,Italy,Yvonne Hall
+INV70161,C002,Women's Jeans,Clothing,14,2024-12-01 11:00:02,68.04,CUST80,Norway,Evan Gordon
+INV86609,E002,Bluetooth Headphones,Electronics,1,2025-01-16 13:37:31,56.58,CUST77,Netherlands,Mr. Dennis Smith
+INV49121,T002,Building Blocks Set,Toys,7,2024-12-17 02:19:27,34.29,CUST36,Italy,Reginald Sampson
+INV46291,C002,Women's Jeans,Clothing,42,2025-08-09 23:43:09,30.58,CUST20,Spain,Dana Edwards
+INV17441,T001,Stuffed Bear,Toys,26,2025-06-18 11:38:08,0.0,CUST93,United Kingdom,Shawn Herrera
+INV95904,H002,Wall Clock,Home Goods,19,2024-05-03 15:14:22,41.06,CUST95,United Kingdom,Kristi Hogan
+INV86418,T003,RC Car,Toys,37,2024-02-22 12:29:39,72.93,CUST29,Portugal,Alexander Berry
+INV98063,C003,Baseball Cap,Clothing,33,2024-06-14 06:11:20,84.22,CUST72,France,Thomas Little
+INV48506,E002,Bluetooth Headphones,Electronics,31,2023-12-21 09:25:02,72.79,CUST72,France,Thomas Little
+INV99091,C003,Baseball Cap,Clothing,42,2023-11-11 08:05:31,36.17,CUST96,Netherlands,Sara Contreras
+INV65112,C003,Baseball Cap,Clothing,24,2024-05-04 21:19:11,30.11,CUST16,Portugal,Michelle Luna
+INV17035,T002,Building Blocks Set,Toys,38,2025-03-28 22:35:50,8.05,CUST25,Germany,Jordan Deleon
+INV99220,H001,Ceramic Mug,Home Goods,34,2024-06-12 15:02:26,6.35,CUST20,France,Dana Edwards
+INV36253,C003,Baseball Cap,Clothing,27,2025-03-17 16:39:34,15.18,CUST92,France,Tyler Adams
+INV20592,H002,Wall Clock,Home Goods,22,2025-05-19 06:26:16,32.03,CUST8,United Kingdom,Brian Brown
+INV69251,C002,Women's Jeans,Clothing,14,2024-01-31 20:58:54,76.68,CUST63,Germany,Margaret Blair
+INV26961,T001,Stuffed Bear,Toys,28,2025-05-21 15:38:03,40.94,CUST62,Norway,David Underwood
+INV10611,E001,Wireless Mouse,Electronics,35,2024-03-03 13:35:03,95.06,CUST42,Spain,Jessica Carter
+INV12348,T002,Building Blocks Set,Toys,1,2025-05-14 09:03:33,23.4,CUST45,Netherlands,Harold French
+INV26899,E002,Bluetooth Headphones,Electronics,25,2025-01-08 21:25:58,31.31,CUST9,United Kingdom,John Robles
+INV49085,C002,Women's Jeans,Clothing,30,2025-01-25 21:42:47,52.89,CUST56,France,Ashley Smith
+INV54922,H002,Wall Clock,Home Goods,23,2024-02-20 06:00:11,94.86,CUST52,United Kingdom,Peter Reid
+INV39939,C001,Men's T-Shirt,Clothing,47,2023-12-24 07:41:21,73.67,CUST76,France,Christopher Clark
+INV26143,C003,Baseball Cap,Clothing,46,2025-06-08 01:21:37,38.14,CUST82,Netherlands,Megan Guerrero
+INV80088,T001,Stuffed Bear,Toys,4,2025-04-11 01:44:46,66.54,CUST84,United Kingdom,Maria Espinoza
+INV16322,T003,RC Car,Toys,8,2024-10-11 16:10:37,38.65,CUST71,Netherlands,Stephanie Webb
+INV72180,T003,RC Car,Toys,10,2024-03-09 22:56:56,1.92,CUST54,Germany,Kenneth Robinson
+INV96832,H003,LED Desk Lamp,Home Goods,18,2025-05-10 22:03:01,70.37,CUST54,Germany,Kenneth Robinson
+INV77054,T003,RC Car,Toys,40,2023-12-10 10:17:34,12.29,CUST14,Portugal,Sylvia Long
+INV36037,T001,Stuffed Bear,Toys,13,2024-05-07 19:02:49,97.34,CUST46,Norway,Tyler Torres
+INV48712,E003,Smartphone Charger,Electronics,3,2025-02-23 18:04:18,91.13,CUST89,Portugal,Steven Nash
+INV53332,C001,Men's T-Shirt,Clothing,1,2023-08-25 03:14:25,90.78,CUST74,Portugal,Charles Dixon
+INV29548,E002,Bluetooth Headphones,Electronics,50,2025-01-16 02:43:56,0.0,CUST13,Netherlands,Gary Lee
+INV94454,C001,Men's T-Shirt,Clothing,30,2024-06-10 09:36:59,46.96,CUST13,France,Gary Lee
+INV15170,C002,Women's Jeans,Clothing,24,2025-07-05 11:23:07,43.17,CUST15,Germany,Sharon Byrd
+INV16014,E001,Wireless Mouse,Electronics,9,2025-06-21 23:33:49,17.88,CUST46,Portugal,Tyler Torres
+INV91501,C002,Women's Jeans,Clothing,47,2023-11-15 13:34:00,81.68,CUST24,Germany,Mitchell Church
+INV62530,H001,Ceramic Mug,Home Goods,30,2024-05-16 14:02:36,69.3,CUST62,Norway,David Underwood
+INV95045,E003,Smartphone Charger,Electronics,8,2023-12-25 02:08:06,98.18,CUST21,Germany,Jasmine Wright
+INV64529,T001,Stuffed Bear,Toys,31,2025-03-16 15:57:10,18.94,CUST49,Unknown Country,Yvonne Hall
+INV90131,E001,Wireless Mouse,Electronics,44,2023-12-23 17:35:18,92.12,CUST15,Norway,Sharon Byrd
+INV67761,E001,Wireless Mouse,Electronics,5,2024-05-05 23:50:48,32.11,CUST91,Spain,Evan Evans
+INV97797,C003,Baseball Cap,Clothing,34,2025-01-28 22:30:33,10.43,CUST85,Spain,Michael Jones
+INV73167,C003,Baseball Cap,Clothing,43,2025-07-04 23:21:10,39.1,CUST72,United Kingdom,Thomas Little
+INV11526,T002,Building Blocks Set,Toys,11,2025-01-10 17:05:10,85.34,CUST22,Germany,Michele Pittman
+INV74441,C003,Baseball Cap,Clothing,16,2024-07-15 10:07:38,5.98,CUST29,Norway,Alexander Berry
+INV62858,C001,Men's T-Shirt,Clothing,6,2024-11-24 16:10:20,80.32,CUST58,Germany,John Black
+INV75333,H002,Wall Clock,Home Goods,21,2023-12-11 18:06:31,74.78,CUST3,Germany,Sandy Smith
+INV62879,H001,Ceramic Mug,Home Goods,3,2025-03-04 19:59:31,1.02,CUST12,Netherlands,Veronica Taylor
+INV76628,H003,LED Desk Lamp,Home Goods,14,2025-06-12 16:36:36,95.09,CUST47,United Kingdom,Caitlin Hickman
+INV39218,H002,Wall Clock,Home Goods,22,2025-03-07 22:33:52,60.4,CUST92,Italy,Tyler Adams
+INV69314,E002,Bluetooth Headphones,Electronics,7,2025-06-16 08:04:24,1.22,CUST46,Netherlands,Tyler Torres
+INV81786,H003,LED Desk Lamp,Home Goods,24,2025-07-30 03:52:15,5.53,CUST22,Portugal,Michele Pittman
+INV28408,T003,RC Car,Toys,48,2024-10-04 03:53:39,26.17,CUST26,Spain,Sharon Thompson
+INV25826,H001,Ceramic Mug,Home Goods,14,2024-11-22 06:56:19,71.96,CUST14,Norway,Sylvia Long
+INV16094,T002,Building Blocks Set,Toys,44,2025-04-05 04:29:10,77.44,CUST58,Portugal,John Black
+INV96305,T001,Stuffed Bear,Toys,33,2023-12-27 18:09:42,1.43,CUST95,United Kingdom,Kristi Hogan
+INV82512,H001,Ceramic Mug,Home Goods,38,2024-12-18 18:30:28,78.33,CUST23,France,David Diaz
+INV26827,E002,Bluetooth Headphones,Electronics,25,2025-06-15 21:51:54,61.01,CUST42,Norway,Jessica Carter
+INV64875,T001,Stuffed Bear,Toys,45,2024-04-22 09:57:40,40.39,CUST44,Netherlands,Teresa Black
+INV69355,E003,Smartphone Charger,Electronics,9,2024-10-07 21:56:14,70.3,CUST96,Netherlands,Sara Contreras
+INV81802,C003,Baseball Cap,Clothing,46,2025-02-28 23:01:53,22.52,CUST27,Netherlands,Tiffany Ramirez
+INV99995,C003,Baseball Cap,Clothing,44,2023-12-25 23:40:08,97.54,CUST23,Italy,David Diaz
+INV25126,C003,Baseball Cap,Clothing,-36,2024-12-15 21:13:09,57.49,CUST86,Norway,Daniel Spencer
+INV98374,T003,RC Car,Toys,35,2024-05-30 15:22:43,81.02,CUST67,Germany,Victoria Cruz
+INV13312,H001,Ceramic Mug,Home Goods,10,2023-10-05 02:03:39,20.79,CUST97,France,William Lee
+INV47567,T002,Building Blocks Set,Toys,17,2024-01-08 02:15:30,69.37,CUST38,Spain,Kyle Callahan
+INV80932,E001,Wireless Mouse,Electronics,23,2024-11-17 03:43:52,61.99,CUST87,Spain,Xavier Townsend
+INV94819,H003,LED Desk Lamp,Home Goods,25,2024-04-11 18:36:07,78.65,CUST90,Netherlands,Kelsey Ayala
+INV97096,E001,Wireless Mouse,Electronics,25,2024-09-11 15:10:00,95.71,CUST88,Italy,Tony Woods
+INV82368,E001,Wireless Mouse,Electronics,1,2024-04-25 07:23:39,62.44,CUST100,Portugal,Gerald Duncan
+INV39563,T002,Building Blocks Set,Toys,46,2025-08-07 23:34:46,37.41,CUST76,Spain,Christopher Clark
+INV35362,C002,Women's Jeans,Clothing,29,2024-02-09 02:42:40,19.51,CUST23,Germany,David Diaz
+INV59440,E001,Wireless Mouse,Electronics,28,2024-05-23 20:15:54,27.16,CUST21,Netherlands,Jasmine Wright
+INV10739,C003,Baseball Cap,Clothing,30,2025-08-07 05:38:10,4.95,CUST42,United Kingdom,Jessica Carter
+INV91968,T001,Stuffed Bear,Toys,43,2024-06-15 17:51:37,79.2,CUST71,Italy,Stephanie Webb
+INV19552,T003,RC Car,Toys,21,2025-01-31 08:00:30,95.74,CUST67,Germany,Victoria Cruz
+INV76209,E003,Smartphone Charger,Electronics,27,2025-02-18 19:33:10,40.94,CUST45,Spain,Harold French
+INV37964,T002,Building Blocks Set,Toys,22,2024-07-16 13:08:10,30.06,CUST97,Portugal,William Lee
+INV83575,T002,Building Blocks Set,Toys,-1,2023-12-07 12:35:51,45.12,CUST83,Spain,Nichole Lowery
+INV15226,T002,Building Blocks Set,Toys,21,2024-09-05 04:07:40,39.2,CUST70,Netherlands,Sean Bryant
+INV13238,H003,LED Desk Lamp,Home Goods,50,2024-08-29 18:43:31,80.48,CUST58,Portugal,John Black
+INV15747,C002,Women's Jeans,Clothing,42,2024-02-25 11:39:44,51.88,CUST13,France,Gary Lee
+INV80513,H003,LED Desk Lamp,Home Goods,1,2025-05-14 02:23:01,21.87,CUST81,Spain,Tammy Pacheco
+INV99837,H001,Ceramic Mug,Home Goods,7,2024-03-09 19:34:44,83.05,CUST95,Norway,Kristi Hogan
+INV94746,E002,Bluetooth Headphones,Electronics,48,2025-07-14 05:35:52,3.35,CUST92,Italy,Tyler Adams
+INV14965,E002,Bluetooth Headphones,Electronics,5,2023-10-06 06:28:49,79.63,CUST72,Germany,Thomas Little
+INV85361,C001,Men's T-Shirt,Clothing,17,2024-10-02 14:07:40,45.66,CUST52,Norway,Peter Reid
+INV51471,E001,Wireless Mouse,Electronics,25,2025-07-01 04:18:26,53.95,CUST83,Germany,Nichole Lowery
+INV86756,E001,Wireless Mouse,Electronics,-45,2023-10-25 13:01:24,92.88,CUST14,Netherlands,Sylvia Long
+INV99899,C002,Women's Jeans,Clothing,39,2023-11-08 10:14:59,76.76,CUST57,Norway,Sarah Jones
+INV61788,T002,Building Blocks Set,Toys,2,2024-12-09 05:41:29,53.81,CUST18,Norway,William Bryan
+INV81529,C002,Women's Jeans,Clothing,41,2024-01-06 10:51:06,68.05,CUST94,Italy,Sarah Cruz
+INV11461,H003,LED Desk Lamp,Home Goods,36,2024-01-03 04:29:12,5.14,CUST74,Norway,Charles Dixon
+INV80405,H003,LED Desk Lamp,Home Goods,6,2024-06-19 07:38:52,75.08,CUST93,Italy,Shawn Herrera
+INV37752,H001,Ceramic Mug,Home Goods,42,2025-01-17 05:11:11,16.93,CUST29,Netherlands,Alexander Berry
+INV35470,E002,Bluetooth Headphones,Electronics,12,2025-06-29 20:39:16,85.37,CUST97,Portugal,William Lee
+INV94498,H003,LED Desk Lamp,Home Goods,5,2024-06-04 02:27:09,25.82,CUST26,Portugal,Sharon Thompson
+INV53365,C003,Baseball Cap,Clothing,9,2025-06-29 23:51:54,24.22,CUST37,Germany,Jackson Woods
+INV35362,C003,Baseball Cap,Clothing,32,2024-11-15 11:57:16,62.02,CUST40,France,Kristin Harmon
+INV84128,T001,Stuffed Bear,Toys,24,2024-06-30 15:35:39,17.7,CUST41,Spain,William Johnson
+INV39035,T003,RC Car,Toys,48,2025-05-29 15:52:43,28.39,CUST47,France,Caitlin Hickman
+INV99073,T003,RC Car,Toys,22,2024-12-15 16:51:06,45.09,CUST100,Netherlands,Gerald Duncan
+INV73828,H003,Unknown Product,Home Goods,7,2024-02-07 23:30:13,61.06,CUST36,France,Reginald Sampson
+INV80597,C001,Men's T-Shirt,Clothing,17,2025-05-14 02:47:02,73.02,CUST3,United Kingdom,Sandy Smith
+INV86269,T001,Stuffed Bear,Toys,26,2025-04-07 07:44:46,90.72,CUST71,Netherlands,Stephanie Webb
+INV81233,H003,LED Desk Lamp,Home Goods,31,2025-06-11 05:24:41,37.22,CUST29,Netherlands,Alexander Berry
+INV27548,H002,Wall Clock,Home Goods,33,2025-01-15 03:17:49,40.28,CUST65,United Kingdom,Michael Parker
+INV96858,C001,Men's T-Shirt,Clothing,40,2025-07-12 06:02:17,75.96,CUST18,Portugal,William Bryan
+INV30869,E003,Smartphone Charger,Electronics,37,2025-03-13 05:19:22,73.86,CUST62,Italy,David Underwood
+INV15297,C001,Men's T-Shirt,Clothing,49,2024-12-23 08:26:15,7.22,CUST48,Spain,Kelli Dennis
+INV15610,T002,Building Blocks Set,Toys,14,2025-01-23 13:09:09,39.42,CUST59,United Kingdom,Jermaine Boyd III
+INV15230,T002,Building Blocks Set,Toys,21,2023-11-25 18:58:57,63.72,CUST36,Netherlands,Reginald Sampson
+INV85842,H003,Unknown Product,Home Goods,37,2024-02-06 13:42:49,65.71,CUST47,Germany,Caitlin Hickman
+INV77720,C002,Women's Jeans,Clothing,25,2024-03-27 18:48:01,41.18,CUST45,Portugal,Harold French
+INV73191,T001,Stuffed Bear,Toys,1,2025-01-06 05:03:34,44.55,CUST30,Germany,Jessica Young
+INV77441,T002,Building Blocks Set,Toys,18,2024-03-15 05:28:12,19.5,CUST47,Germany,Caitlin Hickman
+INV96652,C001,Men's T-Shirt,Clothing,27,2024-07-15 04:07:35,48.67,CUST62,Portugal,David Underwood
+INV37617,T001,Stuffed Bear,Toys,11,2025-06-04 14:57:37,3.22,CUST6,France,Olivia Wright
+INV85168,T001,Stuffed Bear,Toys,11,2023-12-27 22:55:15,51.75,CUST74,France,Charles Dixon
+INV17328,E003,Smartphone Charger,Electronics,17,2024-02-12 18:48:37,95.87,CUST77,United Kingdom,Mr. Dennis Smith
+INV96736,C002,Women's Jeans,Clothing,6,2024-03-20 16:21:17,61.05,CUST61,Portugal,Joel Buchanan DVM
+INV32356,C001,Men's T-Shirt,Clothing,27,2025-04-18 05:11:45,79.67,CUST99,France,Anthony Gordon
+INV91685,T002,Building Blocks Set,Toys,33,2024-05-08 06:06:23,72.69,CUST44,Portugal,Teresa Black
+INV88188,T001,Stuffed Bear,Toys,5,2024-04-03 13:46:12,39.16,CUST14,United Kingdom,Sylvia Long
+INV36522,H003,LED Desk Lamp,Home Goods,33,2025-07-12 15:17:03,82.82,CUST78,Germany,Erik Williams
+INV33255,H002,Wall Clock,Home Goods,40,2025-04-17 01:25:16,87.9,CUST69,Germany,Mrs. Kristina Brown MD
+INV22214,H002,Wall Clock,Home Goods,43,2023-12-23 21:58:18,54.39,CUST1,Norway,Jeremy Sexton
+INV78425,H001,Ceramic Mug,Home Goods,24,2023-09-25 19:17:24,43.47,CUST62,Norway,David Underwood
+INV55943,T001,Stuffed Bear,Toys,48,2025-07-25 20:58:33,10.67,CUST18,Netherlands,William Bryan
+INV72539,C001,Men's T-Shirt,Clothing,6,2024-05-28 21:46:59,87.8,CUST53,Netherlands,Dawn Williams
+INV34775,E001,Wireless Mouse,Electronics,46,2023-08-19 21:02:37,52.73,CUST67,United Kingdom,Victoria Cruz
+INV59155,T002,Building Blocks Set,Toys,14,2025-07-16 11:30:05,41.48,CUST14,France,Sylvia Long
+INV65846,T002,Building Blocks Set,Toys,38,2024-04-27 09:30:49,85.64,CUST55,Italy,Ernest Campbell
+INV90200,C002,Women's Jeans,Clothing,44,2024-09-21 07:24:58,41.91,CUST72,Portugal,Thomas Little
+INV33425,C003,Baseball Cap,Clothing,36,2025-03-02 17:36:47,26.12,CUST40,Italy,Kristin Harmon
+INV62183,T003,RC Car,Toys,9,2025-06-17 04:20:08,75.03,CUST58,France,John Black
+INV23143,C001,Unknown Product,Clothing,33,2024-09-25 12:19:19,80.28,CUST79,United Kingdom,Daniel Carey
+INV31068,H001,Ceramic Mug,Home Goods,41,2023-08-17 03:18:59,82.5,CUST61,Norway,Joel Buchanan DVM
+INV21552,E002,Bluetooth Headphones,Electronics,17,2024-03-26 13:30:06,8.92,CUST5,Norway,Ann Miller
+INV62513,T001,Stuffed Bear,Toys,42,2025-01-26 10:25:48,71.45,CUST77,United Kingdom,Mr. Dennis Smith
+INV32973,T002,Building Blocks Set,Toys,32,2024-11-03 00:23:23,20.97,CUST85,Netherlands,Michael Jones
+INV35525,E001,Wireless Mouse,Electronics,39,2025-01-15 18:46:48,70.15,CUST79,France,Daniel Carey
+INV98345,E001,Wireless Mouse,Electronics,24,2024-04-12 23:50:54,0.0,CUST21,Germany,Jasmine Wright
+INV46167,H001,Ceramic Mug,Home Goods,23,2025-06-27 14:23:12,41.14,CUST26,United Kingdom,Sharon Thompson
+INV18993,E002,Bluetooth Headphones,Electronics,36,2024-05-29 20:21:24,91.59,CUST45,Italy,Harold French
+INV46242,C001,Men's T-Shirt,Clothing,39,2024-02-27 16:33:26,93.04,CUST74,United Kingdom,Charles Dixon
+INV44223,E003,Smartphone Charger,Electronics,27,2025-01-11 03:52:34,56.3,CUST65,Netherlands,Michael Parker
+INV54560,E002,Bluetooth Headphones,Electronics,33,2024-05-01 19:35:04,81.5,CUST74,Netherlands,Charles Dixon
+INV68034,H001,Ceramic Mug,Home Goods,37,2024-12-19 08:51:26,75.99,CUST100,Portugal,Gerald Duncan
+INV99337,H002,Wall Clock,Home Goods,38,2023-09-09 17:32:52,12.51,CUST9,Norway,John Robles
+INV93055,C001,Men's T-Shirt,Clothing,44,2025-07-30 08:22:17,80.22,CUST53,Italy,Dawn Williams
+INV77699,H003,LED Desk Lamp,Home Goods,1,2025-07-29 09:35:17,25.58,CUST12,Norway,Veronica Taylor
+INV98302,T003,RC Car,Toys,22,2023-10-28 20:11:26,93.21,CUST61,Italy,Joel Buchanan DVM
+INV56338,C001,Men's T-Shirt,Clothing,37,2024-05-13 06:39:17,94.76,CUST88,Spain,Tony Woods
+INV75404,T003,Unknown Product,Toys,13,2024-04-08 08:48:46,87.4,CUST27,Spain,Tiffany Ramirez
+INV36577,C001,Men's T-Shirt,Clothing,40,2024-08-10 05:40:46,78.11,CUST16,Germany,Michelle Luna
+INV98580,T002,Building Blocks Set,Toys,32,2025-05-01 00:14:28,76.66,CUST70,United Kingdom,Sean Bryant
+INV73214,C003,Baseball Cap,Clothing,40,2024-06-29 17:55:32,89.91,CUST74,Netherlands,Charles Dixon
+INV74330,E003,Smartphone Charger,Electronics,49,2025-01-16 10:12:15,40.39,CUST97,France,William Lee
+INV17097,H003,LED Desk Lamp,Home Goods,28,2024-12-13 19:41:19,4.22,CUST45,Norway,Harold French
+INV99959,E003,Smartphone Charger,Electronics,30,2023-12-13 18:52:02,46.55,CUST89,United Kingdom,Steven Nash
+INV11549,T002,Building Blocks Set,Toys,14,2024-09-03 21:09:13,10.97,CUST47,Unknown Country,Caitlin Hickman
+INV34530,H003,LED Desk Lamp,Home Goods,17,2024-04-10 09:48:31,47.66,CUST79,Italy,Daniel Carey
+INV57962,E003,Smartphone Charger,Electronics,32,2024-10-19 07:39:54,42.49,CUST97,Italy,William Lee
+INV57851,H001,Ceramic Mug,Home Goods,18,2024-11-15 06:32:58,57.57,CUST74,Spain,Charles Dixon
+INV23090,T003,RC Car,Toys,18,2024-04-09 20:13:09,43.79,CUST49,Spain,Yvonne Hall
+INV29116,T003,RC Car,Toys,10,2024-12-08 00:21:16,18.48,CUST64,France,Connor Bailey
+INV92660,H003,LED Desk Lamp,Home Goods,35,2024-06-30 17:43:02,30.7,CUST72,United Kingdom,Thomas Little
+INV62219,E002,Bluetooth Headphones,Electronics,45,2024-01-26 02:11:09,22.33,CUST33,Unknown Country,Adriana Carroll
+INV92557,E002,Bluetooth Headphones,Electronics,29,2024-07-19 09:27:28,36.74,CUST72,Netherlands,Thomas Little
+INV55107,E001,Wireless Mouse,Electronics,27,2023-12-14 12:46:58,86.87,CUST78,Spain,Erik Williams
+INV85609,T001,Stuffed Bear,Toys,42,2025-06-06 19:36:14,18.28,CUST100,Netherlands,Gerald Duncan
+INV56544,C003,Baseball Cap,Clothing,44,2025-01-15 17:44:56,77.7,CUST58,Germany,John Black
+INV59947,T001,Stuffed Bear,Toys,19,2024-11-28 22:59:59,95.7,CUST22,Italy,Michele Pittman
+INV65288,T002,Building Blocks Set,Toys,40,2025-03-19 14:44:14,85.04,CUST10,Germany,Mark Gamble
+INV31233,C003,Baseball Cap,Clothing,15,2024-06-28 11:32:13,65.65,CUST91,Netherlands,Evan Evans
+INV89349,T002,Building Blocks Set,Toys,26,2024-05-15 16:11:53,78.32,CUST47,Portugal,Caitlin Hickman
+INV64262,E003,Smartphone Charger,Electronics,12,2023-09-04 04:33:09,73.05,CUST85,Netherlands,Michael Jones
+INV20494,C001,Men's T-Shirt,Clothing,11,2024-09-21 03:45:01,10.46,CUST61,United Kingdom,Joel Buchanan DVM
+INV13455,H001,Ceramic Mug,Home Goods,34,2023-11-05 03:47:02,26.98,CUST20,Germany,Dana Edwards
+INV95830,H001,Ceramic Mug,Home Goods,20,2024-04-02 09:00:26,74.02,CUST57,France,Sarah Jones
+INV27206,H003,LED Desk Lamp,Home Goods,11,2023-09-10 01:16:47,66.69,CUST42,Portugal,Jessica Carter
+INV71235,H003,LED Desk Lamp,Home Goods,18,2025-02-23 16:11:46,14.38,CUST90,France,Kelsey Ayala
+INV87441,T001,Stuffed Bear,Toys,30,2025-05-19 23:09:02,87.85,CUST56,Netherlands,Ashley Smith
+INV55504,H002,Wall Clock,Home Goods,35,2024-03-31 03:15:38,44.74,CUST47,Norway,Caitlin Hickman
+INV44053,E003,Smartphone Charger,Electronics,20,2023-08-22 00:00:12,52.81,CUST98,France,Matthew Holland
+INV55073,C002,Women's Jeans,Clothing,31,2025-02-09 00:18:10,69.09,CUST63,Portugal,Margaret Blair
+INV49270,E001,Wireless Mouse,Electronics,50,2024-10-25 10:39:53,60.1,CUST1,Italy,Jeremy Sexton
+INV34716,H001,Ceramic Mug,Home Goods,36,2024-11-01 14:22:20,25.74,CUST92,Norway,Tyler Adams
+INV59592,C001,Men's T-Shirt,Clothing,17,2023-11-01 15:22:23,62.91,CUST67,Netherlands,Victoria Cruz
+INV47313,T002,Building Blocks Set,Toys,48,2025-02-06 09:47:15,41.88,CUST9,France,John Robles
+INV27907,C002,Women's Jeans,Clothing,8,2025-05-25 16:34:42,62.16,CUST35,Portugal,Dana Fisher
+INV34613,C003,Baseball Cap,Clothing,2,2024-01-14 01:48:25,97.0,CUST3,France,Sandy Smith
+INV23405,C002,Women's Jeans,Clothing,18,2023-12-18 15:57:44,72.98,CUST30,Germany,Jessica Young
+INV29750,E001,Wireless Mouse,Electronics,32,2024-03-21 12:26:55,42.6,CUST64,Italy,Connor Bailey
+INV70776,T003,RC Car,Toys,3,2024-07-15 02:55:15,84.51,CUST19,United Kingdom,Michael Saunders
+INV44931,H001,Ceramic Mug,Home Goods,5,2025-02-18 17:07:03,18.98,CUST33,Norway,Adriana Carroll
+INV11653,E002,Bluetooth Headphones,Electronics,50,2024-04-22 14:00:36,77.35,CUST57,Spain,Sarah Jones
+INV14392,C001,Men's T-Shirt,Clothing,30,2023-11-16 18:58:26,66.93,CUST27,Portugal,Tiffany Ramirez
+INV61003,T002,Building Blocks Set,Toys,20,2024-07-07 05:46:29,63.29,CUST6,Germany,Olivia Wright
+INV43202,H002,Wall Clock,Home Goods,41,2024-06-12 07:14:07,36.68,CUST7,Spain,Nancy Sims
+INV24801,C001,Men's T-Shirt,Clothing,41,2024-10-29 11:48:54,2.49,CUST36,Germany,Reginald Sampson
+INV61879,C001,Men's T-Shirt,Clothing,1,2023-09-24 21:09:22,78.56,CUST61,France,Joel Buchanan DVM
+INV58679,E002,Bluetooth Headphones,Electronics,16,2024-01-20 18:12:05,10.05,CUST80,Italy,Evan Gordon
+INV91937,E001,Wireless Mouse,Electronics,4,2024-08-10 23:28:05,16.24,CUST69,Germany,Mrs. Kristina Brown MD
+INV26492,H002,Wall Clock,Home Goods,15,2024-07-01 20:19:44,79.07,CUST97,Unknown Country,William Lee
+INV67503,T003,RC Car,Toys,13,2023-09-02 13:45:14,36.46,CUST18,Netherlands,William Bryan
+INV15175,H002,Wall Clock,Home Goods,46,2024-11-02 20:21:12,30.18,CUST90,Portugal,Kelsey Ayala
+INV34874,T001,Stuffed Bear,Toys,12,2025-02-18 12:39:29,33.04,CUST60,Netherlands,Roger Myers
+INV88470,H003,LED Desk Lamp,Home Goods,11,2023-10-21 19:20:17,16.35,CUST38,Netherlands,Kyle Callahan
+INV80989,C003,Baseball Cap,Clothing,30,2023-08-12 23:13:47,51.09,CUST94,France,Sarah Cruz
+INV12453,T001,Stuffed Bear,Toys,24,2025-05-08 08:41:38,32.75,CUST9,Norway,John Robles
+INV34886,H003,LED Desk Lamp,Home Goods,44,2025-01-02 20:04:41,16.26,CUST37,Italy,Jackson Woods
+INV63713,T002,Unknown Product,Toys,21,2023-12-03 03:30:16,52.8,CUST9,United Kingdom,John Robles
+INV27009,E003,Smartphone Charger,Electronics,3,2024-03-05 03:53:51,49.05,CUST13,Unknown Country,Gary Lee
+INV84843,T002,Building Blocks Set,Toys,25,2025-06-15 17:50:13,53.06,CUST90,Netherlands,Kelsey Ayala
+INV16433,C003,Unknown Product,Clothing,15,2025-04-23 02:34:49,2.3,CUST27,Portugal,Tiffany Ramirez
+INV20480,H002,Wall Clock,Home Goods,41,2023-10-13 13:08:27,56.24,CUST54,Italy,Kenneth Robinson
+INV17641,T001,Stuffed Bear,Toys,18,2025-02-03 01:28:48,73.7,CUST39,Germany,William Hill
+INV38298,H003,LED Desk Lamp,Home Goods,7,2023-11-23 08:24:39,53.63,CUST25,Spain,Jordan Deleon
+INV78969,T002,Building Blocks Set,Toys,16,2025-03-17 22:46:02,94.8,CUST72,Norway,Thomas Little
+INV23829,T002,Building Blocks Set,Toys,37,2024-08-12 16:42:05,70.55,CUST55,Germany,Ernest Campbell
+INV31864,E003,Smartphone Charger,Electronics,36,2024-09-26 18:22:31,34.41,CUST21,Portugal,Jasmine Wright
+INV56179,C003,Baseball Cap,Clothing,36,2024-07-09 13:32:02,41.82,CUST82,Norway,Megan Guerrero
+INV52395,T001,Stuffed Bear,Toys,16,2025-03-10 19:51:56,22.18,CUST99,Netherlands,Anthony Gordon
+INV57187,H002,Wall Clock,Home Goods,29,2024-09-21 00:00:25,72.91,CUST37,United Kingdom,Jackson Woods
+INV77844,E003,Smartphone Charger,Electronics,20,2023-08-18 10:56:05,0.0,CUST28,Italy,Kathryn Thomas
+INV12844,T003,RC Car,Toys,18,2025-02-28 18:36:53,56.08,CUST74,France,Charles Dixon
+INV22358,E001,Wireless Mouse,Electronics,30,2024-08-10 05:41:01,14.7,CUST47,Spain,Caitlin Hickman
+INV40539,C002,Women's Jeans,Clothing,20,2023-11-14 20:46:14,40.58,CUST28,Germany,Kathryn Thomas
+INV52558,H002,Wall Clock,Home Goods,12,2024-12-23 20:58:47,82.13,CUST13,Netherlands,Gary Lee
+INV14898,T003,RC Car,Toys,37,2024-09-05 02:51:26,78.23,CUST99,Italy,Anthony Gordon
+INV55603,H001,Ceramic Mug,Home Goods,27,2023-12-13 08:15:16,75.02,CUST78,United Kingdom,Erik Williams
+INV93084,T002,Building Blocks Set,Toys,25,2023-10-06 11:05:48,52.91,CUST41,France,William Johnson
+INV52838,H003,LED Desk Lamp,Home Goods,45,2024-03-25 05:34:39,6.0,CUST94,Norway,Sarah Cruz
+INV68407,T001,Stuffed Bear,Toys,37,2025-01-09 03:16:47,22.99,CUST38,Norway,Kyle Callahan
+INV29400,E003,Smartphone Charger,Electronics,22,2023-11-04 17:19:31,57.57,CUST7,Norway,Nancy Sims
+INV44413,E002,Unknown Product,Electronics,26,2025-01-06 15:49:09,77.61,CUST17,France,Austin Mullins
+INV73035,H003,LED Desk Lamp,Home Goods,13,2024-12-23 14:23:35,65.57,CUST26,Spain,Sharon Thompson
+INV41760,E002,Bluetooth Headphones,Electronics,18,2024-10-25 11:46:30,68.79,CUST74,Germany,Charles Dixon
+INV24749,T002,Building Blocks Set,Toys,27,2024-10-18 13:17:56,35.48,CUST42,Italy,Jessica Carter
+INV87840,T002,Building Blocks Set,Toys,2,2024-06-19 06:09:44,98.78,CUST79,Portugal,Daniel Carey
+INV91681,E003,Smartphone Charger,Electronics,29,2023-09-26 08:30:03,20.77,CUST48,France,Kelli Dennis
+INV21247,E002,Bluetooth Headphones,Electronics,48,2023-10-06 08:50:56,94.95,CUST19,Netherlands,Michael Saunders
+INV11800,C003,Baseball Cap,Clothing,45,2023-12-03 11:06:32,45.56,CUST3,Italy,Sandy Smith
+INV37395,T003,RC Car,Toys,35,2024-03-15 07:25:12,55.1,CUST97,Netherlands,William Lee
+INV81932,H002,Wall Clock,Home Goods,40,2024-01-03 00:40:10,38.28,CUST85,United Kingdom,Michael Jones
+INV43483,E003,Smartphone Charger,Electronics,4,2024-05-28 07:18:25,79.13,CUST80,Netherlands,Evan Gordon
+INV16957,H002,Wall Clock,Home Goods,42,2023-08-20 02:25:29,39.48,CUST35,Italy,Dana Fisher
+INV24141,E001,Wireless Mouse,Electronics,19,2025-06-06 14:04:22,23.89,CUST49,Germany,Yvonne Hall
+INV51347,H002,Wall Clock,Home Goods,39,2025-02-06 03:12:17,19.46,CUST65,Portugal,Michael Parker
+INV83490,T003,RC Car,Toys,2,2023-09-21 09:00:26,92.3,CUST40,Italy,Kristin Harmon
+INV74216,H001,Ceramic Mug,Home Goods,48,2024-01-19 00:40:08,35.33,CUST46,Italy,Tyler Torres
+INV91950,C002,Women's Jeans,Clothing,16,2025-01-06 10:02:39,81.38,CUST81,Netherlands,Tammy Pacheco
+INV60747,E001,Wireless Mouse,Electronics,36,2024-05-24 08:12:47,16.02,CUST51,France,Ray Edwards
+INV21507,T003,RC Car,Toys,25,2025-01-26 22:17:54,87.4,CUST88,Spain,Tony Woods
+INV64700,C001,Men's T-Shirt,Clothing,37,2024-01-15 15:31:37,97.08,CUST78,Italy,Erik Williams
+INV68873,H003,LED Desk Lamp,Home Goods,9,2024-03-10 23:45:20,14.72,CUST70,Spain,Sean Bryant
+INV28102,C002,Women's Jeans,Clothing,45,2025-08-03 19:04:16,91.05,CUST56,France,Ashley Smith
+INV96013,T001,Stuffed Bear,Toys,11,2024-07-02 02:28:08,56.18,CUST93,Germany,Shawn Herrera
+INV34134,C003,Baseball Cap,Clothing,10,2023-09-11 11:36:11,88.13,CUST53,Norway,Dawn Williams
+INV49760,H002,Wall Clock,Home Goods,48,2025-05-25 09:58:07,16.04,CUST25,Germany,Jordan Deleon
+INV27241,E003,Smartphone Charger,Electronics,2,2025-04-29 22:27:44,27.42,CUST73,Spain,Gary Smith
+INV88166,C001,Men's T-Shirt,Clothing,15,2025-07-15 00:56:58,36.57,CUST89,Portugal,Steven Nash
+INV27575,H003,LED Desk Lamp,Home Goods,39,2024-12-04 23:39:00,38.02,CUST50,Portugal,Kristen Jones
+INV72108,E003,Smartphone Charger,Electronics,11,2024-02-25 08:14:18,4.19,CUST98,United Kingdom,Matthew Holland
+INV45370,H001,Ceramic Mug,Home Goods,15,2025-06-29 07:23:05,76.02,CUST9,France,John Robles
+INV67577,T001,Stuffed Bear,Toys,32,2025-07-16 11:49:44,86.81,CUST32,Norway,Sara Jones
+INV63066,E001,Wireless Mouse,Electronics,39,2024-09-04 11:23:32,40.02,CUST96,United Kingdom,Sara Contreras
+INV78242,E002,Bluetooth Headphones,Electronics,29,2024-11-21 01:32:39,87.9,CUST32,Norway,Sara Jones
+INV15144,H003,LED Desk Lamp,Home Goods,25,2025-01-21 22:57:40,96.3,CUST25,Netherlands,Jordan Deleon
+INV67613,H001,Ceramic Mug,Home Goods,20,2024-05-30 16:47:49,17.48,CUST38,United Kingdom,Kyle Callahan
+INV77760,E003,Smartphone Charger,Electronics,30,2025-06-03 16:26:44,9.95,CUST65,Germany,Michael Parker
+INV33562,T001,Stuffed Bear,Toys,45,2025-02-21 04:55:34,39.91,CUST42,Portugal,Jessica Carter
+INV13265,E003,Smartphone Charger,Electronics,30,2025-04-07 07:21:07,88.37,CUST12,Netherlands,Veronica Taylor
+INV52477,T003,RC Car,Toys,42,2025-08-09 05:58:15,72.12,CUST16,Germany,Michelle Luna
+INV24963,T003,RC Car,Toys,29,2025-05-22 13:12:51,9.45,CUST91,Norway,Evan Evans
+INV77065,T001,Stuffed Bear,Toys,11,2024-09-02 20:02:14,38.68,CUST99,France,Anthony Gordon
+INV53934,T001,Stuffed Bear,Toys,43,2024-01-12 05:54:09,87.01,CUST23,United Kingdom,David Diaz
+INV64995,C002,Women's Jeans,Clothing,20,2024-11-10 10:30:51,0.0,CUST16,France,Michelle Luna
+INV36588,E001,Wireless Mouse,Electronics,40,2024-04-27 00:26:40,46.41,CUST64,United Kingdom,Connor Bailey
+INV89689,H002,Wall Clock,Home Goods,16,2024-03-21 21:26:23,66.29,CUST59,Norway,Jermaine Boyd III
+INV67917,E002,Bluetooth Headphones,Electronics,39,2025-04-17 00:14:21,25.23,CUST71,Netherlands,Stephanie Webb
+INV91233,T002,Building Blocks Set,Toys,36,2024-03-11 01:46:51,19.3,CUST8,Italy,Brian Brown
+INV14813,E003,Smartphone Charger,Electronics,3,2025-06-25 21:02:51,83.96,CUST39,Italy,William Hill
+INV21495,E001,Wireless Mouse,Electronics,7,2024-10-11 06:29:23,16.97,CUST37,France,Jackson Woods
+INV69682,T003,RC Car,Toys,38,2024-08-14 01:18:17,10.22,CUST39,Italy,William Hill
+INV58309,H001,Unknown Product,Home Goods,5,2024-10-22 20:02:31,7.43,CUST61,France,Joel Buchanan DVM
+INV25993,T003,RC Car,Toys,18,2024-07-14 19:11:21,41.96,CUST27,Spain,Tiffany Ramirez
+INV90223,E001,Wireless Mouse,Electronics,7,2025-03-19 22:54:01,53.37,CUST12,Portugal,Veronica Taylor
+INV89269,T003,RC Car,Toys,19,2024-10-22 22:10:02,84.93,CUST34,Italy,Shawn Roberts
+INV27001,T001,Stuffed Bear,Toys,37,2025-01-01 18:55:18,73.19,CUST64,Portugal,Connor Bailey
+INV33580,T001,Stuffed Bear,Toys,15,2025-08-06 10:34:34,97.95,CUST1,Germany,Jeremy Sexton
+INV13143,H002,Wall Clock,Home Goods,41,2023-12-10 07:32:55,80.16,CUST54,Norway,Kenneth Robinson
+INV15962,C003,Baseball Cap,Clothing,23,2025-03-07 23:12:38,22.02,CUST82,Spain,Megan Guerrero
+INV46913,C002,Women's Jeans,Clothing,5,2024-06-22 10:55:58,51.16,CUST42,United Kingdom,Jessica Carter
+INV24920,T002,Building Blocks Set,Toys,22,2024-07-26 14:25:10,72.72,CUST79,United Kingdom,Daniel Carey
+INV33020,C001,Men's T-Shirt,Clothing,22,2024-07-23 17:26:37,91.7,CUST5,France,Ann Miller
+INV73110,E003,Smartphone Charger,Electronics,41,2024-11-25 19:33:01,89.7,CUST60,Norway,Roger Myers
+INV17342,H003,LED Desk Lamp,Home Goods,20,2025-03-12 11:29:13,55.96,CUST3,Spain,Sandy Smith
+INV85680,T002,Building Blocks Set,Toys,22,2024-08-08 02:24:38,96.99,CUST36,United Kingdom,Reginald Sampson
+INV54453,H001,Ceramic Mug,Home Goods,41,2025-02-09 06:02:33,57.53,CUST50,France,Kristen Jones
+INV88012,E002,Bluetooth Headphones,Electronics,49,2024-06-22 11:27:02,71.27,CUST35,Norway,Dana Fisher
+INV21376,H002,Wall Clock,Home Goods,16,2024-08-26 16:27:12,83.12,CUST39,Spain,William Hill
+INV78825,C002,Women's Jeans,Clothing,12,2023-12-04 13:37:29,78.71,CUST100,Spain,Gerald Duncan
+INV22137,H002,Wall Clock,Home Goods,33,2023-09-06 17:34:23,90.59,CUST20,Spain,Dana Edwards
+INV54579,H002,Wall Clock,Home Goods,47,2025-01-29 11:17:59,77.78,CUST19,Germany,Michael Saunders
+INV77652,T002,Building Blocks Set,Toys,9,2024-03-09 01:19:51,46.48,CUST92,Germany,Tyler Adams
+INV10538,C002,Women's Jeans,Clothing,3,2025-07-15 21:38:14,87.32,CUST43,Portugal,Jennifer Stevens
+INV16047,E002,Bluetooth Headphones,Electronics,34,2025-06-16 11:22:37,3.23,CUST98,Netherlands,Matthew Holland
+INV93735,C001,Men's T-Shirt,Clothing,21,2024-03-04 07:00:37,29.37,CUST69,Italy,Mrs. Kristina Brown MD
+INV67817,T002,Building Blocks Set,Toys,8,2024-05-17 05:26:11,16.59,CUST15,United Kingdom,Sharon Byrd
+INV91650,H003,LED Desk Lamp,Home Goods,33,2023-11-24 07:31:16,54.71,CUST71,Italy,Stephanie Webb
+INV45527,E003,Smartphone Charger,Electronics,46,2024-05-28 20:54:06,25.24,CUST10,Netherlands,Mark Gamble
+INV90381,C003,Baseball Cap,Clothing,35,2024-11-08 01:50:48,13.88,CUST61,United Kingdom,Joel Buchanan DVM
+INV23884,H001,Ceramic Mug,Home Goods,4,2023-11-08 15:31:37,39.8,CUST91,Portugal,Evan Evans
+INV90781,C003,Baseball Cap,Clothing,20,2024-07-17 07:12:51,71.58,CUST86,Germany,Daniel Spencer
+INV71039,T001,Stuffed Bear,Toys,9,2023-11-15 17:02:57,10.63,CUST40,Portugal,Kristin Harmon
+INV71675,C001,Men's T-Shirt,Clothing,15,2024-01-06 22:27:43,26.55,CUST47,Norway,Caitlin Hickman
+INV34032,T003,RC Car,Toys,43,2024-07-15 11:49:27,45.88,CUST4,Germany,Danny Norton
+INV72303,E002,Bluetooth Headphones,Electronics,23,2024-12-14 16:47:35,84.73,CUST37,Italy,Jackson Woods
+INV89225,T001,Stuffed Bear,Toys,9,2025-01-13 03:44:51,41.16,CUST92,Germany,Tyler Adams
+INV52712,H003,LED Desk Lamp,Home Goods,42,2023-10-23 10:59:59,53.74,CUST52,Norway,Peter Reid
+INV41270,T001,Stuffed Bear,Toys,16,2025-02-23 05:47:23,97.42,CUST50,Germany,Kristen Jones
+INV54658,C001,Men's T-Shirt,Clothing,45,2025-04-08 15:41:51,78.65,CUST56,Italy,Ashley Smith
+INV81372,T003,RC Car,Toys,16,2024-02-05 02:50:09,74.2,CUST92,Portugal,Tyler Adams
+INV24984,T001,Stuffed Bear,Toys,39,2024-11-28 11:50:47,55.95,CUST57,France,Sarah Jones
+INV50374,H001,Ceramic Mug,Home Goods,5,2025-04-15 03:57:33,68.87,CUST77,Norway,Mr. Dennis Smith
+INV52914,H002,Wall Clock,Home Goods,42,2025-06-18 02:14:18,9.96,CUST18,United Kingdom,William Bryan
+INV29231,T002,Building Blocks Set,Toys,10,2024-11-17 19:20:32,29.86,CUST79,Portugal,Daniel Carey
+INV35646,C001,Men's T-Shirt,Clothing,44,2024-07-01 10:54:46,57.46,CUST87,Netherlands,Xavier Townsend
+INV66980,T003,RC Car,Toys,23,2023-11-11 21:12:59,1.8,CUST66,Norway,Kevin Davidson
+INV26718,C002,Women's Jeans,Clothing,4,2024-08-24 19:59:03,96.82,CUST1,Italy,Jeremy Sexton
+INV24378,C002,Women's Jeans,Clothing,2,2024-04-08 15:43:05,70.52,CUST51,Italy,Ray Edwards
+INV60173,H001,Ceramic Mug,Home Goods,25,2024-10-30 19:50:49,21.91,CUST23,Portugal,David Diaz
+INV28228,C001,Unknown Product,Clothing,36,2024-09-08 13:07:03,84.16,CUST20,Netherlands,Dana Edwards
+INV97826,E003,Smartphone Charger,Electronics,9,2023-08-23 02:36:43,65.19,CUST19,Portugal,Michael Saunders
+INV96235,H001,Ceramic Mug,Home Goods,9,2023-11-06 04:59:45,64.58,CUST54,Portugal,Kenneth Robinson
+INV89223,H001,Ceramic Mug,Home Goods,40,2024-02-12 16:32:38,51.43,CUST71,Portugal,Stephanie Webb
+INV60425,C003,Baseball Cap,Clothing,15,2024-02-18 15:27:55,60.85,CUST74,Portugal,Charles Dixon
+INV41031,T003,RC Car,Toys,33,2024-05-13 14:57:29,92.73,CUST74,Italy,Charles Dixon
+INV14385,E001,Wireless Mouse,Electronics,37,2024-12-18 13:25:10,12.2,CUST62,Germany,David Underwood
+INV28623,T003,RC Car,Toys,47,2025-02-01 10:10:24,47.03,CUST11,Germany,Maria Leonard
+INV42142,H002,Wall Clock,Home Goods,41,2025-06-21 02:50:34,68.72,CUST70,Netherlands,Sean Bryant
+INV90352,E001,Wireless Mouse,Electronics,22,2025-02-09 00:23:33,47.42,CUST66,Portugal,Kevin Davidson
+INV85230,T003,RC Car,Toys,22,2024-10-16 12:50:57,96.1,CUST38,Netherlands,Kyle Callahan
+INV31955,E001,Wireless Mouse,Electronics,45,2025-04-14 11:04:15,72.97,CUST73,Netherlands,Gary Smith
+INV18050,T002,Building Blocks Set,Toys,31,2025-03-26 06:09:21,57.71,CUST85,Netherlands,Michael Jones
+INV91830,E001,Wireless Mouse,Electronics,19,2024-12-20 03:00:14,13.56,CUST10,Netherlands,Mark Gamble
+INV43036,E003,Smartphone Charger,Electronics,40,2024-05-25 10:01:13,85.93,CUST2,Germany,Meagan Crane
+INV89144,E003,Smartphone Charger,Electronics,38,2024-01-13 23:59:56,45.22,CUST23,Netherlands,David Diaz
+INV40958,H002,Wall Clock,Home Goods,12,2025-02-02 01:12:17,34.94,CUST11,France,Maria Leonard
+INV88059,E003,Smartphone Charger,Electronics,32,2024-10-07 13:57:02,24.56,CUST57,France,Sarah Jones
+INV37637,T001,Stuffed Bear,Toys,47,2024-07-30 01:58:40,64.58,CUST97,Germany,William Lee
+INV16884,E003,Smartphone Charger,Electronics,30,2024-09-23 17:20:20,30.84,CUST96,Spain,Sara Contreras
+INV59781,T002,Building Blocks Set,Toys,46,2024-09-14 17:16:45,27.0,CUST68,Norway,Ashley King
+INV11554,C002,Women's Jeans,Clothing,29,2024-09-06 11:29:37,96.21,CUST88,United Kingdom,Tony Woods
+INV22761,H003,LED Desk Lamp,Home Goods,41,2024-08-08 15:43:15,61.44,CUST84,Netherlands,Maria Espinoza
+INV53904,C002,Women's Jeans,Clothing,18,2023-11-20 09:17:48,65.78,CUST51,Portugal,Ray Edwards
+INV98511,T003,Unknown Product,Toys,16,2025-06-30 21:26:05,77.28,CUST67,Italy,Victoria Cruz
+INV98829,T003,RC Car,Toys,12,2024-06-27 19:56:16,2.05,CUST2,Germany,Meagan Crane
+INV11567,H001,Ceramic Mug,Home Goods,7,2025-01-30 03:46:59,68.86,CUST45,Spain,Harold French
+INV47132,C002,Women's Jeans,Clothing,13,2023-09-15 00:51:46,62.32,CUST8,Spain,Brian Brown
+INV88562,T002,Building Blocks Set,Toys,8,2025-08-06 04:22:05,9.55,CUST78,France,Erik Williams
+INV59277,T002,Building Blocks Set,Toys,49,2025-06-05 20:36:35,80.52,CUST24,Germany,Mitchell Church
+INV34151,C002,Women's Jeans,Clothing,19,2024-12-02 02:45:24,64.24,CUST36,Norway,Reginald Sampson
+INV97500,C003,Baseball Cap,Clothing,17,2024-01-24 02:41:38,28.45,CUST8,Norway,Brian Brown
+INV60933,C003,Baseball Cap,Clothing,4,2024-05-02 09:38:10,18.62,CUST9,Portugal,John Robles
+INV36302,T001,Stuffed Bear,Toys,26,2024-02-10 23:30:04,49.71,CUST19,Norway,Michael Saunders
+INV38624,T001,Stuffed Bear,Toys,42,2023-11-28 16:04:38,71.82,CUST14,United Kingdom,Sylvia Long
+INV19557,E002,Bluetooth Headphones,Electronics,37,2024-04-24 16:14:02,2.86,CUST64,France,Connor Bailey
+INV95572,T002,Building Blocks Set,Toys,1,2023-09-19 14:13:01,27.38,CUST90,Italy,Kelsey Ayala
+INV61292,T001,Stuffed Bear,Toys,1,2025-01-20 17:51:54,48.34,CUST52,Germany,Peter Reid
+INV80795,C001,Men's T-Shirt,Clothing,1,2024-09-08 17:33:05,13.0,CUST69,Italy,Mrs. Kristina Brown MD
+INV53704,T002,Building Blocks Set,Toys,20,2024-09-25 02:00:34,63.59,CUST83,Germany,Nichole Lowery
+INV57887,H003,Unknown Product,Home Goods,22,2023-11-02 16:44:05,76.28,CUST38,Spain,Kyle Callahan
+INV33149,H003,LED Desk Lamp,Home Goods,3,2024-09-08 06:57:15,30.59,CUST50,Germany,Kristen Jones
+INV92656,T003,RC Car,Toys,23,2024-12-22 03:05:23,88.64,CUST57,Spain,Sarah Jones
+INV28342,E001,Wireless Mouse,Electronics,13,2023-09-06 21:35:18,24.61,CUST50,Germany,Kristen Jones
+INV80851,T002,Building Blocks Set,Toys,20,2025-01-04 19:26:24,96.53,CUST58,United Kingdom,John Black
+INV14855,C003,Baseball Cap,Clothing,4,2024-07-22 01:33:31,41.15,CUST28,Portugal,Kathryn Thomas
+INV98877,H003,LED Desk Lamp,Home Goods,10,2025-03-27 08:28:57,92.56,CUST5,France,Ann Miller
+INV74080,T002,Building Blocks Set,Toys,2,2024-12-06 22:30:51,5.53,CUST90,France,Kelsey Ayala
+INV11882,E003,Smartphone Charger,Electronics,41,2023-10-02 11:11:23,82.25,CUST13,Portugal,Gary Lee
+INV90114,E003,Smartphone Charger,Electronics,38,2023-10-16 03:52:17,12.3,CUST77,Spain,Mr. Dennis Smith
+INV18271,C001,Men's T-Shirt,Clothing,28,2024-07-22 14:38:12,33.1,CUST88,France,Tony Woods
+INV52151,C001,Men's T-Shirt,Clothing,49,2023-09-27 21:35:36,18.17,CUST9,Germany,John Robles
+INV45899,E003,Smartphone Charger,Electronics,49,2024-10-10 06:07:06,69.93,CUST71,France,Stephanie Webb
+INV67496,C001,Men's T-Shirt,Clothing,38,2023-09-22 04:51:21,10.9,CUST81,Norway,Tammy Pacheco
+INV30677,E001,Wireless Mouse,Electronics,32,2023-11-02 00:13:52,1.72,CUST12,Netherlands,Veronica Taylor
+INV64555,T003,RC Car,Toys,50,2024-12-11 04:37:12,21.41,CUST82,Netherlands,Megan Guerrero
+INV78562,H002,Wall Clock,Home Goods,27,2024-04-12 06:21:18,61.44,CUST5,France,Ann Miller
+INV75521,T001,Stuffed Bear,Toys,6,2025-05-15 10:57:58,35.44,CUST1,Spain,Jeremy Sexton
+INV35153,E002,Bluetooth Headphones,Electronics,34,2023-11-17 22:32:03,36.83,CUST98,Spain,Matthew Holland
+INV70845,T002,Building Blocks Set,Toys,43,2024-03-12 10:03:51,6.25,CUST15,France,Sharon Byrd
+INV99816,H002,Wall Clock,Home Goods,32,2024-02-08 05:49:00,67.34,CUST6,United Kingdom,Olivia Wright
+INV94523,C003,Baseball Cap,Clothing,19,2024-03-13 15:49:33,25.89,CUST79,Portugal,Daniel Carey
+INV15677,E002,Bluetooth Headphones,Electronics,48,2023-10-04 19:33:52,18.41,CUST4,Portugal,Danny Norton
+INV77489,E002,Bluetooth Headphones,Electronics,5,2024-04-08 16:11:43,59.68,CUST42,Norway,Jessica Carter
+INV36050,T003,RC Car,Toys,44,2024-07-10 08:22:34,78.12,CUST42,Spain,Jessica Carter
+INV22853,C001,Men's T-Shirt,Clothing,48,2024-10-07 07:16:48,38.18,CUST29,Unknown Country,Alexander Berry
+INV71733,T001,Stuffed Bear,Toys,32,2023-10-06 15:52:09,15.35,CUST79,Portugal,Daniel Carey
+INV33338,H001,Ceramic Mug,Home Goods,24,2023-12-29 16:39:56,72.26,CUST81,Italy,Tammy Pacheco
+INV45349,C001,Men's T-Shirt,Clothing,22,2023-12-20 01:10:06,69.53,CUST8,Netherlands,Brian Brown
+INV27891,E002,Bluetooth Headphones,Electronics,30,2024-11-23 15:13:37,17.95,CUST44,Spain,Teresa Black
+INV48687,T001,Stuffed Bear,Toys,11,2025-05-26 22:15:54,90.65,CUST74,Spain,Charles Dixon
+INV21334,H001,Ceramic Mug,Home Goods,34,2024-12-24 07:52:49,59.57,CUST60,Netherlands,Roger Myers
+INV11901,T003,RC Car,Toys,28,2024-04-20 09:01:23,33.4,CUST75,Spain,Christopher Rodriguez
+INV87564,E003,Smartphone Charger,Electronics,37,2023-08-17 15:12:38,98.04,CUST6,Portugal,Olivia Wright
+INV76088,E001,Wireless Mouse,Electronics,28,2025-02-05 14:21:24,48.45,CUST90,Germany,Kelsey Ayala
+INV69302,H002,Wall Clock,Home Goods,16,2023-11-05 20:20:02,75.55,CUST89,Norway,Steven Nash
+INV38574,E003,Smartphone Charger,Electronics,23,2024-06-09 08:42:14,65.12,CUST12,United Kingdom,Veronica Taylor
+INV72886,T002,Building Blocks Set,Toys,20,2024-01-24 16:43:19,85.93,CUST96,United Kingdom,Sara Contreras
+INV69616,H002,Wall Clock,Home Goods,50,2023-12-31 14:45:31,19.31,CUST48,Portugal,Kelli Dennis
+INV93021,E001,Unknown Product,Electronics,-41,2023-10-23 14:00:46,89.45,CUST43,United Kingdom,Jennifer Stevens
+INV48874,H001,Ceramic Mug,Home Goods,49,2024-05-14 22:18:01,54.7,CUST27,Germany,Tiffany Ramirez
+INV91324,C003,Baseball Cap,Clothing,48,2023-10-07 18:44:27,94.59,CUST87,Italy,Xavier Townsend
+INV16758,E002,Bluetooth Headphones,Electronics,25,2024-08-20 16:56:34,62.29,CUST47,Italy,Caitlin Hickman
+INV32972,T002,Building Blocks Set,Toys,36,2025-08-02 02:26:22,56.52,CUST100,Spain,Gerald Duncan
+INV28141,C003,Baseball Cap,Clothing,16,2025-02-14 04:08:04,65.25,CUST95,Spain,Kristi Hogan
+INV39548,C003,Baseball Cap,Clothing,23,2024-05-11 18:20:03,68.34,CUST36,United Kingdom,Reginald Sampson
+INV18305,C003,Baseball Cap,Clothing,23,2024-11-17 17:42:10,50.64,CUST16,Portugal,Michelle Luna
+INV79717,T002,Building Blocks Set,Toys,35,2024-06-06 16:27:21,62.47,CUST87,Germany,Xavier Townsend
+INV34687,H002,Wall Clock,Home Goods,6,2023-11-02 14:13:27,89.9,CUST37,Germany,Jackson Woods
+INV24334,E003,Smartphone Charger,Electronics,18,2023-12-04 05:23:12,50.14,CUST27,United Kingdom,Tiffany Ramirez
+INV48426,H001,Ceramic Mug,Home Goods,44,2025-02-16 04:48:25,47.92,CUST54,Portugal,Kenneth Robinson
+INV94500,E001,Wireless Mouse,Electronics,19,2024-02-21 02:17:30,3.18,CUST30,Italy,Jessica Young
+INV63961,T001,Stuffed Bear,Toys,22,2025-06-13 23:31:19,78.9,CUST63,Portugal,Margaret Blair
+INV70031,C002,Women's Jeans,Clothing,37,2023-12-25 11:09:32,18.0,CUST34,Spain,Shawn Roberts
+INV73470,C003,Baseball Cap,Clothing,19,2023-09-29 05:24:03,35.96,CUST59,France,Jermaine Boyd III
+INV91085,E003,Smartphone Charger,Electronics,46,2025-02-10 10:23:07,19.05,CUST23,France,David Diaz
+INV31135,C001,Men's T-Shirt,Clothing,8,2023-09-23 11:31:40,57.88,CUST57,Netherlands,Sarah Jones
+INV58453,E003,Smartphone Charger,Electronics,14,2025-03-09 01:15:46,66.89,CUST45,France,Harold French
+INV58878,H002,Wall Clock,Home Goods,35,2024-01-25 19:25:45,30.85,CUST4,Norway,Danny Norton
+INV75459,E003,Smartphone Charger,Electronics,30,2024-07-04 05:40:54,1.43,CUST95,Italy,Kristi Hogan
+INV94835,T003,RC Car,Toys,19,2024-12-09 10:33:08,96.99,CUST97,France,William Lee
+INV84086,T003,RC Car,Toys,29,2024-07-23 04:05:21,73.43,CUST6,France,Olivia Wright
+INV98867,H003,LED Desk Lamp,Home Goods,8,2024-06-22 00:54:10,40.76,CUST29,Portugal,Alexander Berry
+INV56844,E002,Bluetooth Headphones,Electronics,21,2023-10-07 22:08:31,64.49,CUST75,Spain,Christopher Rodriguez
+INV46428,C001,Men's T-Shirt,Clothing,2,2023-11-05 19:36:10,85.1,CUST87,Germany,Xavier Townsend
+INV77081,H001,Ceramic Mug,Home Goods,13,2024-12-26 11:34:09,60.71,CUST66,United Kingdom,Kevin Davidson
+INV97394,C003,Baseball Cap,Clothing,26,2024-01-10 15:34:11,37.59,CUST48,United Kingdom,Kelli Dennis
+INV47309,C003,Baseball Cap,Clothing,23,2024-06-22 16:13:22,87.56,CUST12,Spain,Veronica Taylor
+INV68224,T003,RC Car,Toys,27,2024-11-07 10:30:31,17.22,CUST94,Norway,Sarah Cruz
+INV64289,E003,Smartphone Charger,Electronics,38,2025-04-15 03:08:02,15.22,CUST39,Portugal,William Hill
+INV78852,C003,Baseball Cap,Clothing,5,2025-04-07 13:40:53,9.76,CUST53,Netherlands,Dawn Williams
+INV64331,E003,Smartphone Charger,Electronics,36,2024-11-27 20:40:37,75.77,CUST18,Spain,William Bryan
+INV34380,H001,Ceramic Mug,Home Goods,19,2025-03-01 17:51:42,5.18,CUST39,Netherlands,William Hill
+INV74762,H003,LED Desk Lamp,Home Goods,48,2024-11-28 08:10:28,3.66,CUST1,France,Jeremy Sexton
+INV44429,C002,Unknown Product,Clothing,41,2025-05-24 17:12:16,13.29,CUST86,Netherlands,Daniel Spencer
+INV64677,E003,Smartphone Charger,Electronics,32,2025-07-16 23:28:33,25.23,CUST16,Netherlands,Michelle Luna
+INV74625,E002,Bluetooth Headphones,Electronics,39,2024-08-16 21:09:21,48.57,CUST56,Netherlands,Ashley Smith
+INV92312,T002,Building Blocks Set,Toys,31,2025-07-22 04:21:14,37.95,CUST94,United Kingdom,Sarah Cruz
+INV44018,E003,Smartphone Charger,Electronics,38,2023-10-10 05:19:14,32.65,CUST89,France,Steven Nash
+INV56843,E003,Smartphone Charger,Electronics,4,2024-05-17 13:08:58,42.53,CUST46,United Kingdom,Tyler Torres
+INV47992,C002,Women's Jeans,Clothing,34,2025-05-27 02:47:49,51.87,CUST99,France,Anthony Gordon
+INV22387,T001,Stuffed Bear,Toys,49,2024-01-30 19:47:45,32.94,CUST41,Netherlands,William Johnson
+INV45580,T002,Building Blocks Set,Toys,45,2025-07-16 13:11:56,10.49,CUST75,Italy,Christopher Rodriguez
+INV28837,E001,Wireless Mouse,Electronics,9,2025-01-23 10:14:45,37.93,CUST63,Norway,Margaret Blair
+INV54605,E003,Smartphone Charger,Electronics,-7,2024-03-22 05:37:37,50.83,CUST25,Germany,Jordan Deleon
+INV64702,H002,Wall Clock,Home Goods,5,2023-12-09 04:46:40,92.42,CUST62,Italy,David Underwood
+INV50838,T003,RC Car,Toys,24,2024-01-01 16:05:25,89.08,CUST77,Italy,Mr. Dennis Smith
+INV32571,T003,RC Car,Toys,20,2023-09-10 04:19:04,23.01,CUST89,France,Steven Nash
+INV39697,C002,Women's Jeans,Clothing,9,2024-03-13 04:44:27,98.13,CUST55,Germany,Ernest Campbell
+INV20188,E001,Wireless Mouse,Electronics,50,2024-12-19 15:42:04,5.21,CUST14,United Kingdom,Sylvia Long
+INV96479,H003,LED Desk Lamp,Home Goods,38,2023-10-11 17:04:43,12.77,CUST33,United Kingdom,Adriana Carroll
+INV18683,C002,Women's Jeans,Clothing,43,2023-08-22 03:30:48,78.45,CUST78,Spain,Erik Williams
+INV87018,C001,Men's T-Shirt,Clothing,12,2025-06-28 12:47:56,3.9,CUST19,Netherlands,Michael Saunders
+INV85989,C003,Baseball Cap,Clothing,23,2024-01-23 18:13:39,78.3,CUST79,Spain,Daniel Carey
+INV76179,T001,Stuffed Bear,Toys,5,2023-11-21 21:02:57,76.56,CUST68,Spain,Ashley King
+INV35106,C002,Women's Jeans,Clothing,11,2025-02-12 00:09:27,97.38,CUST13,Spain,Gary Lee
+INV76085,T003,RC Car,Toys,31,2024-08-21 21:27:31,19.33,CUST87,Germany,Xavier Townsend
+INV33704,C003,Baseball Cap,Clothing,25,2024-10-19 07:48:05,51.91,CUST53,Germany,Dawn Williams
+INV51193,E002,Bluetooth Headphones,Electronics,30,2023-12-02 18:55:21,14.46,CUST98,Italy,Matthew Holland
+INV47784,H003,LED Desk Lamp,Home Goods,47,2023-09-22 02:59:40,33.48,CUST15,Norway,Sharon Byrd
+INV47173,H002,Wall Clock,Home Goods,39,2024-06-26 16:09:50,23.36,CUST53,Netherlands,Dawn Williams
