@@ -321,19 +321,14 @@ WHERE p.category = 'Electronics';  -- Only Electronics products
 
 This report summarizes the results of OLAP queries performed on the sales data warehouse, including roll-up, drill-down, and slice analyses.
 
-**i. Roll-up Analysis: Total Sales by Country and Quarter**
-The roll-up query aggregates sales by country and quarter, revealing top-performing regions. **Germany, Norway, France, and Italy** consistently generated high total sales across quarters, while **Netherlands, Portugal, Spain, and the United Kingdom** showed moderate performance. The **Unknown Country** category had minimal sales, likely due to missing or incomplete customer data. This analysis helps identify strong markets and seasonal trends.
+| Analysis Type | Description | Key Findings | Implications |
+|---------------|-------------|--------------|--------------|
+| **Roll-up: Total Sales by Country & Quarter** | Aggregates sales by country and quarter | **High Sales:** Germany, Norway, France, Italy <br> **Moderate Sales:** Netherlands, Portugal, Spain, UK <br> **Low Sales:** Unknown Country | Identifies strong markets, seasonal trends, and top-performing regions |
+| **Drill-down: Monthly Sales for Specific Country (UK)** | Examines sales at monthly level | Peak months: January, September <br> Low months: February, August | Supports tactical planning, promotions, and stock allocation |
+| **Slice: Electronics Category Sales** | Isolates sales for Electronics | Total sales: **144,339.15** | Informs product-specific strategies: inventory, marketing, product development |
+| **Insights & Decision-Making Support** | Consolidates sales, customer, and product data | Enables fast OLAP queries for roll-up, drill-down, slice | Supports strategic marketing, inventory, and operational decisions |
+| **Effect of Synthetic Data** | Analysis based on synthetic dataset | Patterns may not match real-world markets perfectly | Safely tests OLAP queries and decision-support processes without exposing sensitive information |
 
-**ii. Drill-down Analysis: Monthly Sales for a Specific Country**
-Focusing on monthly sales for a specific country (e.g., the UK), sales fluctuate throughout the year. Peak months, such as January and September, contrast with lower months like February and August, indicating seasonal demand variations. Drill-down analysis allows decision-makers to examine performance at a finer granularity, supporting tactical planning such as promotions or stock allocation.
 
-**iii. Slice Analysis: Sales of Electronics Category**
-The slice query isolates total sales for the **Electronics category**, which amounted to **144,339.15**. This highlights product-specific performance, aiding decisions related to inventory, marketing campaigns, and product development strategies.
-
-**iv. Insights and Decision-Making Support**
-The data warehouse consolidates sales, customer, and product data, enabling fast OLAP queries for roll-up, drill-down, and slice analyses. These insights support strategic decisions, including identifying top-selling countries, seasonal trends, and high-performing product categories. Marketing, inventory, and operational strategies can be tailored accordingly.
-
-**v. Effect of Synthetic Data**
-Since synthetic data was used, some patterns or sales volumes may not perfectly reflect real-world markets. However, synthetic data allows testing OLAP queries, visualizations, and decision-support processes without exposing sensitive information.
 
 
