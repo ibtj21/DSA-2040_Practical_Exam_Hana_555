@@ -43,22 +43,38 @@ DSA_2040_Practical_Exam_Hana_555/
 └─ `README.md`
 
 
+# Data Warehousing
 
-## Overview
+## 1.1 Design of a Star Schema for a Retail Company
 
-- **Data Warehousing (50 marks):** Star schema design, ETL, OLAP queries, visualizations.  
-- **Data Mining (50 marks):** Preprocessing, clustering, classification, and association rule mining using Iris dataset and synthetic transactional data.  
+**Scenario:** Designing a data warehouse for a retail company that sells products across categories. The company tracks sales, customers, products, and time.  
 
-## How to Run
+**Requirements:**  
+- Support queries like total sales by product category per quarter, customer demographics analysis, and inventory trends.
 
-1. Ensure Python 3.x is installed with required libraries: `pandas`, `numpy`, `scikit-learn`, `sqlite3`, `matplotlib`, `seaborn`, `mlxtend`.  
-2. Run ETL: `python etl_retail.py`.  
-3. Run Iris preprocessing: `python preprocessing_iris.py`.  
-4. Run clustering: `python clustering_iris.py`.  
-5. Run classification & association rules: `python classification_iris.py`.  
-6. Execute SQL queries via SQLite client: `sql_queries.sql`.  
+### 1.1.1 Star Schema Design
 
-## Self-Assessment
-- **Data Warehousing:** Schema design, ETL, and OLAP queries fully implemented; visualizations included.  
-- **Data Mining:** Preprocessing, clustering, classification, and association rules implemented; analysis included.  
-- **Notes:** Synthetic data used for retail and transactional datasets; may affect realism but maintains structure and scale.  
+**Fact Table:** `Sales`  
+- Columns: `SalesKey` (PRIMARY KEY), `Quantity`, `TotalSales`  
+- Foreign Keys: `CustomerKey`, `ProductKey`, `TimeKey`  
+
+**Dimension Tables:**  
+- `TimeDim`: Columns: `TimeKey`, `InvoiceDate`, `Year`, `Quarter`, `Month`  
+- `CustomerDim`: Columns: `CustomerKey`, `CustomerID`, `CustomerName`, `Country`  
+- `ProductDim`: Columns: `ProductKey`, `StockCode`, `Description`, `Category`, `UnitPrice`  
+
+**Schema Diagram:**  
+![Star Schema Diagram](path/to/your/image.png) <!-- Replace with actual image path -->
+
+### 1.1.2 Explanation for Choosing Star Schema Over Snowflake
+
+The star schema was chosen because it simplifies queries and improves query performance by denormalizing dimension tables. It is easier for business analysts to understand and use for reporting, as all relevant dimension attributes are in single tables.  
+
+### 1.1.3 SQL CREATE TABLE Statements
+
+The SQL `CREATE TABLE` statements for the fact and dimension tables (assuming SQLite syntax) can be found in:  
+`path/to/your/sql_script.sql` <!-- Replace with actual file path -->
+
+   
+   
+   
