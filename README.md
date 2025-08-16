@@ -329,6 +329,10 @@ This report summarizes the results of OLAP queries performed on the sales data w
 | **Insights & Decision-Making Support** | Consolidates sales, customer, and product data | Enables fast OLAP queries for roll-up, drill-down, slice | Supports strategic marketing, inventory, and operational decisions |
 | **Effect of Synthetic Data** | Analysis based on synthetic dataset | Patterns may not match real-world markets perfectly | Safely tests OLAP queries and decision-support processes without exposing sensitive information |
 
+For a more comprehensive query analysis report, visit:  
+[OLAP Queries Analysis Report](Section_1/Task_3_OLA_%20Queries_and_Analysis/OLAP_Queries_Analysis_Report.pdf)
+
+
 
 
 
