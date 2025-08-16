@@ -1,0 +1,61 @@
+ProductKey,StockCode,Description,Category
+1,C001,Men's T-Shirt,Clothing
+2,C002,Women's Jeans,Clothing
+3,E002,Bluetooth Headphones,Electronics
+4,H001,Ceramic Mug,Home Goods
+5,T002,Building Blocks Set,Toys
+6,H003,LED Desk Lamp,Home Goods
+7,E001,Wireless Mouse,Electronics
+8,E003,Smartphone Charger,Electronics
+9,H002,Wall Clock,Home Goods
+10,T001,Stuffed Bear,Toys
+11,T003,RC Car,Toys
+12,C003,Baseball Cap,Clothing
+13,E001,Unknown Product,Electronics
+14,H002,Unknown Product,Home Goods
+15,C001,Unknown Product,Clothing
+16,C003,Unknown Product,Clothing
+17,E002,Unknown Product,Electronics
+18,H001,Unknown Product,Home Goods
+19,T003,Unknown Product,Toys
+20,C002,Unknown Product,Clothing
+21,C001,Men's T-Shirt,Clothing
+22,C002,Women's Jeans,Clothing
+23,E002,Bluetooth Headphones,Electronics
+24,H001,Ceramic Mug,Home Goods
+25,T002,Building Blocks Set,Toys
+26,H003,LED Desk Lamp,Home Goods
+27,E001,Wireless Mouse,Electronics
+28,E003,Smartphone Charger,Electronics
+29,H002,Wall Clock,Home Goods
+30,T001,Stuffed Bear,Toys
+31,T003,RC Car,Toys
+32,C003,Baseball Cap,Clothing
+33,E001,Unknown Product,Electronics
+34,H002,Unknown Product,Home Goods
+35,C001,Unknown Product,Clothing
+36,C003,Unknown Product,Clothing
+37,E002,Unknown Product,Electronics
+38,H001,Unknown Product,Home Goods
+39,T003,Unknown Product,Toys
+40,C002,Unknown Product,Clothing
+41,C001,Men's T-Shirt,Clothing
+42,C002,Women's Jeans,Clothing
+43,E002,Bluetooth Headphones,Electronics
+44,H001,Ceramic Mug,Home Goods
+45,T002,Building Blocks Set,Toys
+46,H003,LED Desk Lamp,Home Goods
+47,E001,Wireless Mouse,Electronics
+48,E003,Smartphone Charger,Electronics
+49,H002,Wall Clock,Home Goods
+50,T001,Stuffed Bear,Toys
+51,T003,RC Car,Toys
+52,C003,Baseball Cap,Clothing
+53,E001,Unknown Product,Electronics
+54,H002,Unknown Product,Home Goods
+55,C001,Unknown Product,Clothing
+56,C003,Unknown Product,Clothing
+57,E002,Unknown Product,Electronics
+58,H001,Unknown Product,Home Goods
+59,T003,Unknown Product,Toys
+60,C002,Unknown Product,Clothing

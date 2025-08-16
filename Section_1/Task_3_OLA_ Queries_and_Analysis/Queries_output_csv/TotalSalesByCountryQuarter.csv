@@ -1,0 +1,37 @@
+Country,Quarter,TotalSales
+Country,,0.0
+France,Q1,26979.96
+France,Q2,13323.43
+France,Q3,25121.7
+France,Q4,20944.06
+Germany,Q1,25152.09
+Germany,Q2,19515.24
+Germany,Q3,21910.5
+Germany,Q4,11442.23
+Italy,Q1,10470.54
+Italy,Q2,22883.34
+Italy,Q3,30930.53
+Italy,Q4,23686.43
+Netherlands,Q1,15109.19
+Netherlands,Q2,30173.1
+Netherlands,Q3,13593.86
+Netherlands,Q4,27675.7
+Norway,Q1,11180.48
+Norway,Q2,19628.28
+Norway,Q3,8955.04
+Norway,Q4,19186.9
+Portugal,Q1,25866.96
+Portugal,Q2,18649.4
+Portugal,Q3,28821.44
+Portugal,Q4,12993.14
+Spain,Q1,20860.3
+Spain,Q2,6854.51
+Spain,Q3,8499.89
+Spain,Q4,18789.32
+United Kingdom,Q1,13745.26
+United Kingdom,Q2,22962.9
+United Kingdom,Q3,13479.26
+United Kingdom,Q4,12254.5
+Unknown Country,Q1,587.14
+Unknown Country,Q3,2173.18
+Unknown Country,Q4,2525.61
