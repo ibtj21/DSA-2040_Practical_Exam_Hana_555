@@ -121,7 +121,7 @@ df_synthetic['InvoiceDate'] = pd.to_datetime(df_synthetic['InvoiceDate'], errors
 # Save synthetic data
 df_synthetic.to_csv("synthetic_retail_dataset.csv", index=False)
 logging.info("Synthetic dataset exported as 'synthetic_retail_dataset.csv'")
-
+```
 ### 1.2.2 Transform
 
 **Transformations Applied:**  
