@@ -516,8 +516,9 @@ K-Means effectively identifies distinct groups (like Setosa), but struggles with
 
 ### **Real-World Implications**  
 K-Means is useful for separating clearly distinct categories but may underperform when classes share overlapping features. In real scenarios such as **customer profiling** or **market segmentation**, combining K-Means with more features or advanced models can improve clustering outcomes.
-
+  
 To get the detailed report, visit:  
-[Section_2/Task_2_Clustering/Analysis_Report](Section_2/Task_2_Clustering/Analysis_Report/)
+[Analysis_Report.pdf](Section_2/Task_2_Clustering/Analysis_Report.pdf)
+
 
 
