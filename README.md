@@ -246,3 +246,112 @@ logging.info("Data loaded successfully into SQLite database.")
 **For a deep dive into the ETL process:** [etl_retail.ipynb](Section_1/Task_2_ETL_Process%20_Implementation/etl_retail.ipynb)
 
 
+
+````markdown
+## 1.3 OLAP Queries and Analysis
+
+Using the Data Warehouse from Task 2:
+
+### 1.3.1 OLAP-style SQL Queries
+
+<details>
+<summary><strong>i. Roll-up: Total sales by country and quarter</strong></summary>
+
+Aggregates sales at a higher level (quarterly) per country.
+
+```sql
+SELECT 
+    c.country,            -- Country name
+    d.quarter,            -- Quarter of the year
+    SUM(f.total_sales) AS total_sales  -- Total sales summed
+FROM fact_sales f
+JOIN dim_customer c ON f.customer_id = c.customer_id
+JOIN dim_date d ON f.date_id = d.date_id
+GROUP BY c.country, d.quarter
+ORDER BY c.country, d.quarter;
+````
+
+**Output CSV:** `path/to/rollup_output.csv`
+
+</details>
+
+<details>
+<summary><strong>ii. Drill-down: Sales details for a specific country (UK) by month</strong></summary>
+
+Shows detailed monthly sales per product for a given country.
+
+```sql
+SELECT 
+    d.year,               -- Year of sale
+    d.month,              -- Month of sale
+    p.name AS product_name, -- Product name
+    f.quantity,           -- Quantity sold
+    f.total_sales         -- Sales amount
+FROM fact_sales f
+JOIN dim_customer c ON f.customer_id = c.customer_id
+JOIN dim_date d ON f.date_id = d.date_id
+JOIN dim_product p ON f.product_id = p.product_id
+WHERE c.country = 'UK'   -- Filter for UK
+ORDER BY d.year, d.month, p.name;
+```
+
+**Output CSV:** `path/to/drilldown_output.csv`
+
+</details>
+
+<details>
+<summary><strong>iii. Slice: Total sales for Electronics category</strong></summary>
+
+Filters the fact table to only the Electronics category.
+
+```sql
+SELECT 
+    SUM(f.total_sales) AS total_sales
+FROM fact_sales f
+JOIN dim_product p ON f.product_id = p.product_id
+WHERE p.category = 'Electronics';  -- Only Electronics products
+```
+
+**Output CSV:** `path/to/slice_output.csv`
+
+</details>
+
+### 1.3.2 Visualization
+
+A bar chart of sales by country using Matplotlib was created.
+
+| Visualization                | File Path                      |
+| ---------------------------- | ------------------------------ |
+| Sales by Country (Bar Chart) | `path/to/sales_by_country.png` |
+
+### 1.3.3 Analysis of Results
+
+#### Analysis of Total Sales Using OLAP Queries
+
+This report summarizes the results of OLAP queries performed on the sales data warehouse, including roll-up, drill-down, and slice analyses.
+
+**i. Roll-up Analysis: Total Sales by Country and Quarter**
+The roll-up query aggregates sales by country and quarter, revealing top-performing regions. **Germany, Norway, France, and Italy** consistently generated high total sales across quarters, while **Netherlands, Portugal, Spain, and the United Kingdom** showed moderate performance. The **Unknown Country** category had minimal sales, likely due to missing or incomplete customer data. This analysis helps identify strong markets and seasonal trends.
+
+**ii. Drill-down Analysis: Monthly Sales for a Specific Country**
+Focusing on monthly sales for a specific country (e.g., the UK), sales fluctuate throughout the year. Peak months, such as January and September, contrast with lower months like February and August, indicating seasonal demand variations. Drill-down analysis allows decision-makers to examine performance at a finer granularity, supporting tactical planning such as promotions or stock allocation.
+
+**iii. Slice Analysis: Sales of Electronics Category**
+The slice query isolates total sales for the **Electronics category**, which amounted to **144,339.15**. This highlights product-specific performance, aiding decisions related to inventory, marketing campaigns, and product development strategies.
+
+**iv. Insights and Decision-Making Support**
+The data warehouse consolidates sales, customer, and product data, enabling fast OLAP queries for roll-up, drill-down, and slice analyses. These insights support strategic decisions, including identifying top-selling countries, seasonal trends, and high-performing product categories. Marketing, inventory, and operational strategies can be tailored accordingly.
+
+**v. Effect of Synthetic Data**
+Since synthetic data was used, some patterns or sales volumes may not perfectly reflect real-world markets. However, synthetic data allows testing OLAP queries, visualizations, and decision-support processes without exposing sensitive information.
+
+```
+
+This format:
+
+- Makes **SQL queries collapsible** to keep the README tidy.  
+- Includes **CSV and image placeholders** in a **table format** for clarity.  
+- Keeps your original structure, flow, and content intact.  
+
+I can also **add badges or sections for “Top-Selling Countries” and “Seasonal Trends” charts** to make it more visually appealing. Do you want me to do that next?
+```
