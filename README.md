@@ -208,11 +208,13 @@ logging.info("Data loaded successfully into SQLite database.")
 - Handles errors gracefully  
 - Exports:
 
-  ** Synthetic dataset → [synthetic_retail_dataset.csv](Section_1/Task_2_ETL_Process%20_Implementation/Datasets/synthetic_retail_dataset.csv) 
-  ** Transformed dataset → [transformed_retail_dataset.csv](Section_1/Task_2_ETL_Process%20_Implementation/Datasets/transformed_retail_dataset.csv)
-  ** SQLite database → [retail_db](Section_1/Task_2_ETL_Process%20_Implementation/Datasets/retail_db)
+  **Synthetic dataset** → [synthetic_retail_dataset.csv](Section_1/Task_2_ETL_Process%20_Implementation/Datasets/synthetic_retail_dataset.csv)
+  
+  **Transformed dataset** → [transformed_retail_dataset.csv](Section_1/Task_2_ETL_Process%20_Implementation/Datasets/transformed_retail_dataset.csv)
+  
+  **SQLite database** → [retail_db](Section_1/Task_2_ETL_Process%20_Implementation/Datasets/retail_db)
 
-** ETL Log Output **
+**ETL Log Output**
 
 ```
 2025-08-14 23:46:38,674 - INFO - Starting ETL process...
