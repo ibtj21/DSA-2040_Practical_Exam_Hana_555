@@ -632,6 +632,9 @@ if __name__ == "__main__":
     print(rules[['antecedents', 'consequents', 'support', 'confidence', 'lift']].head(5))
 ```
 
+Output:
+
+![Association Rule Output](Section_2/Task_3_Classification_and_Association_Rule_Mining/Visualization/Association_Rule_output.jpg)
 
 
 #### ii. Analysis
