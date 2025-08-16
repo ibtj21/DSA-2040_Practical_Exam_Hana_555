@@ -64,7 +64,7 @@ DSA_2040_Practical_Exam_Hana_555/
 - `ProductDim`: Columns: `ProductKey`, `StockCode`, `Description`, `Category`, `UnitPrice`  
 
 **Schema Diagram:**  
-![Star Schema Diagram](Section_1/Schema_diagram.png)
+![Star Schema Diagram](Section_1/Task_1_Data_Warehouse_Design/Schema_diagram.png)
 
 ### 1.1.2 Explanation for Choosing Star Schema Over Snowflake
 
@@ -73,7 +73,7 @@ The star schema was chosen because it simplifies queries and improves query perf
 ### 1.1.3 SQL CREATE TABLE Statements
 
 The SQL `CREATE TABLE` statements for the fact and dimension tables (assuming SQLite syntax) can be found in:  
-[Schema_retail.sql](Section_1/Schema_retail.sql)
+[Schema_retail.sql](Section_1/Task_1_Data_Warehouse_Design/Schema_retail.sql)
 
    
    
