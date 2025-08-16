@@ -110,6 +110,7 @@ The SQL `CREATE TABLE` statements for the fact and dimension tables (assuming SQ
 - Data types corrected, e.g., `InvoiceDate` converted to datetime.  
 
 <details>
+   
 <summary>📄 Extract Code Snippet</summary>
 
 ```python
@@ -122,6 +123,7 @@ df_synthetic['InvoiceDate'] = pd.to_datetime(df_synthetic['InvoiceDate'], errors
 df_synthetic.to_csv("synthetic_retail_dataset.csv", index=False)
 logging.info("Synthetic dataset exported as 'synthetic_retail_dataset.csv'")
 ```
+
 ### 1.2.2 Transform
 
 **Transformations Applied:**  
@@ -130,6 +132,8 @@ logging.info("Synthetic dataset exported as 'synthetic_retail_dataset.csv'")
 - Handled outliers by removing rows where `Quantity <= 0` or `UnitPrice <= 0`  
 
 <details>
+
+   
 <summary>📄 Transform Code Snippet</summary>
 
 ```python
@@ -154,6 +158,7 @@ logging.info("Transformed dataset exported as 'transformed_retail_dataset.csv'")
 ```
 
 </details>
+
 
 ### 1.2.3 Load
 
@@ -204,6 +209,8 @@ logging.info("Data loaded successfully into SQLite database.")
 ```
 
 </details>
+
+
 ### 1.2.4 Full ETL Function
 
 **Overview:**  
@@ -218,6 +225,8 @@ logging.info("Data loaded successfully into SQLite database.")
   * SQLite database → `[Path placeholder]`  
 
 <details>
+
+   
 <summary>📄 Example ETL Log Output</summary>
 
 ```
@@ -232,6 +241,7 @@ logging.info("Data loaded successfully into SQLite database.")
 ```
 
 </details>
+
 
 **Post-load Data:**  
 - Fact and dimension tables can be found at:
