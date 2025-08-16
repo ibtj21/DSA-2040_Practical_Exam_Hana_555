@@ -247,7 +247,7 @@ logging.info("Data loaded successfully into SQLite database.")
 
 
 
-````markdown
+
 ## 1.3 OLAP Queries and Analysis
 
 Using the Data Warehouse from Task 2:
@@ -345,13 +345,4 @@ The data warehouse consolidates sales, customer, and product data, enabling fast
 **v. Effect of Synthetic Data**
 Since synthetic data was used, some patterns or sales volumes may not perfectly reflect real-world markets. However, synthetic data allows testing OLAP queries, visualizations, and decision-support processes without exposing sensitive information.
 
-```
 
-This format:
-
-- Makes **SQL queries collapsible** to keep the README tidy.  
-- Includes **CSV and image placeholders** in a **table format** for clarity.  
-- Keeps your original structure, flow, and content intact.  
-
-I can also **add badges or sections for “Top-Selling Countries” and “Seasonal Trends” charts** to make it more visually appealing. Do you want me to do that next?
-```
