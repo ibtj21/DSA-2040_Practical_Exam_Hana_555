@@ -578,4 +578,91 @@ accuracy                           0.97        30
 - DT is interpretable and simple; KNN is flexible and handles subtle boundaries better.  
 - Minor class-level differences are due to how each model handles overlapping feature regions.
 
+### 2.3.2 Association Rule Mining
+
+#### Data Generation for Association Rule Mining
+
+A synthetic shopping dataset was generated with **20–50 transactions**, each containing **3–8 randomly selected items** from a pool of **20 unique products**. To mimic realistic shopping behavior, **frequent item pairs** like `['milk', 'bread']` and `['diapers', 'beer']` were intentionally injected with higher occurrence. This ensured the presence of **strong, interpretable associations** suitable for effective rule mining.
+
+---
+
+#### Modular Functions Used in Association Rule Mining
+
+- **`generate_transactions(dataframe)`**  
+  Converts raw data into a list of itemsets (transactions) for mining.
+
+- **`encode_transactions(transactions)`**  
+  One-hot encodes transactions into a binary format required for Apriori.
+
+- **`generate_rules(encoded_df, min_support=0.1, min_threshold=0.5)`**  
+  Applies Apriori to find frequent itemsets and generate strong association rules.
+
+---
+
+#### i. Apply Apriori Algorithm
+
+Find rules with `min_support = 0.2` and `min_confidence = 0.5`.
+
+**Explanation: What the Rule Means**
+
+An association rule like `(milk, soda) → (bread)` suggests that **if a customer buys milk and soda, they are likely to buy bread**.
+
+**Formulas:**
+
+- **Support**  
+  \[
+  \text{Support}(X \rightarrow Y) = \frac{\text{Transactions containing } X \cup Y}{\text{Total Transactions}}
+  \]
+
+- **Confidence**  
+  \[
+  \text{Confidence}(X \rightarrow Y) = \frac{\text{Transactions containing } X \cup Y}{\text{Transactions containing } X}
+  \]
+
+- **Lift**  
+  \[
+  \text{Lift}(X \rightarrow Y) = \frac{\text{Confidence}(X \rightarrow Y)}{\text{Support}(Y)}
+  \]
+
+**Code Example:**
+
+```python
+def generate_rules(df, min_support=0.2, min_confidence=0.5):
+    frequent_itemsets = apriori(df, min_support=min_support, use_colnames=True)
+    rules = association_rules(frequent_itemsets, metric='confidence', min_threshold=min_confidence)
+    rules_sorted = rules.sort_values(by='lift', ascending=False)
+    return rules_sorted
+
+if __name__ == "__main__":
+    # Generate synthetic transactions
+    transactions = generate_transactions(n_transactions=40, seed=42)
+
+    # Encode transactions
+    df_encoded = encode_transactions(transactions)
+
+    # Generate rules
+    rules = generate_rules(df_encoded, min_support=0.2, min_confidence=0.5)
+
+    # Display top 5 rules by lift
+    print("Top 5 Association Rules by Lift:\n")
+    print(rules[['antecedents', 'consequents', 'support', 'confidence', 'lift']].head(5))
+
+#### ii. Analysis
+
+---
+
+### Analysis of Association Rule: `(milk, soda) → (bread)`
+
+- **Support:** `0.20` → 20% of all transactions contain milk and soda together with bread.  
+- **Confidence:** `1.00` → Every transaction that contains both milk and soda also contains bread.  
+- **Lift:** `1.82` → Customers buying milk and soda are **1.82 times more likely** to also buy bread compared to random chance.
+
+---
+
+**Implications for Retail:**
+
+- This rule suggests a strong association between buying **milk, soda, and bread**.
+- A retailer could use this information to **optimize product placement**, such as placing bread near milk and soda in the store to encourage additional purchases.
+- It can also inform **cross-selling or bundling strategies**: offering promotions like “Buy milk and soda, get a discount on bread” could increase sales of bread.
+- This insight can further guide **inventory management**, ensuring sufficient stock for items that are frequently purchased together.
 
