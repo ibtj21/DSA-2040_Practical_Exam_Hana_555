@@ -269,7 +269,7 @@ GROUP BY c.country, d.quarter
 ORDER BY c.country, d.quarter;
 ````
 
-**Output CSV:** [Total Sales by Country and Quarter](Section_1/Task_3_OLA_%20Queries_and_Analysis/OLAP_Queries_output_csv/TotalSalesByCountryQuarter.csv)
+**Output CSV:** [Total Sales by Country and Quarter](Section_1/Task_3_OLAP_%20Queries_and_Analysis/OLAP_Queries_output_csv/TotalSalesByCountryQuarter.csv)
 
 
 
@@ -291,7 +291,7 @@ WHERE c.country = 'UK'   -- Filter for UK
 ORDER BY d.year, d.month, p.name;
 ```
 
-**Output CSV:** [UK Monthly Sales](Section_1/Task_3_OLA_%20Queries_and_Analysis/OLAP_Queries_output_csv/uk_monthly_sales.csv)
+**Output CSV:** [UK Monthly Sales](Section_1/Task_3_OLAP_%20Queries_and_Analysis/OLAP_Queries_output_csv/uk_monthly_sales.csv)
 
 
 
@@ -305,14 +305,14 @@ JOIN dim_product p ON f.product_id = p.product_id
 WHERE p.category = 'Electronics';  -- Only Electronics products
 ```
 
-**Output CSV:** [Total Sales Electronics](Section_1/Task_3_OLA_%20Queries_and_Analysis/OLAP_Queries_output_csv/TotalSales_Electronics.csv)
+**Output CSV:** [Total Sales Electronics](Section_1/Task_3_OLAP_%20Queries_and_Analysis/OLAP_Queries_output_csv/TotalSales_Electronics.csv)
 
 
 
 ### 1.3.2 Visualization
 
 **A bar chart of sales by country using Matplotlib was created.**
-![Bar Chart of Sales by Country](Section_1/Task_3_OLA_%20Queries_and_Analysis/Bar_Chart_of_Sales_by_Country.jpg)
+![Bar Chart of Sales by Country](Section_1/Task_3_OLAP_%20Queries_and_Analysis/Bar_Chart_of_Sales_by_Country.jpg)
 
 
 ### 1.3.3 Analysis of Results
@@ -330,7 +330,7 @@ This report summarizes the results of OLAP queries performed on the sales data w
 | **Effect of Synthetic Data** | Analysis based on synthetic dataset | Patterns may not match real-world markets perfectly | Safely tests OLAP queries and decision-support processes without exposing sensitive information |
 
 For a more comprehensive query analysis report, visit:  
-[OLAP Queries Analysis Report](Section_1/Task_3_OLA_%20Queries_and_Analysis/OLAP_Queries_Analysis_Report.pdf)
+[OLAP Queries Analysis Report](Section_1/Task_3_OLAP_%20Queries_and_Analysis/OLAP_Queries_Analysis_Report.pdf)
 
 
 
