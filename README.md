@@ -231,12 +231,17 @@ logging.info("Data loaded successfully into SQLite database.")
 
 
 **Post-load Data:**  
+
 - Fact and dimension tables can be found at:
 
-  * `[SalesFact path]`  
-  * `[CustomerDim path]`  
-  * `[ProductDim path]`  
-  * `[TimeDim path]`  
+ * SalesFact → [SalesFact.csv](https://github.com/ibtj21/DSA-2040_Practical_Exam_Hana_555/blob/main/Section_1/Task_2_ETL_Process%20_Implementation/PostLoad_Fact_and_Dimention_tables/SalesFact.csv)
+   
+ * CustomerDim → [CustomerDim.csv](https://github.com/ibtj21/DSA-2040_Practical_Exam_Hana_555/blob/main/Section_1/Task_2_ETL_Process%20_Implementation/PostLoad_Fact_and_Dimention_tables/CustomerDim.csv)
+ 
+ * ProductDim → [ProductDim.csv](https://github.com/ibtj21/DSA-2040_Practical_Exam_Hana_555/blob/main/Section_1/Task_2_ETL_Process%20_Implementation/PostLoad_Fact_and_Dimention_tables/ProductDim.csv)
+
+ * TimeDim → [TimeDim.csv](https://github.com/ibtj21/DSA-2040_Practical_Exam_Hana_555/blob/main/Section_1/Task_2_ETL_Process%20_Implementation/PostLoad_Fact_and_Dimention_tables/TimeDim.csv)
+
 
 **For a deep dive into the ETL process:** [etl_retail.ipynb](Section_1/Task_2_ETL_Process%20_Implementation/etl_retail.ipynb)
 
