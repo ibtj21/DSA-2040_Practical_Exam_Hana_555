@@ -330,7 +330,7 @@ This report summarizes the results of OLAP queries performed on the sales data w
 | **Effect of Synthetic Data** | Analysis based on synthetic dataset | Patterns may not match real-world markets perfectly | Safely tests OLAP queries and decision-support processes without exposing sensitive information |
 
 For a more comprehensive query analysis report, visit:  
-[OLAP Queries Analysis Report](Section_1/Task_3_OLA_%20Queries_and_Analysis/OLAP_Queries_Analysis_Report.pdf)
+[OLAP Queries Analysis Report](Section_1/Task_3_OLAP_%20Queries_and_Analysis/OLAP_Queries_Analysis_Report.pdf)
 
 
 
