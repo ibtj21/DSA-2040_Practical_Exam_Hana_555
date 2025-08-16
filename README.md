@@ -370,7 +370,7 @@ The **Iris dataset** from **scikit-learn** was used. This dataset includes the f
 ### 2.1.1 Load the Dataset in Python Using Scikit-learn
 
 The modular function `load_iris_data()` was used.  
-![Load Iris Dataset](Section_2/Task_1_Data_Preprocessing_and_Exploration/Screenshoots/Load_Iris/load_iris.png)
+![Load Iris Dataset](Section_2/Task_1_Data_Preprocessing_and_Exploration/Screenshoots/Load_Iris.png)
 
 
 ---
