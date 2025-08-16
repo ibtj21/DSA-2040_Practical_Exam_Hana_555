@@ -208,10 +208,11 @@ logging.info("Data loaded successfully into SQLite database.")
 - Handles errors gracefully  
 - Exports:
 
-  * Synthetic dataset → `[Path placeholder]`  
-  * Transformed dataset → `[Path placeholder]`  
-  * SQLite database → `[Path placeholder]`  
+  * * Synthetic dataset → [synthetic_retail_dataset.csv](Section_1/Task_2_ETL_Process%20_Implementation/Datasets/synthetic_retail_dataset.csv) 
+  * Transformed dataset →  [synthetic_retail_dataset.csv](Section_1/Task_2_ETL_Process%20_Implementation/Datasets/transformed_retail_dataset.csv)  
+  * SQLite database →  [synthetic_retail_dataset.csv](Section_1/Task_2_ETL_Process%20_Implementation/Datasets/retail_db) 
 
+** ETL Log Output **
 
 ```
 2025-08-14 23:46:38,674 - INFO - Starting ETL process...
@@ -235,6 +236,6 @@ logging.info("Data loaded successfully into SQLite database.")
   * `[ProductDim path]`  
   * `[TimeDim path]`  
 
-**For a deep dive into the ETL process:** `[Path placeholder for full ETL documentation or script]`
+**For a deep dive into the ETL process:** `[etl_retail.ipynb](Section_1/Task_2_ETL_Process%20_Implementation/etl_retail.ipynb)`
 
 
