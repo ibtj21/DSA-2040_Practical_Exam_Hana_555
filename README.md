@@ -6,12 +6,12 @@ This repository contains my DSA 2040 (US 2025) practical exam project, demonstra
 ## Overview
 This repository contains the complete submission for the DSA 2040 end-semester practical exam. It covers two main sections:  
 
-1. **Data Warehousing (50 marks)**  
+1. **Data Warehousing**  
    - Design of a star schema for a retail company  
    - ETL process implementation using Python and SQLite  
    - OLAP queries and analysis with visualizations  
 
-2. **Data Mining (50 marks)**  
+2. **Data Mining**  
    - Data preprocessing and exploration of the Iris dataset  
    - Clustering using K-Means  
    - Classification (Decision Tree & KNN) and Association Rule Mining  
@@ -28,7 +28,8 @@ This repository contains the complete submission for the DSA 2040 end-semester p
 ## Folder Structure
 
 DSA_2040_Practical_Exam_Hana_555/
-│
+Section_1├─
+Section_2├─
 ├─ `etl_retail.py`          - ETL implementation for retail DW  
 ├─ `retail_dw.db`           - SQLite database (fact & dimension tables)  
 ├─ `preprocessing_iris.py`  - Iris preprocessing, exploration  
