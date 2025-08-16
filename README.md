@@ -109,11 +109,6 @@ The SQL `CREATE TABLE` statements for the fact and dimension tables (assuming SQ
 - Missing values handled for `Description` and `Country`.  
 - Data types corrected, e.g., `InvoiceDate` converted to datetime.  
 
-<details>
-
-
-   
-<summary>📄 Extract Code Snippet</summary>
 
 ```python
 # Handle missing values & convert data types
@@ -133,12 +128,6 @@ logging.info("Synthetic dataset exported as 'synthetic_retail_dataset.csv'")
 - Filtered data for sales in the last year (assuming current date = 2025-08-12)  
 - Handled outliers by removing rows where `Quantity <= 0` or `UnitPrice <= 0`  
 
-<details>
-
-
-
-   
-<summary>📄 Transform Code Snippet</summary>
 
 ```python
 # Calculate total sales
@@ -162,9 +151,6 @@ logging.info("Transformed dataset exported as 'transformed_retail_dataset.csv'")
 ```
 
 
-</details>
-
-
 ### 1.2.3 Load
 
 **Loading Process:**  
@@ -174,10 +160,6 @@ logging.info("Transformed dataset exported as 'transformed_retail_dataset.csv'")
   * 1 Fact Table: `SalesFact`  
   * 3 Dimension Tables: `ProductDim`, `CustomerDim`, `TimeDim`  
 
-<details>
-
-   
-<summary>📄 Load Code Snippet</summary>
 
 ```python
 import sqlite3
@@ -216,9 +198,6 @@ logging.info("Data loaded successfully into SQLite database.")
 ```
 
 
-</details>
-
-
 
 ### 1.2.4 Full ETL Function
 
@@ -233,10 +212,6 @@ logging.info("Data loaded successfully into SQLite database.")
   * Transformed dataset → `[Path placeholder]`  
   * SQLite database → `[Path placeholder]`  
 
-<details>
-
-   
-<summary>📄 Example ETL Log Output</summary>
 
 ```
 2025-08-14 23:46:38,674 - INFO - Starting ETL process...
@@ -249,9 +224,6 @@ logging.info("Data loaded successfully into SQLite database.")
 2025-08-14 23:46:38,996 - INFO - ETL process completed: only synthetic, transformed, and .db exported.
 ```
 
-
-
-</details>
 
 
 
