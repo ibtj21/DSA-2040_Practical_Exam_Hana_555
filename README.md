@@ -378,23 +378,34 @@ The modular function `load_iris_data()` was used.
 ### 2.1.2 Preprocess
 
 **i. Handle any missing values**  
-The modular function `check_missing_values()` was used.  
+
+The modular function `check_missing_values()` was used. 
+
 ![Missing Value Report](Section_2/Task_1_Data_Preprocessing_and_Exploration/Screenshoots/Missing_value_report.jpg)
 
 
 **ii. Normalize features using Min-Max scaling**  
+
 ![Normalization Formula](Section_2/Task_1_Data_Preprocessing_and_Exploration/Screenshoots/Normalization_formula.jpg)
 
 ![Normalization](Section_2/Task_1_Data_Preprocessing_and_Exploration/Screenshoots/Normalization.jpg)
 
 
 **iii. Encode the class label**
+ 
+ Using Label Encoding:
 
+| Original Species | Encoded Value |
+|-----------------|---------------|
+| setosa          | 0             |
+| versicolor      | 1             |
+| virginica       | 2             |
 ---
 
 ### 2.1.3 Explore
 
 **i. Compute summary statistics**  
+
 ![Summary Statistics](Section_2/Task_1_Data_Preprocessing_and_Exploration/Screenshoots/Summary_statistics.jpg)
 
 **ii. Visualize: Pairplot (using Seaborn) and Correlation Heatmap**
