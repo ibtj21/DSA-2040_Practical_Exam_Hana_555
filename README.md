@@ -255,7 +255,7 @@ Using the Data Warehouse from Task 2:
 ### 1.3.1 OLAP-style SQL Queries
 
 
-Aggregates sales at a higher level (quarterly) per country.
+**i. Roll-up: Total sales by country and quarter** 
 
 ```sql
 SELECT 
@@ -269,10 +269,12 @@ GROUP BY c.country, d.quarter
 ORDER BY c.country, d.quarter;
 ````
 
-**Output CSV:** `path/to/rollup_output.csv`
+**Output CSV:** [Total Sales by Country and Quarter](Section_1/Task_3_OLA_%20Queries_and_Analysis/OLAP_Queries_output_csv/TotalSalesByCountryQuarter.csv)
 
 
-Shows detailed monthly sales per product for a given country.
+
+**ii. Drill-down: Sales details for a specific country (UK) by month**
+
 
 ```sql
 SELECT 
@@ -289,10 +291,11 @@ WHERE c.country = 'UK'   -- Filter for UK
 ORDER BY d.year, d.month, p.name;
 ```
 
-**Output CSV:** `path/to/drilldown_output.csv`
+**Output CSV:** [UK Monthly Sales](Section_1/Task_3_OLA_%20Queries_and_Analysis/OLAP_Queries_output_csv/uk_monthly_sales.csv)
 
 
-Filters the fact table to only the Electronics category.
+
+**iii. Slice: Total sales for Electronics category**
 
 ```sql
 SELECT 
@@ -302,16 +305,15 @@ JOIN dim_product p ON f.product_id = p.product_id
 WHERE p.category = 'Electronics';  -- Only Electronics products
 ```
 
-**Output CSV:** `path/to/slice_output.csv`
+**Output CSV:** [Total Sales Electronics](Section_1/Task_3_OLA_%20Queries_and_Analysis/OLAP_Queries_output_csv/TotalSales_Electronics.csv)
+
 
 
 ### 1.3.2 Visualization
 
-A bar chart of sales by country using Matplotlib was created.
+**A bar chart of sales by country using Matplotlib was created.**
+![Bar Chart of Sales by Country](Section_1/Task_3_OLA_%20Queries_and_Analysis/Bar_Chart_of_Sales_by_Country.jpg)
 
-| Visualization                | File Path                      |
-| ---------------------------- | ------------------------------ |
-| Sales by Country (Bar Chart) | `path/to/sales_by_country.png` |
 
 ### 1.3.3 Analysis of Results
 
