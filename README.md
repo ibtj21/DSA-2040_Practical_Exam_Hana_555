@@ -607,22 +607,6 @@ Find rules with `min_support = 0.2` and `min_confidence = 0.5`.
 
 An association rule like `(milk, soda) → (bread)` suggests that **if a customer buys milk and soda, they are likely to buy bread**.
 
-**Formulas:**
-
-- **Support**  
-  \[
-  \text{Support}(X \rightarrow Y) = \frac{\text{Transactions containing } X \cup Y}{\text{Total Transactions}}
-  \]
-
-- **Confidence**  
-  \[
-  \text{Confidence}(X \rightarrow Y) = \frac{\text{Transactions containing } X \cup Y}{\text{Transactions containing } X}
-  \]
-
-- **Lift**  
-  \[
-  \text{Lift}(X \rightarrow Y) = \frac{\text{Confidence}(X \rightarrow Y)}{\text{Support}(Y)}
-  \]
 
 **Code Example:**
 
@@ -646,10 +630,10 @@ if __name__ == "__main__":
     # Display top 5 rules by lift
     print("Top 5 Association Rules by Lift:\n")
     print(rules[['antecedents', 'consequents', 'support', 'confidence', 'lift']].head(5))
+```
+
 
 #### ii. Analysis
-
----
 
 ### Analysis of Association Rule: `(milk, soda) → (bread)`
 
