@@ -341,17 +341,20 @@ For a more comprehensive query analysis report, visit:
 
 To ensure a structured, reusable, and transparent workflow, the following **modular functions** were implemented for preprocessing the Iris dataset. Using functions makes it easier to maintain, test, and reuse the code across different datasets or models:
 
-- `load_iris_data()` – Loads the Iris dataset into Python.
-- `check_missing_values()` – Checks for any missing values in the dataset.
-- `encode_labels()` – Encodes the class labels into numerical format if required.
-- `normalize_features()` – Applies Min-Max scaling to normalize feature values.
-- `summary_statistics()` – Computes descriptive statistics (mean, std, min, max) for all features.
-- `visualize_pairplot()` – Generates pair plots to visualize feature interactions and class separations.
-- `visualize_correlation_heatmap()` – Creates a correlation heatmap to identify relationships between features.
-- `visualize_boxplots()` – Draws boxplots to detect potential outliers in the features.
-- `cap_outliers_species()` – Applies outlier capping based on species-specific thresholds.
-- `split_train_test()` – Splits the dataset into training and testing sets (e.g., 80/20 split).
-- `remove_outliers_iqr()` – Removes outliers from the dataset using the IQR method.
+| Function Name                   | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| `load_iris_data()`             | Loads the Iris dataset into Python.                                        |
+| `check_missing_values()`       | Checks for any missing values in the dataset.                              |
+| `encode_labels()`              | Encodes the class labels into numerical format if required.                |
+| `normalize_features()`         | Applies Min-Max scaling to normalize feature values.                       |
+| `summary_statistics()`         | Computes descriptive statistics (mean, std, min, max) for all features.    |
+| `visualize_pairplot()`         | Generates pair plots to visualize feature interactions and class separations. |
+| `visualize_correlation_heatmap()` | Creates a correlation heatmap to identify relationships between features. |
+| `visualize_boxplots()`         | Draws boxplots to detect potential outliers in the features.               |
+| `cap_outliers_species()`       | Applies outlier capping based on species-specific thresholds.              |
+| `split_train_test()`           | Splits the dataset into training and testing sets (e.g., 80/20 split).     |
+| `remove_outliers_iqr()`        | Removes outliers from the dataset using the IQR method.                    |
+
 
 These functions make the preprocessing pipeline **modular, readable, and consistent**, which is crucial for reproducibility and efficient analysis.
 
