@@ -333,6 +333,117 @@ For a more comprehensive query analysis report, visit:
 [OLAP Queries Analysis Report](Section_1/Task_3_OLAP_%20Queries_and_Analysis/OLAP_Queries_Analysis_Report.pdf)
 
 
+# 2 Data Mining
+
+## 2.1 Data Preprocessing and Exploration
+
+### **Modular Functions for Data Preprocessing**
+
+To ensure a structured, reusable, and transparent workflow, the following **modular functions** were implemented for preprocessing the Iris dataset. Using functions makes it easier to maintain, test, and reuse the code across different datasets or models:
+
+- `load_iris_data()` – Loads the Iris dataset into Python.
+- `check_missing_values()` – Checks for any missing values in the dataset.
+- `encode_labels()` – Encodes the class labels into numerical format if required.
+- `normalize_features()` – Applies Min-Max scaling to normalize feature values.
+- `summary_statistics()` – Computes descriptive statistics (mean, std, min, max) for all features.
+- `visualize_pairplot()` – Generates pair plots to visualize feature interactions and class separations.
+- `visualize_correlation_heatmap()` – Creates a correlation heatmap to identify relationships between features.
+- `visualize_boxplots()` – Draws boxplots to detect potential outliers in the features.
+- `cap_outliers_species()` – Applies outlier capping based on species-specific thresholds.
+- `split_train_test()` – Splits the dataset into training and testing sets (e.g., 80/20 split).
+- `remove_outliers_iqr()` – Removes outliers from the dataset using the IQR method.
+
+These functions make the preprocessing pipeline **modular, readable, and consistent**, which is crucial for reproducibility and efficient analysis.
+
+The **Iris dataset** from **scikit-learn** was used. This dataset includes the following features:
+
+- **Sepal length (cm)**
+- **Sepal width (cm)**
+- **Petal length (cm)**
+- **Petal width (cm)**
+
+---
+
+### 2.1.1 Load the Dataset in Python Using Scikit-learn
+
+The modular function `load_iris_data()` was used.  
+*(Placeholder for screenshot)*
+
+---
+
+### 2.1.2 Preprocess
+
+**i. Handle any missing values**  
+The modular function `check_missing_values()` was used.  
+*(Placeholder for screenshot)*
+
+**ii. Normalize features using Min-Max scaling**  
+*(Placeholder for screenshot)*  
+*(Placeholder for screenshot)*
+
+**iii. Encode the class label if needed**
+
+---
+
+### 2.1.3 Explore
+
+**i. Compute summary statistics**  
+*(Placeholder for screenshot)*
+
+**ii. Visualize: Pairplot (using Seaborn) and Correlation Heatmap**
+
+- **Pairplot**  
+  *(Placeholder for screenshot)*
+
+- **Correlation Heatmap**  
+  *(Placeholder for screenshot)*
+
+**iii. Identify any potential outliers using boxplots**  
+*(Placeholder for screenshot)*
+
+---
+
+### Identifying Outliers with Boxplots
+
+**Boxplot Interpretation:**
+- **Box:** Represents the interquartile range (IQR: 25th to 75th percentile).  
+- **Line inside the box:** Median (50th percentile).  
+- **Whiskers:** Typically extend to 1.5 × IQR above Q3 and below Q1.  
+- **Points beyond whiskers:** Considered **potential outliers**.
+
+**How to identify outliers:**
+- Any data point lying **above the upper whisker** or **below the lower whisker** is a potential outlier.  
+- In our case, there are 4 data points identified as outliers in the sepal width.
+
+---
+
+### 2.1.4 Write a Function to Split Data into Train/Test (80/20)
+
+Here is the modular function:
+
+```python
+from sklearn.model_selection import train_test_split
+
+def split_train_test(df, feature_cols, label_col_encoded='species_encoded', test_size=0.2, random_state=42):
+    # Separate features and encoded labels
+    X = df[feature_cols]
+    y = df[label_col_encoded]
+    
+    # Split data into train/test with stratification by class labels
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=test_size, random_state=random_state, stratify=y
+    )
+    
+    # Print sample counts
+    print(f"Train samples: {X_train.shape[0]}, Test samples: {X_test.shape[0]}")
+    return X_train, X_test, y_train, y_test
+feature_cols = df.columns[:-1].tolist()
+X_train, X_test, y_train, y_test = split_train_test(df_no_outliers, feature_cols)
+```
+**Output:**
+
+Train samples: 116  
+Test samples: 30
 
 
 
