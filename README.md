@@ -468,5 +468,56 @@ X_train, X_test, y_train, y_test = split_train_test(df_no_outliers, feature_cols
 Train samples: 116  
 Test samples: 30
 
+## 2.2 Clustering  
+**Preprocessed Data from Task 1 was Used.**
+
+### **Modular Functions Used for Clustering**
+
+Using modular functions ensures clean, reusable, and maintainable code throughout the clustering process.
+
+| Function Name                | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| `load_preprocessed_data()`  | Loads the preprocessed Iris dataset for clustering analysis.               |
+| `kmeans_clustering_evaluate()` | Applies K-Means clustering and evaluates the results using metrics like inertia and silhouette score. |
+| `plot_elbow_curve()`        | Plots the elbow curve to determine the optimal number of clusters.         |
+| `plot_clusters_scatter()`   | Visualizes the resulting clusters using a scatter plot.                    |
+
+---
+
+### 2.2.1 Apply K-Means Clustering (from scikit-learn) with k = 3  
+i. Fit the model on features (exclude class)  
+ii. Predict clusters and compare with actual classes using Adjusted Rand Index (ARI)  
+
+**Adjusted Rand Index (ARI) for k = 3:** 0.7163  
+This indicates a strong alignment between predicted clusters and true labels, with some overlap, particularly between Versicolor and Virginica.
+
+---
+
+### 2.2.2 Experiment: Try k = 2 and k = 4; plot elbow curve to justify optimal k.
+
+![Elbow Graph](Section_2/Task_2_Clustering/Visualizations/Elbow_graph.png)
+
+---
+
+### 2.2.3 Visualize Clusters — Scatter Plot of Petal Length vs Width, Colored by Cluster  
+
+![Scatter Plot](Section_2/Task_2_Clustering/Visualizations/Scatter_plot.png)
+
+
+---
+
+### 2.2.4 Analysis of Clustering Results  
+
+The clustering produced an **ARI of 0.7163**, showing a good, but not perfect, match with actual classes. Setosa was clearly separated, while Versicolor and Virginica overlapped, causing some misclassifications. The overlap highlights typical real-world challenges where groups share similar features.
+
+K-Means effectively identifies distinct groups (like Setosa), but struggles with overlapping ones. This is common in use cases like **customer segmentation**, where borderline cases exist. Normalization improved feature balance but couldn’t fully resolve natural class overlap, affecting accuracy.
+
+---
+
+### **Real-World Implications**  
+K-Means is useful for separating clearly distinct categories but may underperform when classes share overlapping features. In real scenarios such as **customer profiling** or **market segmentation**, combining K-Means with more features or advanced models can improve clustering outcomes.
+
+To get the detailed report, visit:  
+[Section_2/Task_2_Clustering/Analysis_Report](Section_2/Task_2_Clustering/Analysis_Report/)
 
 
