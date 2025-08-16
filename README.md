@@ -379,20 +379,23 @@ The modular function `load_iris_data()` was used.
 
 **i. Handle any missing values**  
 The modular function `check_missing_values()` was used.  
-*(Placeholder for screenshot)*
+![Missing Value Report](Section_2/Task_1_Data_Preprocessing_and_Exploration/Screenshoots/Missing_value_report.jpg)
+
 
 **ii. Normalize features using Min-Max scaling**  
-*(Placeholder for screenshot)*  
-*(Placeholder for screenshot)*
+![Normalization Formula](Section_2/Task_1_Data_Preprocessing_and_Exploration/Screenshoots/Normalization_formula.jpg)
 
-**iii. Encode the class label if needed**
+![Normalization](Section_2/Task_1_Data_Preprocessing_and_Exploration/Screenshoots/Normalization.jpg)
+
+
+**iii. Encode the class label**
 
 ---
 
 ### 2.1.3 Explore
 
 **i. Compute summary statistics**  
-*(Placeholder for screenshot)*
+![Summary Statistics](Section_2/Task_1_Data_Preprocessing_and_Exploration/Screenshoots/Summary_statistics.jpg)
 
 **ii. Visualize: Pairplot (using Seaborn) and Correlation Heatmap**
 
