@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+Section_1/Task_2_ETL_Process _Implementation/ETL_Process_Diagram.png
