@@ -110,6 +110,8 @@ The SQL `CREATE TABLE` statements for the fact and dimension tables (assuming SQ
 - Data types corrected, e.g., `InvoiceDate` converted to datetime.  
 
 <details>
+
+
    
 <summary>📄 Extract Code Snippet</summary>
 
@@ -132,6 +134,8 @@ logging.info("Synthetic dataset exported as 'synthetic_retail_dataset.csv'")
 - Handled outliers by removing rows where `Quantity <= 0` or `UnitPrice <= 0`  
 
 <details>
+
+
 
    
 <summary>📄 Transform Code Snippet</summary>
@@ -157,6 +161,7 @@ df_transformed.to_csv("transformed_retail_dataset.csv", index=False)
 logging.info("Transformed dataset exported as 'transformed_retail_dataset.csv'")
 ```
 
+
 </details>
 
 
@@ -170,6 +175,8 @@ logging.info("Transformed dataset exported as 'transformed_retail_dataset.csv'")
   * 3 Dimension Tables: `ProductDim`, `CustomerDim`, `TimeDim`  
 
 <details>
+
+   
 <summary>📄 Load Code Snippet</summary>
 
 ```python
@@ -208,7 +215,9 @@ conn.close()
 logging.info("Data loaded successfully into SQLite database.")
 ```
 
+
 </details>
+
 
 
 ### 1.2.4 Full ETL Function
@@ -240,7 +249,10 @@ logging.info("Data loaded successfully into SQLite database.")
 2025-08-14 23:46:38,996 - INFO - ETL process completed: only synthetic, transformed, and .db exported.
 ```
 
+
+
 </details>
+
 
 
 **Post-load Data:**  
