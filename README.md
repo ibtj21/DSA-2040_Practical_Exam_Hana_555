@@ -100,7 +100,7 @@ The SQL `CREATE TABLE` statements for the fact and dimension tables (assuming SQ
 - Includes missing values, categorical columns, and outliers for Quantity and UnitPrice  
 - Seeded for reproducibility  
 
-**Generation code:** `[Path to synthetic data generation script]`
+**Generation code:** [etl_retail.ipynb](Section_1/Task_2_ETL_Process%20_Implementation/etl_retail.ipynb)
 
 ---
 
