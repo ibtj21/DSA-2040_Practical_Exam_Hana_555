@@ -43,7 +43,7 @@ DSA_2040_Practical_Exam_Hana_555/
 └─ `README.md`
 
 
-# Data Warehousing
+# 1. Data Warehousing
 
 ## 1.1 Design of a Star Schema for a Retail Company
 
@@ -78,126 +78,149 @@ The SQL `CREATE TABLE` statements for the fact and dimension tables (assuming SQ
 
 ## 1.2 ETL Process Implementation
 
-**Dataset:** Synthetic data that mimics the structure and scale of the described dataset, with similar columns like `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, and `Country`. The dataset contains around 500–1000 rows for practicality, generated using `pandas`, `faker`, and random values:  
+**Dataset:** Synthetic data designed to mimic the structure and scale of the target dataset with similar columns:  
 
-- `Quantity`: 1–50  
-- `UnitPrice`: 1–100  
-- `InvoiceDate`: dates over 2 years  
+| Column       | Description                                      |
+|--------------|--------------------------------------------------|
+| InvoiceNo    | Unique invoice identifier                        |
+| StockCode    | Product code                                     |
+| Description  | Product description                              |
+| Quantity     | Number of items purchased                        |
+| InvoiceDate  | Date of purchase                                 |
+| UnitPrice    | Price per item                                   |
+| CustomerID   | Unique customer identifier                        |
+| Country      | Customer's country                               |
+
+**Dataset Features:**  
+- Row count: ~500–1000 (practicality)  
+- Quantities: 1–50, Prices: 1–100  
+- Dates span 2 years  
 - 100 unique customers  
 - 5–10 countries  
+- Includes missing values, categorical columns, and outliers for Quantity and UnitPrice  
+- Seeded for reproducibility  
 
-Additionally, missing values, column categories, and outliers in `Quantity` and `UnitPrice` were generated for practicality. A seed was used for reproducibility.  
+**Generation code:** `[Path to synthetic data generation script]`
 
-**Generation code for the synthetic data can be found at:** `(put placeholder for path)`
+---
 
 ### 1.2.1 Extract
-- Python was used to generate the data in a DataFrame.  
-- Handled missing values in columns like `Description` and `Country`.  
-- Corrected data types, e.g., `InvoiceDate`.  
+- Python (pandas & Faker) was used to generate the synthetic dataset as a DataFrame.  
+- Missing values handled for `Description` and `Country`.  
+- Data types corrected, e.g., `InvoiceDate` converted to datetime.  
 
-### 1.2.2 Transform
-- Calculated a new column: `TotalSales = Quantity * UnitPrice`.  
-- Filtered data for sales in the last year (assuming current date as August 12, 2025).  
-- Handled outliers: removed rows where `Quantity < 0` or `UnitPrice <= 0`.  
-
-### 1.2.3 Load
-- Used `sqlite3` in Python to create a database file (path placeholder).  
-- Loaded the transformed data into a **fact table** (`SalesFact`) and **three dimension tables** (`ProductDim`, `CustomerDim`, `TimeDim`).  
-
-A function to perform the full ETL and log the number of rows processed at each stage was implemented:
+<details>
+<summary>📄 Extract Code Snippet</summary>
 
 ```python
-# ===== ETL Process: Export Only .db, Transformed Data, Synthetic Data =====
-def run_etl_export_only():
-    try:
-        logging.info("Starting ETL process...")
+# Handle missing values & convert data types
+df_synthetic['Description'] = df_synthetic['Description'].fillna('Unknown Product')
+df_synthetic['Country'] = df_synthetic['Country'].fillna('Unknown Country')
+df_synthetic['InvoiceDate'] = pd.to_datetime(df_synthetic['InvoiceDate'], errors='coerce')
 
-        # === Extract (Synthetic Data) ===
-        df_synthetic = generate_base_data(NUM_ROWS)
-        df_synthetic = inject_missing_values(df_synthetic)
-        df_synthetic = inject_outliers(df_synthetic)
-        customer_names = generate_customer_names(df_synthetic['CustomerID'].nunique())
-        df_synthetic = assign_customer_names(df_synthetic, customer_names)
+# Save synthetic data
+df_synthetic.to_csv("synthetic_retail_dataset.csv", index=False)
+logging.info("Synthetic dataset exported as 'synthetic_retail_dataset.csv'")
+```
+### 1.2.2 Transform
 
-        # Handle missing values & convert data types
-        df_synthetic['Description'] = df_synthetic['Description'].fillna('Unknown Product')
-        df_synthetic['Country'] = df_synthetic['Country'].fillna('Unknown Country')
-        df_synthetic['InvoiceDate'] = pd.to_datetime(df_synthetic['InvoiceDate'], errors='coerce')
+**Transformations Applied:**  
+- Added a new column: `TotalSales = Quantity * UnitPrice`  
+- Filtered data for sales in the last year (assuming current date = 2025-08-12)  
+- Handled outliers by removing rows where `Quantity <= 0` or `UnitPrice <= 0`  
 
-        # Save synthetic data
-        df_synthetic.to_csv("synthetic_retail_dataset.csv", index=False)
-        logging.info("Synthetic dataset exported as 'synthetic_retail_dataset.csv'")
-        logging.info(f"Rows after extraction: {len(df_synthetic)}")
+<details>
+<summary>📄 Transform Code Snippet</summary>
 
-        # === Transform (Cleaned and Filtered Data) ===
-        df_transformed = clean_and_convert(df_synthetic.copy())
-        df_transformed['TotalSales'] = df_transformed['Quantity'] * df_transformed['UnitPrice']
-        df_transformed = df_transformed[df_transformed['Quantity'] > 0]
-        df_transformed = df_transformed[df_transformed['UnitPrice'] > 0]
+```python
+# Calculate total sales
+df_transformed['TotalSales'] = df_transformed['Quantity'] * df_transformed['UnitPrice']
 
-        # Filter last 12 months
-        current_date = pd.Timestamp("2025-08-12")
-        one_year_ago = current_date - pd.DateOffset(years=1)
-        df_transformed = df_transformed[(df_transformed['InvoiceDate'] >= one_year_ago) & 
-                                        (df_transformed['InvoiceDate'] <= current_date)]
+# Remove outliers
+df_transformed = df_transformed[df_transformed['Quantity'] > 0]
+df_transformed = df_transformed[df_transformed['UnitPrice'] > 0]
 
-        # Save transformed data
-        df_transformed.to_csv("transformed_retail_dataset.csv", index=False)
-        logging.info("Transformed dataset exported as 'transformed_retail_dataset.csv'")
-        logging.info(f"Rows after transformation: {len(df_transformed)}")   
-        
-        # === Load ===
-        logging.info("Loading data into SQLite database using external schema...")
+# Filter for the last 12 months
+current_date = pd.Timestamp("2025-08-12")
+one_year_ago = current_date - pd.DateOffset(years=1)
+df_transformed = df_transformed[
+    (df_transformed['InvoiceDate'] >= one_year_ago) & 
+    (df_transformed['InvoiceDate'] <= current_date)
+]
 
-        conn = sqlite3.connect("retail.db")
-        cur = conn.cursor()
+# Export transformed dataset
+df_transformed.to_csv("transformed_retail_dataset.csv", index=False)
+logging.info("Transformed dataset exported as 'transformed_retail_dataset.csv'")
+```
 
-        # Read schema from external SQL file
-        with open("Schema2.sql", "r") as f:
-            schema_sql = f.read()
-        cur.executescript(schema_sql)
+</details>
 
-        # Insert into dimension tables
-        customer_dim = df_transformed[['CustomerID', 'CustomerName', 'Country']].drop_duplicates()
-        customer_dim.to_sql('CustomerDim', conn, if_exists='append', index=False)
+### 1.2.3 Load
 
-        product_dim = df_transformed[['StockCode', 'Description', 'Category']].drop_duplicates()
-        product_dim.to_sql('ProductDim', conn, if_exists='append', index=False)
+**Loading Process:**  
+- Used `sqlite3` in Python to create a database  
+- Loaded data into:
 
-        # Merge keys for fact table
-        cust_keys = pd.read_sql("SELECT CustomerKey, CustomerID FROM CustomerDim", conn)
-        prod_keys = pd.read_sql("SELECT ProductKey, StockCode FROM ProductDim", conn)
-        fact_df = df_transformed.merge(cust_keys, on='CustomerID').merge(prod_keys, on='StockCode')
-        fact_df = fact_df[['InvoiceNo', 'InvoiceDate', 'Quantity', 'UnitPrice', 'CustomerKey', 'ProductKey']]
-        fact_df.to_sql('SalesFact', conn, if_exists='append', index=False)
+  * 1 Fact Table: `SalesFact`  
+  * 3 Dimension Tables: `ProductDim`, `CustomerDim`, `TimeDim`  
 
-        conn.commit()
-        conn.close()
-        logging.info("Data loaded successfully into SQLite database.")
-        logging.info("ETL process completed: only synthetic, transformed, and .db exported.")
+<details>
+<summary>📄 Load Code Snippet</summary>
 
-    except Exception as e:
-        logging.error(f"ETL process failed: {e}")
+```python
+import sqlite3
+import pandas as pd
 
-# ===== Run ETL =====
-if __name__ == "__main__":
-    run_etl_export_only()
+# Connect to SQLite database
+conn = sqlite3.connect("retail.db")
+cur = conn.cursor()
 
-## Key Features
+# Execute external schema
+with open("Schema2.sql", "r") as f:
+    schema_sql = f.read()
+cur.executescript(schema_sql)
 
-- Modular function applicable to any dataset.
-- Performs full ETL by calling a single function: `run_etl_export_only()`.
-- Logs the number of rows processed at each stage.
-- Includes error handling.
+# Insert into dimension tables
+customer_dim = df_transformed[['CustomerID', 'CustomerName', 'Country']].drop_duplicates()
+customer_dim.to_sql('CustomerDim', conn, if_exists='append', index=False)
 
-### Exports
+product_dim = df_transformed[['StockCode', 'Description', 'Category']].drop_duplicates()
+product_dim.to_sql('ProductDim', conn, if_exists='append', index=False)
 
-- **Synthetic dataset:** (put placeholder for path)  
-- **Transformed dataset:** (put placeholder for path)  
-- **SQLite database:** (put placeholder for path)  
+# Merge keys for fact table
+cust_keys = pd.read_sql("SELECT CustomerKey, CustomerID FROM CustomerDim", conn)
+prod_keys = pd.read_sql("SELECT ProductKey, StockCode FROM ProductDim", conn)
 
-### Sample Output
+fact_df = df_transformed.merge(cust_keys, on='CustomerID').merge(prod_keys, on='StockCode')
+fact_df = fact_df[['InvoiceNo', 'InvoiceDate', 'Quantity', 'UnitPrice', 'CustomerKey', 'ProductKey']]
 
+# Load fact table
+fact_df.to_sql('SalesFact', conn, if_exists='append', index=False)
+
+# Commit and close connection
+conn.commit()
+conn.close()
+logging.info("Data loaded successfully into SQLite database.")
+```
+
+</details>
+### 1.2.4 Full ETL Function
+
+**Overview:**  
+- Modular ETL function that can be applied to any dataset  
+- Performs **full ETL** by calling `run_etl_export_only()`  
+- Logs the number of rows processed at each stage  
+- Handles errors gracefully  
+- Exports:
+
+  * Synthetic dataset → `[Path placeholder]`  
+  * Transformed dataset → `[Path placeholder]`  
+  * SQLite database → `[Path placeholder]`  
+
+<details>
+<summary>📄 Example ETL Log Output</summary>
+
+```
 2025-08-14 23:46:38,674 - INFO - Starting ETL process...
 2025-08-14 23:46:38,730 - INFO - Synthetic dataset exported as 'synthetic_retail_dataset.csv'
 2025-08-14 23:46:38,731 - INFO - Rows after extraction: 1000
@@ -206,10 +229,18 @@ if __name__ == "__main__":
 2025-08-14 23:46:38,751 - INFO - Loading data into SQLite database using external schema...
 2025-08-14 23:46:38,994 - INFO - Data loaded successfully into SQLite database.
 2025-08-14 23:46:38,996 - INFO - ETL process completed: only synthetic, transformed, and .db exported.
+```
 
-### Post-load
+</details>
 
-- **Fact and dimension tables** are available at: (put placeholder for path)  
-- **To explore the full ETL process**, visit: (put placeholder for path)
+**Post-load Data:**  
+- Fact and dimension tables can be found at:
+
+  * `[SalesFact path]`  
+  * `[CustomerDim path]`  
+  * `[ProductDim path]`  
+  * `[TimeDim path]`  
+
+**For a deep dive into the ETL process:** `[Path placeholder for full ETL documentation or script]`
 
 
