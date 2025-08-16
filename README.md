@@ -521,4 +521,61 @@ To get the detailed report, visit:
 [Analysis_Report.pdf](Section_2/Task_2_Clustering/Analysis_Report.pdf)
 
 
+## 2.3 Classification and Association Rule Mining
+
+### 2.3.1 Classification
+
+**i.** Train a Decision Tree classifier (scikit-learn) on train set.  
+**→** Predict on test set; compute accuracy, precision, recall, F1-score.
+
+**Decision Tree Metrics:**  
+`{'accuracy': 0.97, 'precision': 0.97, 'recall': 0.97, 'f1_score': 0.97}`
+
+**Classification Report:**
+          precision    recall  f1-score   support
+
+       0       1.00      1.00      1.00        10  
+       1       1.00      0.90      0.95        10  
+       2       0.91      1.00      0.95        10  
+
+accuracy                           0.97        30  
+
+
+**ii.** Visualize the tree (using `plot_tree`)... Max depth = 3 was used to prevent overfitting  
+![Decision Tree - Iris](Section_2/Task_3_Classification_and_Association_Rule_Mining/Visualization/Decision_Tree_Iris.png)
+
+---
+
+### 2.3.2 Compare with another classifier
+
+## Decision Tree vs KNN Performance on Iris Dataset
+
+#### Overall Metrics
+- Both Decision Tree (DT) and KNN achieve **97% accuracy, precision, recall, and F1-score**.  
+- Weighted averages show **similar overall performance**, though class-level differences exist.
+
+---
+
+#### Per-Class Performance
+
+| Class         | DT Recall | KNN Recall | Notes                                                                    |
+|---------------|-----------|------------|--------------------------------------------------------------------------|
+| 0 (Setosa)    | 1.00      | 1.00       | Perfectly separable, both models classify correctly                      |
+| 1 (Versicolor)| 0.90      | 1.00       | DT missed 1 instance; KNN captured all but had minor false positives     |
+| 2 (Virginica) | 1.00      | 0.90       | KNN misclassified 1 boundary point; DT had minor false positives         |
+
+---
+
+#### Reason for Differences
+- **Decision Tree**: global splits → may slightly underfit overlapping classes.  
+- **KNN**: local, distance-based → flexible, captures boundary points better, but sensitive to neighbors.  
+- Differences are minor because **Iris dataset is small and mostly well-separated**, with only a few borderline samples.
+
+---
+
+#### Conclusion
+- Both models perform very well.  
+- DT is interpretable and simple; KNN is flexible and handles subtle boundaries better.  
+- Minor class-level differences are due to how each model handles overlapping feature regions.
+
 
