@@ -254,8 +254,6 @@ Using the Data Warehouse from Task 2:
 
 ### 1.3.1 OLAP-style SQL Queries
 
-<details>
-<summary><strong>i. Roll-up: Total sales by country and quarter</strong></summary>
 
 Aggregates sales at a higher level (quarterly) per country.
 
@@ -273,10 +271,6 @@ ORDER BY c.country, d.quarter;
 
 **Output CSV:** `path/to/rollup_output.csv`
 
-</details>
-
-<details>
-<summary><strong>ii. Drill-down: Sales details for a specific country (UK) by month</strong></summary>
 
 Shows detailed monthly sales per product for a given country.
 
@@ -297,10 +291,6 @@ ORDER BY d.year, d.month, p.name;
 
 **Output CSV:** `path/to/drilldown_output.csv`
 
-</details>
-
-<details>
-<summary><strong>iii. Slice: Total sales for Electronics category</strong></summary>
 
 Filters the fact table to only the Electronics category.
 
@@ -314,7 +304,6 @@ WHERE p.category = 'Electronics';  -- Only Electronics products
 
 **Output CSV:** `path/to/slice_output.csv`
 
-</details>
 
 ### 1.3.2 Visualization
 
