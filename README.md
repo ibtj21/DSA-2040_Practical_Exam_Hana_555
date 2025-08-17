@@ -731,3 +731,89 @@ Output:
 - It can also inform **cross-selling or bundling strategies**: offering promotions like “Buy milk and soda, get a discount on bread” could increase sales of bread.
 - This insight can further guide **inventory management**, ensuring sufficient stock for items that are frequently purchased together.
 
+---
+
+## Tools Used for the project
+
+---
+
+| Section       | Task                                  | Tools / Libraries                                               |
+|---------------|--------------------------------------|-----------------------------------------------------------------|
+| Data Warehousing | Star Schema Design                   | Quick BD / BDDiagram.io / Pen & Paper                          |
+|               | ETL Process Implementation            | Python, pandas, sqlite3, Faker, logging                        |
+|               | OLAP Queries & Analysis               | SQLite, SQL queries, matplotlib, seaborn, pandas               |
+| Data Mining   | Data Preprocessing & Exploration      | Python, pandas, matplotlib, seaborn, scikit-learn              |
+|               | Clustering                            | scikit-learn (KMeans), matplotlib, seaborn                     |
+|               | Classification & Association Rule Mining | scikit-learn (DecisionTreeClassifier, KNeighborsClassifier), mlxtend (for association rules), pandas |
+
+---
+
+## How to Run
+
+---
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/ibtj21/DSA-2040_Practical_Exam_Hana_555.git
+cd DSA-2040_Practical_Exam_Hana_555
+````
+
+---
+
+### 2. Install Required Python Packages
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn mlxtend faker
+```
+
+---
+
+### 3. Running Data Warehousing ETL
+
+1. Navigate to the ETL notebook folder:
+
+   ```bash
+   cd Section_1/Task_2_ETL_Process_Implementation
+   ```
+2. Open `etl_retail.ipynb` in Jupyter Notebook or VS Code and run all cells.
+3. Outputs:
+
+   * `synthetic_retail_dataset.csv` → raw generated dataset
+   * `transformed_retail_dataset.csv` → cleaned & transformed dataset
+   * `retail.db` → SQLite database with fact & dimension tables
+     
+---
+
+### 4. Running OLAP Queries
+
+1. Open `OLAP_Queries.sql` in SQLite or any SQL client.
+2. Execute queries to get outputs in `OLAP_Queries_output_csv`.
+3. Visualizations are available as images, e.g., `Bar_Chart_of_Sales_by_Country.jpg`.
+
+---
+
+### 5. Running Data Mining Tasks
+
+1. Navigate to the Section 2 folder:
+
+   ```bash
+   cd Section_2
+   ```
+2. Run notebooks in order:
+
+   * `preprocessing_iris.ipynb` → cleans and explores the Iris dataset
+   * `clustering_iris.ipynb` → performs K-Means clustering
+   * `mining_iris_basket.ipynb` → classification (Decision Tree & KNN) and association rule mining
+3. Check output CSVs and visualization folders for results.
+
+---
+
+### 6. Optional: Quick Start Script
+
+If you want to run all tasks automatically, you can create a Python script (`run_all.py`) in the root folder with commands to execute ETL, OLAP queries, and Data Mining notebooks sequentially. Then run:
+
+```bash
+python run_all.py
+```
+
