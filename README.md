@@ -477,7 +477,7 @@ X_train, X_test, y_train, y_test = split_train_test(df_no_outliers, feature_cols
 
 Train samples: 116  
 Test samples: 30
-
+---
 ## 2.2 Clustering  
 **Preprocessed Data from Task 1 was Used.**
 
