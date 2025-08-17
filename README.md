@@ -33,6 +33,7 @@ DSA\_2040\_Practical\_Exam\_Hana\_555/
 │  ├─ Task\_2\_ETL\_Process\_Implementation
 │  │  ├─ Datasets
 │  │  ├─ PostLoad\_Fact\_and\_Dimension\_tables
+│  │  ├─ PostLoad\_Post_load_screenshoots
 │  │  ├─ etl\_retail.ipynb
 │  │  ├─ retail.db
 │  ├─ Task\_3\_OLAP\_Queries\_and\_Analysis
@@ -57,6 +58,7 @@ DSA\_2040\_Practical\_Exam\_Hana\_555/
 │     ├─ mining\_iris\_basket.ipynb
 ├─ .gitignore
 ├─ Debugging\_Notes.pdf
+├─ Self_Assesment
 ├─ LICENSE
 └──README.md
 ```
@@ -276,7 +278,25 @@ logging.info("Data loaded successfully into SQLite database.")
 
 Here are some screenshots of outputs after running the ETL process:
 
-![SalesFact](Section_1/Task_2_ETL_Process_Implementation/Post_load_screenshoots/SalesFact.jpg)
+---
+### SalesFact
+
+![SalesFact](Section_1/Task_2_ETL_Process%20_Implementation/Post_load_screenshoots/SalesFact.jpg)
+
+---
+### CustomerDim
+
+![CustomerDim](Section_1/Task_2_ETL_Process%20_Implementation/Post_load_screenshoots/CustomerDim.jpg)  
+
+---
+
+### TimeDim
+---
+![TimeDim](Section_1/Task_2_ETL_Process%20_Implementation/Post_load_screenshoots/TimeDim.jpg) 
+
+### ProductDim
+---
+![ProductDim](Section_1/Task_2_ETL_Process%20_Implementation/Post_load_screenshoots/ProductDim.jpg)
 
 ---
 **For a deep dive into the ETL process:** [etl_retail.ipynb](Section_1/Task_2_ETL_Process%20_Implementation/etl_retail.ipynb)
