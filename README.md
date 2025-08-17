@@ -22,25 +22,43 @@ This repository contains the complete submission for the DSA 2040 end-semester p
 - **Synthetic Transactional Data:** Created for association rule mining.  
 
 ---
-
-## Folder Structure
+## Repository Structure
 
 DSA_2040_Practical_Exam_Hana_555/
-Section_1├─
-Section_2├─
-├─ `etl_retail.py`          - ETL implementation for retail DW  
-├─ `retail_dw.db`           - SQLite database (fact & dimension tables)  
-├─ `preprocessing_iris.py`  - Iris preprocessing, exploration  
-├─ `clustering_iris.py`     - K-Means clustering implementation  
-├─ `classification_iris.py` - Classification and rule mining  
-├─ `sql_queries.sql`        - OLAP and other SQL queries  
-├─ `images/`                - Visualizations and schema diagrams  
-│   ├─ `schema.png`  
-│   ├─ `sales_by_country.png`  
-│   ├─ `pairplot_iris.png`  
-│   └─ `clusters.png`  
-└─ `README.md`
-
+├─ Section_1
+│ ├─ Task_1_Data_Warehouse_Design
+│ │ ├─ Schema_diagram.png
+│ │ ├─ Schema_retail.sql
+│ ├─ Task_2_ETL_Process_Implementation
+│ │ ├─ Datasets
+│ │ ├─ PostLoad_Fact_and_Dimension_tables
+│ │ ├─ etl_retail.ipynb
+│ │ ├─ retail.db
+│ ├─ Task_3_OLAP_Queries_and_Analysis
+│ ├─ OLAP_Queries_output_csv
+│ ├─ Bar_Chart_of_Sales_by_Country.jpg
+│ ├─ OLAP_Queries.sql
+│ ├─ OLAP_Queries_Analysis_Report.pdf
+├─ Section_2
+│ ├─ Task_1_Data_Preprocessing_and_Exploration
+│ │ ├─ Screenshots
+│ │ ├─ Visualizations
+│ │ ├─ preprocessing_iris.ipynb
+│ │ ├─ iris_preprocessed.csv
+│ ├─ Task_2_Clustering
+│ │ ├─ Visualizations
+│ │ ├─ Analysis_Report.pdf
+│ │ ├─ clustering_iris.ipynb
+│ ├─ Task_3_Classification_and_Association_Rule_Mining
+│ ├─ Screenshots
+│ ├─ Visualizations
+│ ├─ Generated_transactions.csv
+│ ├─ mining_iris_basket.ipynb
+├─ .gitignore
+├─ Debugging_Notes.pdf
+├─ LICENSE
+├─ README.md
+             
 ---
 # 1. Data Warehousing
 ---
