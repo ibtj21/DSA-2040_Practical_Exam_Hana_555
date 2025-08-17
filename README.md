@@ -51,6 +51,8 @@ Section_2├─
 **Requirements:**  
 - Support queries like total sales by product category per quarter, customer demographics analysis, and inventory trends.
 
+---
+
 ### 1.1.1 Star Schema Design
 
 **Fact Table:** `Sales`  
