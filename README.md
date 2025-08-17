@@ -485,13 +485,53 @@ Using modular functions ensures clean, reusable, and maintainable code throughou
 
 ---
 
-### 2.2.1 Apply K-Means Clustering (from scikit-learn) with k = 3  
-i. Fit the model on features (exclude class)  
-ii. Predict clusters and compare with actual classes using Adjusted Rand Index (ARI)  
+### 2.2.1 Apply K-Means Clustering (k = 3)
+
+#### i. Fit the Model on Features (Exclude Class)
+
+```python
+from sklearn.cluster import KMeans
+from sklearn.metrics import adjusted_rand_score
+
+def kmeans_clustering_evaluate(X, y_true, k=3):
+    # Initialize KMeans with specified number of clusters and random seed
+    kmeans = KMeans(n_clusters=k, random_state=42)
+    
+    # Fit the model to the feature data
+    kmeans.fit(X)
+    
+    # Get the cluster labels assigned by KMeans
+    clusters = kmeans.labels_
+    
+    # Evaluate clustering using Adjusted Rand Index (compares predicted clusters with true labels)
+    ari = adjusted_rand_score(y_true, clusters)
+    
+    # Return the cluster labels, ARI score, and the fitted KMeans model
+    return clusters, ari, kmeans 
+
+# Perform KMeans clustering on the data and evaluate with ARI
+clusters, ari, kmeans_model = kmeans_clustering_evaluate(X, y_true, k=3)
+
+# Print the ARI score with 4 decimal places
+print(f"Adjusted Rand Index (ARI) for k=3: {ari:.4f}")
+```
+
+ii. Predict clusters and compare with actual classes using Adjusted Rand Index (ARI)
 
 **Adjusted Rand Index (ARI) for k = 3:** 0.7163  
 This indicates a strong alignment between predicted clusters and true labels, with some overlap, particularly between Versicolor and Virginica.
 
+### Contingency Table (True vs Predicted)
+
+| True | 0  | 1  | 2  |  
+|------|----|----|----|  
+| 0    | 0  | 50 | 0  |  
+| 1    | 3  | 0  | 47 |  
+| 2    | 36 | 0  | 14 |  
+
+- Cluster 1 perfectly captured species 0 (Setosa).  
+- Species 1 (Versicolor) mostly went to Cluster 2, with 3 misclassified as Cluster 0.  
+- Species 2 (Virginica) is split across Clusters 0 and 2, showing significant overlap with Versicolor.  
 ---
 
 ### 2.2.2 Experiment: Try k = 2 and k = 4; plot elbow curve to justify optimal k.
