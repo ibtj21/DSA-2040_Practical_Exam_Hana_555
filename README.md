@@ -270,7 +270,15 @@ logging.info("Data loaded successfully into SQLite database.")
 
  * TimeDim → [TimeDim.csv](https://github.com/ibtj21/DSA-2040_Practical_Exam_Hana_555/blob/main/Section_1/Task_2_ETL_Process%20_Implementation/PostLoad_Fact_and_Dimention_tables/TimeDim.csv)
 
+---
 
+## **Post-load Screenshots for Verification:**
+
+Here are some screenshots of outputs after running the ETL process:
+
+![SalesFact](Section_1/Task_2_ETL_Process_Implementation/Post_load_screenshoots/SalesFact.jpg)
+
+---
 **For a deep dive into the ETL process:** [etl_retail.ipynb](Section_1/Task_2_ETL_Process%20_Implementation/etl_retail.ipynb)
 
 ---
