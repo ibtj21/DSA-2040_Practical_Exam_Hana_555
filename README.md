@@ -21,45 +21,48 @@ This repository contains the complete submission for the DSA 2040 end-semester p
 - **Iris Dataset:** Loaded from scikit-learn.  
 - **Synthetic Transactional Data:** Created for association rule mining.
   
----
+```markdown
 ## Repository Structure
 
-- DSA_2040_Practical_Exam_Hana_555/
-  - Section_1
-    - Task_1_Data_Warehouse_Design
-      - Schema_diagram.png
-      - Schema_retail.sql
-    - Task_2_ETL_Process_Implementation
-      - Datasets
-      - PostLoad_Fact_and_Dimension_tables
-      - etl_retail.ipynb
-      - retail.db
-    - Task_3_OLAP_Queries_and_Analysis
-      - OLAP_Queries_output_csv
-      - Bar_Chart_of_Sales_by_Country.jpg
-      - OLAP_Queries.sql
-      - OLAP_Queries_Analysis_Report.pdf
-  - Section_2
-    - Task_1_Data_Preprocessing_and_Exploration
-      - Screenshots
-      - Visualizations
-      - preprocessing_iris.ipynb
-      - iris_preprocessed.csv
-    - Task_2_Clustering
-      - Visualizations
-      - Analysis_Report.pdf
-      - clustering_iris.ipynb
-    - Task_3_Classification_and_Association_Rule_Mining
-      - Screenshots
-      - Visualizations
-      - Generated_transactions.csv
-      - mining_iris_basket.ipynb
-- .gitignore
-- Debugging_Notes.pdf
-- LICENSE
-- README.md
-            
----
+```
+
+DSA\_2040\_Practical\_Exam\_Hana\_555/
+├─ Section\_1
+│  ├─ Task\_1\_Data\_Warehouse\_Design
+│  │  ├─ Schema\_diagram.png
+│  │  ├─ Schema\_retail.sql
+│  ├─ Task\_2\_ETL\_Process\_Implementation
+│  │  ├─ Datasets
+│  │  ├─ PostLoad\_Fact\_and\_Dimension\_tables
+│  │  ├─ etl\_retail.ipynb
+│  │  ├─ retail.db
+│  ├─ Task\_3\_OLAP\_Queries\_and\_Analysis
+│     ├─ OLAP\_Queries\_output\_csv
+│     ├─ Bar\_Chart\_of\_Sales\_by\_Country.jpg
+│     ├─ OLAP\_Queries.sql
+│     ├─ OLAP\_Queries\_Analysis\_Report.pdf
+├─ Section\_2
+│  ├─ Task\_1\_Data\_Preprocessing\_and\_Exploration
+│  │  ├─ Screenshots
+│  │  ├─ Visualizations
+│  │  ├─ preprocessing\_iris.ipynb
+│  │  ├─ iris\_preprocessed.csv
+│  ├─ Task\_2\_Clustering
+│  │  ├─ Visualizations
+│  │  ├─ Analysis\_Report.pdf
+│  │  ├─ clustering\_iris.ipynb
+│  ├─ Task\_3\_Classification\_and\_Association\_Rule\_Mining
+│     ├─ Screenshots
+│     ├─ Visualizations
+│     ├─ Generated\_transactions.csv
+│     ├─ mining\_iris\_basket.ipynb
+├─ .gitignore
+├─ Debugging\_Notes.pdf
+├─ LICENSE
+├─ README.md
+
+```
+```
 # 1. Data Warehousing
 ---
 ## 1.1 Design of a Star Schema for a Retail Company
