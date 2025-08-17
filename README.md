@@ -41,9 +41,9 @@ Section_2├─
 │   └─ `clusters.png`  
 └─ `README.md`
 
-
+---
 # 1. Data Warehousing
-
+---
 ## 1.1 Design of a Star Schema for a Retail Company
 
 **Scenario:** Designing a data warehouse for a retail company that sells products across categories. The company tracks sales, customers, products, and time.  
@@ -65,16 +65,18 @@ Section_2├─
 **Schema Diagram:**  
 ![Star Schema Diagram](Section_1/Task_1_Data_Warehouse_Design/Schema_diagram.png)
 
+---
 ### 1.1.2 Explanation for Choosing Star Schema Over Snowflake
 
 The star schema was chosen because it simplifies queries and improves query performance by denormalizing dimension tables. It is easier for business analysts to understand and use for reporting, as all relevant dimension attributes are in single tables.  
 
+---
 ### 1.1.3 SQL CREATE TABLE Statements
 
 The SQL `CREATE TABLE` statements for the fact and dimension tables (assuming SQLite syntax) can be found in:  
 [Schema_retail.sql](Section_1/Task_1_Data_Warehouse_Design/Schema_retail.sql)
 
-
+---
 ## 1.2 ETL Process Implementation
 
 **Dataset:** Synthetic data designed to mimic the structure and scale of the target dataset with similar columns:  
@@ -120,13 +122,14 @@ df_synthetic.to_csv("synthetic_retail_dataset.csv", index=False)
 logging.info("Synthetic dataset exported as 'synthetic_retail_dataset.csv'")
 ```
 
+---
+
 ### 1.2.2 Transform
 
 **Transformations Applied:**  
 - Added a new column: `TotalSales = Quantity * UnitPrice`  
 - Filtered data for sales in the last year (assuming current date = 2025-08-12)  
 - Handled outliers by removing rows where `Quantity <= 0` or `UnitPrice <= 0`  
-
 
 ```python
 # Calculate total sales
@@ -148,7 +151,7 @@ df_transformed = df_transformed[
 df_transformed.to_csv("transformed_retail_dataset.csv", index=False)
 logging.info("Transformed dataset exported as 'transformed_retail_dataset.csv'")
 ```
-
+---
 
 ### 1.2.3 Load
 
@@ -195,8 +198,7 @@ conn.commit()
 conn.close()
 logging.info("Data loaded successfully into SQLite database.")
 ```
-
-
+---
 
 ### 1.2.4 Full ETL Function
 
@@ -213,6 +215,8 @@ logging.info("Data loaded successfully into SQLite database.")
   
   **SQLite database** → [retail_db](Section_1/Task_2_ETL_Process%20_Implementation/Datasets/retail_db)
 
+---
+
 **ETL Log Output**
 
 ```
@@ -225,11 +229,9 @@ logging.info("Data loaded successfully into SQLite database.")
 2025-08-14 23:46:38,994 - INFO - Data loaded successfully into SQLite database.
 2025-08-14 23:46:38,996 - INFO - ETL process completed: only synthetic, transformed, and .db exported.
 ```
+---
 
-
-
-
-**Post-load Data:**  
+## **Post-load Data:**  
 
 - Fact and dimension tables can be found at:
 
@@ -244,8 +246,7 @@ logging.info("Data loaded successfully into SQLite database.")
 
 **For a deep dive into the ETL process:** [etl_retail.ipynb](Section_1/Task_2_ETL_Process%20_Implementation/etl_retail.ipynb)
 
-
-
+---
 
 ## 1.3 OLAP Queries and Analysis
 
@@ -270,7 +271,7 @@ ORDER BY c.country, d.quarter;
 
 **Output CSV:** [Total Sales by Country and Quarter](Section_1/Task_3_OLAP_%20Queries_and_Analysis/OLAP_Queries_output_csv/TotalSalesByCountryQuarter.csv)
 
-
+---
 
 **ii. Drill-down: Sales details for a specific country (UK) by month**
 
@@ -292,6 +293,7 @@ ORDER BY d.year, d.month, p.name;
 
 **Output CSV:** [UK Monthly Sales](Section_1/Task_3_OLAP_%20Queries_and_Analysis/OLAP_Queries_output_csv/uk_monthly_sales.csv)
 
+---
 
 
 **iii. Slice: Total sales for Electronics category**
@@ -306,13 +308,14 @@ WHERE p.category = 'Electronics';  -- Only Electronics products
 
 **Output CSV:** [Total Sales Electronics](Section_1/Task_3_OLAP_%20Queries_and_Analysis/OLAP_Queries_output_csv/TotalSales_Electronics.csv)
 
-
+---
 
 ### 1.3.2 Visualization
 
 **A bar chart of sales by country using Matplotlib was created.**
 ![Bar Chart of Sales by Country](Section_1/Task_3_OLAP_%20Queries_and_Analysis/Bar_Chart_of_Sales_by_Country.jpg)
 
+---
 
 ### 1.3.3 Analysis of Results
 
@@ -331,6 +334,7 @@ This report summarizes the results of OLAP queries performed on the sales data w
 For a more comprehensive query analysis report, visit:  
 [OLAP Queries Analysis Report](Section_1/Task_3_OLAP_%20Queries_and_Analysis/OLAP_Queries_Analysis_Report.pdf)
 
+---
 
 # 2 Data Mining
 
