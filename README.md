@@ -19,39 +19,39 @@ This repository contains the complete submission for the DSA 2040 end-semester p
 ## Datasets
 - **Retail Dataset:** Generated synthetic data (~1000 rows) resembling the UCI Online Retail dataset.  
 - **Iris Dataset:** Loaded from scikit-learn.  
-- **Synthetic Transactional Data:** Created for association rule mining.  
-
+- **Synthetic Transactional Data:** Created for association rule mining.
+  
 ---
 ## Repository Structure
-
+---
 DSA_2040_Practical_Exam_Hana_555/
 ├─ Section_1
-│ ├─ Task_1_Data_Warehouse_Design
+│ ├─ Task_1_Data_Warehouse_Design/
 │ │ ├─ Schema_diagram.png
 │ │ ├─ Schema_retail.sql
-│ ├─ Task_2_ETL_Process_Implementation
-│ │ ├─ Datasets
-│ │ ├─ PostLoad_Fact_and_Dimension_tables
+│ ├─ Task_2_ETL_Process_Implementation/
+│ │ ├─ Datasets/
+│ │ ├─ PostLoad_Fact_and_Dimension_tables/
 │ │ ├─ etl_retail.ipynb
 │ │ ├─ retail.db
-│ ├─ Task_3_OLAP_Queries_and_Analysis
-│ ├─ OLAP_Queries_output_csv
+│ ├─ Task_3_OLAP_Queries_and_Analysis/
+│ ├─ OLAP_Queries_output_csv/
 │ ├─ Bar_Chart_of_Sales_by_Country.jpg
 │ ├─ OLAP_Queries.sql
 │ ├─ OLAP_Queries_Analysis_Report.pdf
 ├─ Section_2
-│ ├─ Task_1_Data_Preprocessing_and_Exploration
-│ │ ├─ Screenshots
-│ │ ├─ Visualizations
+│ ├─ Task_1_Data_Preprocessing_and_Exploration/
+│ │ ├─ Screenshots/
+│ │ ├─ Visualizations/
 │ │ ├─ preprocessing_iris.ipynb
 │ │ ├─ iris_preprocessed.csv
-│ ├─ Task_2_Clustering
-│ │ ├─ Visualizations
+│ ├─ Task_2_Clustering/
+│ │ ├─ Visualizations/
 │ │ ├─ Analysis_Report.pdf
 │ │ ├─ clustering_iris.ipynb
-│ ├─ Task_3_Classification_and_Association_Rule_Mining
-│ ├─ Screenshots
-│ ├─ Visualizations
+│ ├─ Task_3_Classification_and_Association_Rule_Mining/
+│ ├─ Screenshots/
+│ ├─ Visualizations/
 │ ├─ Generated_transactions.csv
 │ ├─ mining_iris_basket.ipynb
 ├─ .gitignore
