@@ -59,7 +59,12 @@ DSA\_2040\_Practical\_Exam\_Hana\_555/
 ├─ Debugging\_Notes.pdf
 ├─ LICENSE
 └──README.md
-``` 
+```
+
+## Self-Assessment
+
+![Self-Assessment](./Self_Assesment/Self_Assessment.jpg)
+
 ---
 
 # 1. Data Warehousing
