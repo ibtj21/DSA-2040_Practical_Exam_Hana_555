@@ -411,17 +411,24 @@ The modular function `check_missing_values()` was used.
 
 ![Summary Statistics](Section_2/Task_1_Data_Preprocessing_and_Exploration/Screenshoots/Summary_statistics.jpg)
 
+---
+
 **ii. Visualize: Pairplot (using Seaborn) and Correlation Heatmap**
+
+---
 
 - **Pairplot**
   
   ![Pair Plot - Iris](Section_2/Task_1_Data_Preprocessing_and_Exploration/visualizations/Pair_plot_Iris.png)
+
+---
 
 - **Correlation Heatmap**
 
   
  ![Correlation Heatmap - Iris](Section_2/Task_1_Data_Preprocessing_and_Exploration/visualizations/Corelation_Matrix_Iris.png)
  
+---
 
 **iii. Identify any potential outliers using boxplots**  
 
