@@ -21,11 +21,10 @@ This repository contains the complete submission for the DSA 2040 end-semester p
 - **Iris Dataset:** Loaded from scikit-learn.  
 - **Synthetic Transactional Data:** Created for association rule mining.
   
-```markdown
+
 ## Repository Structure
 
 ```
-
 DSA\_2040\_Practical\_Exam\_Hana\_555/
 ├─ Section\_1
 │  ├─ Task\_1\_Data\_Warehouse\_Design
@@ -59,10 +58,10 @@ DSA\_2040\_Practical\_Exam\_Hana\_555/
 ├─ .gitignore
 ├─ Debugging\_Notes.pdf
 ├─ LICENSE
-├─ README.md
+└──README.md
+``` 
+---
 
-```
-```
 # 1. Data Warehousing
 ---
 ## 1.1 Design of a Star Schema for a Retail Company
