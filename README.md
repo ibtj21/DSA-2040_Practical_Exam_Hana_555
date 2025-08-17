@@ -57,8 +57,7 @@ DSA_2040_Practical_Exam_Hana_555/
 ├─ .gitignore
 ├─ Debugging_Notes.pdf
 ├─ LICENSE
-├─ README.md
-             
+├─ README.md             
 ---
 # 1. Data Warehousing
 ---
